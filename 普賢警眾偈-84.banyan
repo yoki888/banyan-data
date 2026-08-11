@@ -1,0 +1,365 @@
+{
+ "title": "普賢警眾偈",
+ "subtitle": "暮時課誦　書頁 84　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "是",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "日",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "已",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "過",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "命",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "亦",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "隨",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "減",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "如",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "少",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "水",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "魚",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "斯",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "有",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "何",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "樂",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "大",
+     "marks": [
+      "na",
+      "ringHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "眾",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "當",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "勤",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "精",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "進",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "如",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "救",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "頭",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "然",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "但",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "念",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "常",
+     "marks": [
+      "ringHalf",
+      "na",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "慎",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "勿",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "放",
+     "marks": []
+    },
+    {
+     "text": "逸",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "大",
+     "marks": []
+    },
+    {
+     "text": "眾",
+     "marks": []
+    },
+    {
+     "text": "字",
+     "marks": []
+    },
+    {
+     "text": "僅",
+     "marks": []
+    },
+    {
+     "text": "維",
+     "marks": []
+    },
+    {
+     "text": "那",
+     "marks": []
+    },
+    {
+     "text": "人",
+     "marks": []
+    },
+    {
+     "text": "唱",
+     "marks": []
+    },
+    {
+     "text": "古",
+     "marks": []
+    },
+    {
+     "text": "古",
+     "marks": []
+    },
+    {
+     "text": "古",
+     "marks": []
+    },
+    {
+     "text": "接",
+     "marks": []
+    },
+    {
+     "text": "拜",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "願",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "na"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "title": "韋馱讚",
+ "subtitle": "朝時課誦　書頁 40　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "韋",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "馱",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "天",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "將",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "化",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "身",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "擁",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "護",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "誓",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "弘",
+     "marks": [
+      "ring2",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "深",
+     "marks": [
+      "ring1",
+      "dashHalf",
+      "ring1",
+      "dashHalf",
+      "dashHalf",
+      "ring1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "寶",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "杵",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "鎮",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "魔",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "軍",
+     "marks": [
+      "ring1",
+      "dash1",
+      "ring2",
+      "dashHalf",
+      "dashHalf",
+      "ring1",
+      "dashHalf",
+      "ring1",
+      "dashHalf",
+      "dashHalf",
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "功",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "德",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "難",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "倫",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "祈",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "禱",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "副",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "群",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "心",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "title": "稽首皈依阿彌陀・浴佛讚・九龍吐水",
+ "subtitle": "其它讚語　書頁 174　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "稽",
+     "marks": []
+    },
+    {
+     "text": "首",
+     "marks": []
+    },
+    {
+     "text": "皈",
+     "marks": []
+    },
+    {
+     "text": "依",
+     "marks": []
+    },
+    {
+     "text": "阿",
+     "marks": []
+    },
+    {
+     "text": "彌",
+     "marks": []
+    },
+    {
+     "text": "陀",
+     "marks": []
+    },
+    {
+     "text": "誓",
+     "marks": []
+    },
+    {
+     "text": "願",
+     "marks": []
+    },
+    {
+     "text": "宏",
+     "marks": []
+    },
+    {
+     "text": "波",
+     "marks": []
+    },
+    {
+     "text": "捄",
+     "marks": []
+    },
+    {
+     "text": "度",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "眾",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
+     "text": "出",
+     "marks": []
+    },
+    {
+     "text": "愛",
+     "marks": []
+    },
+    {
+     "text": "河",
+     "marks": []
+    },
+    {
+     "text": "免",
+     "marks": []
+    },
+    {
+     "text": "見",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "九",
+     "marks": []
+    },
+    {
+     "text": "龍",
+     "marks": []
+    },
+    {
+     "text": "吐",
+     "marks": []
+    },
+    {
+     "text": "水",
+     "marks": []
+    },
+    {
+     "text": "沐",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "浴",
+     "marks": []
+    },
+    {
+     "text": "金",
+     "marks": []
+    },
+    {
+     "text": "身",
+     "marks": []
+    },
+    {
+     "text": "天",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "上",
+     "marks": []
+    },
+    {
+     "text": "天",
+     "marks": []
+    },
+    {
+     "text": "下",
+     "marks": []
+    },
+    {
+     "text": "獨",
+     "marks": []
+    },
+    {
+     "text": "為",
+     "marks": []
+    },
+    {
+     "text": "尊",
+     "marks": []
+    },
+    {
+     "text": "七",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "步",
+     "marks": []
+    },
+    {
+     "text": "寶",
+     "marks": []
+    },
+    {
+     "text": "蓮",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "菩",
+     "marks": []
+    },
+    {
+     "text": "薩",
+     "marks": []
+    },
+    {
+     "text": "下",
+     "marks": []
+    },
+    {
+     "text": "雲",
+     "marks": []
+    },
+    {
+     "text": "中",
+     "marks": []
+    },
+    {
+     "text": "降",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
+     "text": "淨",
+     "marks": []
+    },
+    {
+     "text": "梵",
+     "marks": []
+    },
+    {
+     "text": "王",
+     "marks": []
+    },
+    {
+     "text": "宮",
+     "marks": []
+    },
+    {
+     "text": "摩",
+     "marks": []
+    },
+    {
+     "text": "耶",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "右",
+     "marks": []
+    },
+    {
+     "text": "脇",
+     "marks": []
+    },
+    {
+     "text": "娩",
+     "marks": []
+    },
+    {
+     "text": "金",
+     "marks": []
+    },
+    {
+     "text": "童",
+     "marks": []
+    },
+    {
+     "text": "天",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "樂",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "沐",
+     "marks": []
+    },
+    {
+     "text": "慈",
+     "marks": []
+    },
+    {
+     "text": "容",
+     "marks": []
+    },
+    {
+     "text": "萬",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "得",
+     "marks": []
+    },
+    {
+     "text": "正",
+     "marks": []
+    },
+    {
+     "text": "宗",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "重",
+     "marks": []
+    },
+    {
+     "text": "二",
+     "marks": []
+    },
+    {
+     "text": "句",
+     "marks": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "title": "徹悟禪師示眾",
+ "subtitle": "附錄　書頁 211–213　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "愛",
+     "marks": []
+    },
+    {
+     "text": "河",
+     "marks": []
+    },
+    {
+     "text": "千",
+     "marks": []
+    },
+    {
+     "text": "尺",
+     "marks": []
+    },
+    {
+     "text": "浪",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "苦",
+     "marks": []
+    },
+    {
+     "text": "海",
+     "marks": []
+    },
+    {
+     "text": "萬",
+     "marks": []
+    },
+    {
+     "text": "重",
+     "marks": []
+    },
+    {
+     "text": "波",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "欲",
+     "marks": []
+    },
+    {
+     "text": "免",
+     "marks": []
+    },
+    {
+     "text": "輪",
+     "marks": []
+    },
+    {
+     "text": "迴",
+     "marks": []
+    },
+    {
+     "text": "苦",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "大",
+     "marks": []
+    },
+    {
+     "text": "眾",
+     "marks": []
+    },
+    {
+     "text": "念",
+     "marks": []
+    },
+    {
+     "text": "彌",
+     "marks": []
+    },
+    {
+     "text": "陀",
+     "marks": [
+      "ringHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "千",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "花",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "臺",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "上",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "盧",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "舍",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "那",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "者",
+     "marks": []
+    }
+   ]
+  }
+ ]
+}

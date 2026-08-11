@@ -1,0 +1,636 @@
+{
+ "title": "精進佛七儀規",
+ "subtitle": "精進佛七儀規　書頁 149–151　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "粉",
+     "marks": []
+    },
+    {
+     "text": "進",
+     "marks": []
+    },
+    {
+     "text": "停",
+     "marks": []
+    },
+    {
+     "text": "十",
+     "marks": []
+    },
+    {
+     "text": "但",
+     "marks": []
+    },
+    {
+     "text": "书",
+     "marks": []
+    },
+    {
+     "text": "念",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "謝",
+     "marks": [
+      "daqing"
+     ]
+    },
+    {
+     "text": "自",
+     "marks": []
+    },
+    {
+     "text": "儀",
+     "marks": []
+    },
+    {
+     "text": "規",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "七",
+     "marks": []
+    },
+    {
+     "text": "精",
+     "marks": []
+    },
+    {
+     "text": "進",
+     "marks": []
+    },
+    {
+     "text": "期",
+     "marks": []
+    },
+    {
+     "text": "中",
+     "marks": []
+    },
+    {
+     "text": "不",
+     "marks": []
+    },
+    {
+     "text": "上",
+     "marks": []
+    },
+    {
+     "text": "殿",
+     "marks": []
+    },
+    {
+     "text": "不",
+     "marks": []
+    },
+    {
+     "text": "上",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "每",
+     "marks": []
+    },
+    {
+     "text": "日",
+     "marks": []
+    },
+    {
+     "text": "早",
+     "marks": []
+    },
+    {
+     "text": "課",
+     "marks": []
+    },
+    {
+     "text": "加",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "枝",
+     "marks": []
+    },
+    {
+     "text": "夜",
+     "marks": []
+    },
+    {
+     "text": "間",
+     "marks": [
+      "dashHalf",
+      "dashHalf",
+      "ring1"
+     ]
+    },
+    {
+     "text": "延",
+     "marks": []
+    },
+    {
+     "text": "長",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "小",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "數",
+     "marks": []
+    },
+    {
+     "text": "師",
+     "marks": []
+    },
+    {
+     "text": "行",
+     "marks": []
+    },
+    {
+     "text": "之",
+     "marks": []
+    },
+    {
+     "text": "齋",
+     "marks": []
+    },
+    {
+     "text": "主",
+     "marks": []
+    },
+    {
+     "text": "之",
+     "marks": []
+    },
+    {
+     "text": "普",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": []
+    },
+    {
+     "text": "亦",
+     "marks": []
+    },
+    {
+     "text": "由",
+     "marks": []
+    },
+    {
+     "text": "外",
+     "marks": []
+    },
+    {
+     "text": "寮",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "用",
+     "marks": []
+    },
+    {
+     "text": "功",
+     "marks": []
+    },
+    {
+     "text": "方",
+     "marks": []
+    },
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "晚",
+     "marks": []
+    },
+    {
+     "text": "上",
+     "marks": []
+    },
+    {
+     "text": "第",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "枝",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "止",
+     "marks": []
+    },
+    {
+     "text": "靜",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "斥",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "或",
+     "marks": []
+    },
+    {
+     "text": "罰",
+     "marks": []
+    },
+    {
+     "text": "跪",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "事",
+     "marks": []
+    },
+    {
+     "text": "已",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "板",
+     "marks": []
+    },
+    {
+     "text": "押",
+     "marks": []
+    },
+    {
+     "text": "後",
+     "marks": []
+    },
+    {
+     "text": "回",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "由",
+     "marks": []
+    },
+    {
+     "text": "和",
+     "marks": []
+    },
+    {
+     "text": "尚",
+     "marks": []
+    },
+    {
+     "text": "開",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "導",
+     "marks": []
+    },
+    {
+     "text": "上",
+     "marks": []
+    },
+    {
+     "text": "午",
+     "marks": []
+    },
+    {
+     "text": "第",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "枝",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "第",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "堂",
+     "marks": []
+    },
+    {
+     "text": "精",
+     "marks": []
+    },
+    {
+     "text": "進",
+     "marks": []
+    },
+    {
+     "text": "期",
+     "marks": []
+    },
+    {
+     "text": "中",
+     "marks": []
+    },
+    {
+     "text": "除",
+     "marks": []
+    },
+    {
+     "text": "每",
+     "marks": []
+    },
+    {
+     "text": "日",
+     "marks": []
+    },
+    {
+     "text": "受",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": []
+    },
+    {
+     "text": "外",
+     "marks": []
+    },
+    {
+     "text": "不",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "首",
+     "marks": []
+    },
+    {
+     "text": "或",
+     "marks": []
+    },
+    {
+     "text": "維",
+     "marks": []
+    },
+    {
+     "text": "那",
+     "marks": []
+    },
+    {
+     "text": "以",
+     "marks": []
+    },
+    {
+     "text": "規",
+     "marks": []
+    },
+    {
+     "text": "矩",
+     "marks": []
+    },
+    {
+     "text": "及",
+     "marks": []
+    },
+    {
+     "text": "警",
+     "marks": []
+    },
+    {
+     "text": "策",
+     "marks": []
+    },
+    {
+     "text": "用",
+     "marks": []
+    },
+    {
+     "text": "簡",
+     "marks": []
+    },
+    {
+     "text": "每",
+     "marks": []
+    },
+    {
+     "text": "日",
+     "marks": []
+    },
+    {
+     "text": "功",
+     "marks": []
+    },
+    {
+     "text": "課",
+     "marks": []
+    },
+    {
+     "text": "起",
+     "marks": []
+    },
+    {
+     "text": "止",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "間",
+     "marks": []
+    },
+    {
+     "text": "早",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "下",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  }
+ ]
+}

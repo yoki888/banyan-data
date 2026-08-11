@@ -1,0 +1,762 @@
+{
+ "title": "善女天咒",
+ "subtitle": "朝時課誦　書頁 39–40　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "陀",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "達",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "僧",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "伽",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "室",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "利",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "提",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "鼻",
+     "marks": []
+    },
+    {
+     "text": "耶",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "怛",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "你",
+     "marks": []
+    },
+    {
+     "text": "也",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "他",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "波",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "利",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "富",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "樓",
+     "marks": []
+    },
+    {
+     "text": "那",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "遮",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "利",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "曼",
+     "marks": []
+    },
+    {
+     "text": "陀",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "達",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "舍",
+     "marks": []
+    },
+    {
+     "text": "尼",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ringHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "毗",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "伽",
+     "marks": []
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "曼",
+     "marks": []
+    },
+    {
+     "text": "陀",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "毗",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "尼",
+     "marks": []
+    },
+    {
+     "text": "伽",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "河",
+     "marks": []
+    },
+    {
+     "text": "迦",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "利",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "野",
+     "marks": []
+    },
+    {
+     "text": "波",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "濔",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "波",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "羅",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "波",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "濔",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "利",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "縛",
+     "marks": []
+    },
+    {
+     "text": "栗",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "他",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "曼",
+     "marks": []
+    },
+    {
+     "text": "陀",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "修",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "鉢",
+     "marks": []
+    },
+    {
+     "text": "犁",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "富",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "隸",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "那",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "阿",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "利",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "那",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "達",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": []
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "毗",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "鼓",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "畢",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "河",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "爾",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "勒",
+     "marks": []
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "婁",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "簸",
+     "marks": []
+    },
+    {
+     "text": "僧",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "祇",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "篮",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": []
+    },
+    {
+     "text": "蓰",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "僧",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "祇",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "驗",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "曼",
+     "marks": []
+    },
+    {
+     "text": "沱",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "河",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "他",
+     "marks": []
+    },
+    {
+     "text": "可",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "炎",
+     "marks": []
+    },
+    {
+     "text": "婆",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "羅",
+     "marks": []
+    },
+    {
+     "text": "尼",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,882 @@
+{
+ "title": "變食真言・甘露水真言・一字水輪真言・乳海真言",
+ "subtitle": "暮時課誦　書頁 74　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "菊",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "薩",
+     "marks": []
+    },
+    {
+     "text": "縛",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "但",
+     "marks": []
+    },
+    {
+     "text": "他",
+     "marks": []
+    },
+    {
+     "text": "誐",
+     "marks": []
+    },
+    {
+     "text": "哆",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "縛",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "嚕",
+     "marks": []
+    },
+    {
+     "text": "枳",
+     "marks": []
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "奄",
+     "marks": [
+      "na",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "跋",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "改",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": []
+    },
+    {
+     "text": "吽",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "加",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "持",
+     "marks": []
+    },
+    {
+     "text": "此",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": []
+    },
+    {
+     "text": "即",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "此",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": []
+    },
+    {
+     "text": "出",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "量",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "成",
+     "marks": [
+      "dashHalf",
+      "na"
+     ]
+    },
+    {
+     "text": "趣",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "食",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "非",
+     "marks": []
+    },
+    {
+     "text": "非",
+     "marks": [
+      "daqing"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "量",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "而",
+     "marks": [
+      "daqing",
+      "na"
+     ]
+    },
+    {
+     "text": "而",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "卩",
+     "marks": []
+    },
+    {
+     "text": "口",
+     "marks": []
+    },
+    {
+     "text": "量",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "出",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
+     "text": "重",
+     "marks": []
+    },
+    {
+     "text": "重",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "盡",
+     "marks": []
+    },
+    {
+     "text": "充",
+     "marks": []
+    },
+    {
+     "text": "塞",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "虛",
+     "marks": []
+    },
+    {
+     "text": "空",
+     "marks": []
+    },
+    {
+     "text": "周",
+     "marks": []
+    },
+    {
+     "text": "徧",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "界",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "普",
+     "marks": []
+    },
+    {
+     "text": "濟",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "饑",
+     "marks": []
+    },
+    {
+     "text": "虛",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "離",
+     "marks": []
+    },
+    {
+     "text": "苦",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "得",
+     "marks": []
+    },
+    {
+     "text": "樂",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "菊",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "蘇",
+     "marks": []
+    },
+    {
+     "text": "魯",
+     "marks": []
+    },
+    {
+     "text": "婆",
+     "marks": []
+    },
+    {
+     "text": "那",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "怛",
+     "marks": []
+    },
+    {
+     "text": "旦",
+     "marks": []
+    },
+    {
+     "text": "也",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "誐",
+     "marks": []
+    },
+    {
+     "text": "多",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "那",
+     "marks": []
+    },
+    {
+     "text": "旦",
+     "marks": []
+    },
+    {
+     "text": "垤",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "也",
+     "marks": [
+      "na",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "奄",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "蘇",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "嚕",
+     "marks": []
+    },
+    {
+     "text": "蘇",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "名",
+     "marks": []
+    },
+    {
+     "text": "站",
+     "marks": []
+    },
+    {
+     "text": "涉",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": []
+    },
+    {
+     "text": "詠",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "多",
+     "marks": []
+    },
+    {
+     "text": "沐",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": []
+    },
+    {
+     "text": "詠",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "錯",
+     "marks": []
+    },
+    {
+     "text": "省",
+     "marks": []
+    },
+    {
+     "text": "婆",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "沐",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "門",
+     "marks": []
+    },
+    {
+     "text": "金",
+     "marks": []
+    },
+    {
+     "text": "照",
+     "marks": []
+    },
+    {
+     "text": "蘇",
+     "marks": []
+    },
+    {
+     "text": "門",
+     "marks": []
+    },
+    {
+     "text": "金",
+     "marks": []
+    },
+    {
+     "text": "照",
+     "marks": []
+    },
+    {
+     "text": "蘇",
+     "marks": []
+    },
+    {
+     "text": "門",
+     "marks": []
+    },
+    {
+     "text": "挲",
+     "marks": []
+    },
+    {
+     "text": "挲",
+     "marks": []
+    },
+    {
+     "text": "亠",
+     "marks": []
+    },
+    {
+     "text": "台",
+     "marks": []
+    },
+    {
+     "text": "外",
+     "marks": []
+    },
+    {
+     "text": "第",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "遍",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "朝",
+     "marks": []
+    },
+    {
+     "text": "裡",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "觀",
+     "marks": []
+    },
+    {
+     "text": "想",
+     "marks": []
+    },
+    {
+     "text": "此",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "水",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "咒",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "力",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "加",
+     "marks": []
+    },
+    {
+     "text": "持",
+     "marks": []
+    },
+    {
+     "text": "清",
+     "marks": []
+    },
+    {
+     "text": "淨",
+     "marks": []
+    },
+    {
+     "text": "湛",
+     "marks": []
+    },
+    {
+     "text": "然",
+     "marks": []
+    },
+    {
+     "text": "周",
+     "marks": []
+    },
+    {
+     "text": "徧",
+     "marks": []
+    },
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "界",
+     "marks": []
+    },
+    {
+     "text": "令",
+     "marks": []
+    },
+    {
+     "text": "諸",
+     "marks": []
+    },
+    {
+     "text": "餓",
+     "marks": []
+    },
+    {
+     "text": "鬼",
+     "marks": []
+    },
+    {
+     "text": "咽",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "ringHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "喉",
+     "marks": []
+    },
+    {
+     "text": "自",
+     "marks": []
+    },
+    {
+     "text": "開",
+     "marks": []
+    },
+    {
+     "text": "法",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "界",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "眾",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "皆",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "得",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "甘",
+     "marks": []
+    },
+    {
+     "text": "露",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "飲",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "食",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "daqing"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1511 @@
+{
+ "title": "香花燈塗菓・十方一切刹",
+ "subtitle": "應用諸讚語　書頁 157–159　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "欖",
+     "marks": []
+    },
+    {
+     "text": "共",
+     "marks": []
+    },
+    {
+     "text": "枇",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "杷",
+     "marks": []
+    },
+    {
+     "text": "蒙",
+     "marks": []
+    },
+    {
+     "text": "山",
+     "marks": []
+    },
+    {
+     "text": "雀",
+     "marks": []
+    },
+    {
+     "text": "舌",
+     "marks": []
+    },
+    {
+     "text": "茶",
+     "marks": []
+    },
+    {
+     "text": "奉",
+     "marks": []
+    },
+    {
+     "text": "獻",
+     "marks": []
+    },
+    {
+     "text": "酥",
+     "marks": []
+    },
+    {
+     "text": "酡",
+     "marks": []
+    },
+    {
+     "text": "普",
+     "marks": []
+    },
+    {
+     "text": "供",
+     "marks": []
+    },
+    {
+     "text": "養",
+     "marks": []
+    },
+    {
+     "text": "釋",
+     "marks": []
+    },
+    {
+     "text": "迦",
+     "marks": []
+    },
+    {
+     "text": "百",
+     "marks": []
+    },
+    {
+     "text": "寶",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "十",
+     "marks": []
+    },
+    {
+     "text": "方",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "切",
+     "marks": []
+    },
+    {
+     "text": "剎",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "諸",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": []
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "眾",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "量",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "諸",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "聖",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "賢",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "及",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "諸",
+     "marks": []
+    },
+    {
+     "text": "業",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "道",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "官",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring1",
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "惟",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "願",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "大",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "慈",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "悲",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "降",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "臨",
+     "marks": []
+    },
+    {
+     "text": "於",
+     "marks": [
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "法",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "會",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "攝",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "受",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "花",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "香",
+     "marks": [
+      "dash1",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "燈",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "塗",
+     "marks": []
+    },
+    {
+     "text": "果",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "樂",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "微",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "分",
+     "marks": []
+    },
+    {
+     "text": "少",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "供",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "養",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "吽",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "字",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "湧",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "出",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "花",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "燈",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "天",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "母",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "面",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "四",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "辟",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "放",
+     "marks": [
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "大",
+     "marks": []
+    },
+    {
+     "text": "光",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "明",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "上",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "手",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "印",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "持",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "妙",
+     "marks": []
+    },
+    {
+     "text": "燈",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "塗",
+     "marks": [
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "下",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "手",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "印",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "輪",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "相",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "交",
+     "marks": [
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "相",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "交",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "吽",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "淹",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "奄",
+     "marks": [
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "亞",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "牛",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "奄",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "痲",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "尼",
+     "marks": []
+    },
+    {
+     "text": "八",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "彌",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "牛",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "紇",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "里",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "妙",
+     "marks": [
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "果",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "樂",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "天",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "母",
+     "marks": []
+    },
+    {
+     "text": "供",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "養",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "願",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "我",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "慈",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "悲",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "哀",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "納",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "受",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "因",
+     "marks": [
+      "ring2",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "緣",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "自",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "性",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "所",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "出",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "生",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "所",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "有",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "種",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "種",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "微",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "妙",
+     "marks": []
+    },
+    {
+     "text": "花",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "香",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "燈",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "塗",
+     "marks": []
+    },
+    {
+     "text": "果",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "樂",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "奉",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "獻",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "上",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "師",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "寶",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "尊",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "惟",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "願",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "慈",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "悲",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "哀",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "納",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "受",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "戶",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "淹",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "哩",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "斡",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "怛",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "他",
+     "marks": []
+    },
+    {
+     "text": "阿",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "誐",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "多",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "布",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "思",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "必",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "度",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "必",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "啞",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "嚕",
+     "marks": []
+    },
+    {
+     "text": "吉",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "干",
+     "marks": [
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "的",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "爾",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "微",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "的",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "捨",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "不",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "答",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "布",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "拶",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "銘",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "葛",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "漠",
+     "marks": []
+    },
+    {
+     "text": "的",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "羅",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "斯",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "癹",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "納",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "痲",
+     "marks": []
+    },
+    {
+     "text": "亞",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "件",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "五",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "供",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "養",
+     "marks": [
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "佛",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": []
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "般",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "若",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "波",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "羅",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "蜜",
+     "marks": [
+      "ring2"
+     ]
+    }
+   ]
+  }
+ ]
+}

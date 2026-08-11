@@ -1,0 +1,881 @@
+{
+ "title": "位居補處",
+ "subtitle": "應用諸讚語　書頁 161　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "奄",
+     "marks": []
+    },
+    {
+     "text": "捺",
+     "marks": []
+    },
+    {
+     "text": "摩",
+     "marks": []
+    },
+    {
+     "text": "巴",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "葛",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "瓦",
+     "marks": []
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "呵",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "巴",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "羅",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "蜜",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "沓",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring2",
+      "na",
+      "dash1",
+      "ring2",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "可",
+     "marks": [
+      "ring1",
+      "dashHalf",
+      "ring1",
+      "dashHalf",
+      "dashHalf",
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "優",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "哩",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "可",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "納",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "蘇",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "必",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "爾",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "實",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "執",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring1",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "沓",
+     "marks": [
+      "ring1",
+      "dashHalf",
+      "ring1",
+      "dashHalf",
+      "dashHalf",
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "牒",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "左",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "囉",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "宰",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "也",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "怛",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "塔",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "哿",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "達",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "也",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "阿",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "囉",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "藥",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "不",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "達",
+     "marks": [
+      "ring2",
+      "dash1",
+      "ring2",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "也",
+     "marks": [
+      "ring1",
+      "dashHalf",
+      "ring1",
+      "dashHalf",
+      "dashHalf",
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "怛",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "爾",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "也",
+     "marks": [
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "塔",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "淹",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "哩",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "巴",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "桑",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "斯",
+     "marks": []
+    },
+    {
+     "text": "葛",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "哩",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "叭",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "哩",
+     "marks": []
+    },
+    {
+     "text": "述",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "沓",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "達",
+     "marks": [
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "囉",
+     "marks": []
+    },
+    {
+     "text": "馬",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "哿",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "哿",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "捺",
+     "marks": [
+      "ring1",
+      "dashHalf",
+      "ring1",
+      "dashHalf",
+      "dashHalf",
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "桑",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "馬",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "兀",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "哿",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "莎",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "巴",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "瓦",
+     "marks": [
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "比",
+     "marks": [
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "述",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "馬",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "喝",
+     "marks": []
+    },
+    {
+     "text": "捺",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "也",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "叭",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "理",
+     "marks": []
+    },
+    {
+     "text": "瓦",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "哩",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "娑",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "婆",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring1",
+      "na",
+      "dash1",
+      "ring2",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "ring1",
+      "dashHalf",
+      "ring1",
+      "dashHalf",
+      "dashHalf",
+      "ring1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "願",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "將",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "以",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "此",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "勝",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "功",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "德",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "祝",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "讚",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "民",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "國",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "萬",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "萬",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ring1",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "歲",
+     "marks": [
+      "ring1",
+      "dashHalf",
+      "ring1",
+      "dashHalf",
+      "dashHalf",
+      "ring1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "大",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "民",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "族",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "民",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "權",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "與",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "民",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "生",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "量",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "壽",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "祝",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "讚",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "民",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "國",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  }
+ ]
+}

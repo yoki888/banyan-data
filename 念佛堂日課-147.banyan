@@ -1,0 +1,388 @@
+{
+ "title": "念佛堂日課",
+ "subtitle": "念佛堂日課　書頁 147–148　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "已",
+     "marks": []
+    },
+    {
+     "text": "八",
+     "marks": []
+    },
+    {
+     "text": "點",
+     "marks": []
+    },
+    {
+     "text": "鐘",
+     "marks": [
+      "na",
+      "dashHalf",
+      "dashHalf",
+      "dash1"
+     ]
+    },
+    {
+     "text": "歸",
+     "marks": []
+    },
+    {
+     "text": "位",
+     "marks": [
+      "daqing",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "占",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "丁",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "點",
+     "marks": []
+    },
+    {
+     "text": "鐘",
+     "marks": []
+    },
+    {
+     "text": "歸",
+     "marks": []
+    },
+    {
+     "text": "位",
+     "marks": []
+    },
+    {
+     "text": "与",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "七",
+     "marks": []
+    },
+    {
+     "text": "點",
+     "marks": []
+    },
+    {
+     "text": "半",
+     "marks": []
+    },
+    {
+     "text": "鐘",
+     "marks": []
+    },
+    {
+     "text": "起",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "則",
+     "marks": []
+    },
+    {
+     "text": "董",
+     "marks": []
+    },
+    {
+     "text": "仁",
+     "marks": []
+    },
+    {
+     "text": "灬",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "點",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "鐘",
+     "marks": []
+    },
+    {
+     "text": "開",
+     "marks": []
+    },
+    {
+     "text": "靜",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "點",
+     "marks": []
+    },
+    {
+     "text": "雍",
+     "marks": []
+    },
+    {
+     "text": "静",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "舆",
+     "marks": []
+    },
+    {
+     "text": "第",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "枝",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "完",
+     "marks": []
+    },
+    {
+     "text": "全",
+     "marks": []
+    },
+    {
+     "text": "相",
+     "marks": []
+    },
+    {
+     "text": "同",
+     "marks": []
+    },
+    {
+     "text": "九",
+     "marks": []
+    },
+    {
+     "text": "點",
+     "marks": []
+    },
+    {
+     "text": "鐘",
+     "marks": []
+    },
+    {
+     "text": "棗",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "滿",
+     "marks": []
+    },
+    {
+     "text": "功",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "daqing",
+      "ringHalf",
+      "ringHalf"
+     ]
+    }
+   ]
+  }
+ ]
+}

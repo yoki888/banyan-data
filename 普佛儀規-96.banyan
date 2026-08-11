@@ -1,0 +1,671 @@
+{
+ "title": "普佛儀規",
+ "subtitle": "祝聖普佛儀軌　書頁 96–97　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "半",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "年",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "果",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "有",
+     "marks": []
+    },
+    {
+     "text": "飄",
+     "marks": []
+    },
+    {
+     "text": "施",
+     "marks": []
+    },
+    {
+     "text": "再",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "默",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "念",
+     "marks": []
+    },
+    {
+     "text": "下",
+     "marks": []
+    },
+    {
+     "text": "偈",
+     "marks": []
+    },
+    {
+     "text": "云",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "na",
+      "ringHalf",
+      "na",
+      "ringHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "ringHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "ringHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "財",
+     "marks": []
+    },
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "兩",
+     "marks": []
+    },
+    {
+     "text": "施",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "等",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "差",
+     "marks": []
+    },
+    {
+     "text": "別",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "檀",
+     "marks": []
+    },
+    {
+     "text": "波",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": []
+    },
+    {
+     "text": "蜜",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "具",
+     "marks": []
+    },
+    {
+     "text": "足",
+     "marks": []
+    },
+    {
+     "text": "圓",
+     "marks": []
+    },
+    {
+     "text": "滿",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "亡靈",
+     "marks": [
+      "na",
+      "ring1"
+     ]
+    },
+    {
+     "text": "號",
+     "marks": []
+    },
+    {
+     "text": "圍",
+     "marks": []
+    },
+    {
+     "text": "幾",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "附",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": []
+    },
+    {
+     "text": "存",
+     "marks": []
+    },
+    {
+     "text": "五",
+     "marks": []
+    },
+    {
+     "text": "觀",
+     "marks": []
+    },
+    {
+     "text": "充",
+     "marks": []
+    },
+    {
+     "text": "滿",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "下",
+     "marks": []
+    },
+    {
+     "text": "維",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "那",
+     "marks": []
+    },
+    {
+     "text": "師",
+     "marks": [
+      "ringHalf",
+      "qingBowl"
+     ]
+    },
+    {
+     "text": "接",
+     "marks": []
+    },
+    {
+     "text": "白",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": []
+    },
+    {
+     "text": "制",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "比",
+     "marks": []
+    },
+    {
+     "text": "丘",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "存",
+     "marks": []
+    },
+    {
+     "text": "五",
+     "marks": []
+    },
+    {
+     "text": "觀",
+     "marks": []
+    },
+    {
+     "text": "散",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "combo"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "心",
+     "marks": []
+    },
+    {
+     "text": "雜",
+     "marks": []
+    },
+    {
+     "text": "話",
+     "marks": []
+    },
+    {
+     "text": "信",
+     "marks": []
+    },
+    {
+     "text": "施",
+     "marks": []
+    },
+    {
+     "text": "難",
+     "marks": []
+    },
+    {
+     "text": "消",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "大",
+     "marks": []
+    },
+    {
+     "text": "眾",
+     "marks": []
+    },
+    {
+     "text": "聞",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "磬",
+     "marks": []
+    },
+    {
+     "text": "聲",
+     "marks": []
+    },
+    {
+     "text": "各",
+     "marks": []
+    },
+    {
+     "text": "正",
+     "marks": []
+    },
+    {
+     "text": "念",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "二",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "計",
+     "marks": []
+    },
+    {
+     "text": "功",
+     "marks": []
+    },
+    {
+     "text": "多",
+     "marks": []
+    },
+    {
+     "text": "少",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "量",
+     "marks": []
+    },
+    {
+     "text": "彼",
+     "marks": []
+    },
+    {
+     "text": "來",
+     "marks": []
+    },
+    {
+     "text": "處",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "付",
+     "marks": []
+    },
+    {
+     "text": "己",
+     "marks": []
+    },
+    {
+     "text": "德",
+     "marks": []
+    },
+    {
+     "text": "行",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "全",
+     "marks": []
+    },
+    {
+     "text": "缺",
+     "marks": []
+    },
+    {
+     "text": "應",
+     "marks": []
+    },
+    {
+     "text": "供",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "防",
+     "marks": []
+    },
+    {
+     "text": "心",
+     "marks": []
+    },
+    {
+     "text": "離",
+     "marks": []
+    },
+    {
+     "text": "過",
+     "marks": []
+    },
+    {
+     "text": "貪",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "等",
+     "marks": []
+    },
+    {
+     "text": "為",
+     "marks": []
+    },
+    {
+     "text": "宗",
+     "marks": []
+    },
+    {
+     "text": "四",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "正",
+     "marks": []
+    },
+    {
+     "text": "事",
+     "marks": []
+    },
+    {
+     "text": "良",
+     "marks": []
+    },
+    {
+     "text": "藥",
+     "marks": []
+    },
+    {
+     "text": "為",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "療",
+     "marks": []
+    },
+    {
+     "text": "形",
+     "marks": []
+    },
+    {
+     "text": "枯",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "五",
+     "marks": []
+    },
+    {
+     "text": "為",
+     "marks": []
+    },
+    {
+     "text": "成",
+     "marks": []
+    },
+    {
+     "text": "道",
+     "marks": []
+    },
+    {
+     "text": "業",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "應",
+     "marks": []
+    },
+    {
+     "text": "受",
+     "marks": []
+    },
+    {
+     "text": "此",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  }
+ ]
+}

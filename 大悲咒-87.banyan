@@ -1,0 +1,224 @@
+{
+ "title": "大悲咒",
+ "subtitle": "暮時課誦　書頁 87–90　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "南",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "伽",
+     "marks": []
+    },
+    {
+     "text": "藍",
+     "marks": []
+    },
+    {
+     "text": "聖",
+     "marks": []
+    },
+    {
+     "text": "眾",
+     "marks": []
+    },
+    {
+     "text": "菩",
+     "marks": []
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "daqing",
+      "daqing"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "稱",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "耶",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "阿",
+     "marks": []
+    },
+    {
+     "text": "利",
+     "marks": [
+      "na",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "耶",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "婆",
+     "marks": []
+    },
+    {
+     "text": "盧",
+     "marks": []
+    },
+    {
+     "text": "吉",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "爍",
+     "marks": []
+    },
+    {
+     "text": "皤",
+     "marks": []
+    },
+    {
+     "text": "囉",
+     "marks": []
+    },
+    {
+     "text": "夜",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "娑",
+     "marks": []
+    },
+    {
+     "text": "婆",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "唵",
+     "marks": []
+    },
+    {
+     "text": "悉",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "殿",
+     "marks": [
+      "dashHalf",
+      "na"
+     ]
+    },
+    {
+     "text": "都",
+     "marks": []
+    },
+    {
+     "text": "漫",
+     "marks": [
+      "na",
+      "na"
+     ]
+    },
+    {
+     "text": "多",
+     "marks": []
+    },
+    {
+     "text": "囉",
+     "marks": []
+    },
+    {
+     "text": "跋",
+     "marks": []
+    },
+    {
+     "text": "陀",
+     "marks": []
+    },
+    {
+     "text": "耶",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "娑",
+     "marks": []
+    },
+    {
+     "text": "婆",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": []
+    }
+   ]
+  }
+ ]
+}

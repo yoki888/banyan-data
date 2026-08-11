@@ -1,0 +1,677 @@
+{
+ "title": "佛寶讚無窮・僧寶讚不思議・法寶實讚難量",
+ "subtitle": "應用諸讚語　書頁 155　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "寶",
+     "marks": []
+    },
+    {
+     "text": "實",
+     "marks": []
+    },
+    {
+     "text": "難",
+     "marks": []
+    },
+    {
+     "text": "量",
+     "marks": []
+    },
+    {
+     "text": "如",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "來",
+     "marks": []
+    },
+    {
+     "text": "金",
+     "marks": []
+    },
+    {
+     "text": "口",
+     "marks": []
+    },
+    {
+     "text": "宣",
+     "marks": []
+    },
+    {
+     "text": "揚",
+     "marks": []
+    },
+    {
+     "text": "龍",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "宮",
+     "marks": []
+    },
+    {
+     "text": "海",
+     "marks": []
+    },
+    {
+     "text": "藏",
+     "marks": []
+    },
+    {
+     "text": "散",
+     "marks": []
+    },
+    {
+     "text": "天",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "覺",
+     "marks": []
+    },
+    {
+     "text": "者",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "誦",
+     "marks": []
+    },
+    {
+     "text": "琅",
+     "marks": []
+    },
+    {
+     "text": "涵",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "玉",
+     "marks": []
+    },
+    {
+     "text": "軸",
+     "marks": []
+    },
+    {
+     "text": "霞",
+     "marks": []
+    },
+    {
+     "text": "條",
+     "marks": []
+    },
+    {
+     "text": "金",
+     "marks": []
+    },
+    {
+     "text": "寫",
+     "marks": []
+    },
+    {
+     "text": "字",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "似",
+     "marks": []
+    },
+    {
+     "text": "排",
+     "marks": []
+    },
+    {
+     "text": "秋",
+     "marks": []
+    },
+    {
+     "text": "雁",
+     "marks": [
+      "dashHalf",
+      "na"
+     ]
+    },
+    {
+     "text": "成",
+     "marks": []
+    },
+    {
+     "text": "行",
+     "marks": []
+    },
+    {
+     "text": "昔",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "因",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "藏",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "取",
+     "marks": []
+    },
+    {
+     "text": "來",
+     "marks": []
+    },
+    {
+     "text": "唐",
+     "marks": []
+    },
+    {
+     "text": "萬",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "古",
+     "marks": []
+    },
+    {
+     "text": "永",
+     "marks": []
+    },
+    {
+     "text": "敷",
+     "marks": []
+    },
+    {
+     "text": "揚",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "重",
+     "marks": []
+    },
+    {
+     "text": "二",
+     "marks": []
+    },
+    {
+     "text": "句",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "僧",
+     "marks": []
+    },
+    {
+     "text": "寶",
+     "marks": []
+    },
+    {
+     "text": "不",
+     "marks": []
+    },
+    {
+     "text": "思",
+     "marks": []
+    },
+    {
+     "text": "議",
+     "marks": []
+    },
+    {
+     "text": "身",
+     "marks": []
+    },
+    {
+     "text": "披",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "毳",
+     "marks": []
+    },
+    {
+     "text": "雲",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "衣",
+     "marks": []
+    },
+    {
+     "text": "浮",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "杯",
+     "marks": []
+    },
+    {
+     "text": "渡",
+     "marks": []
+    },
+    {
+     "text": "海",
+     "marks": []
+    },
+    {
+     "text": "剎",
+     "marks": []
+    },
+    {
+     "text": "那",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "赴",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "感",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "應",
+     "marks": []
+    },
+    {
+     "text": "羣",
+     "marks": []
+    },
+    {
+     "text": "機",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "堪",
+     "marks": []
+    },
+    {
+     "text": "作",
+     "marks": []
+    },
+    {
+     "text": "人",
+     "marks": []
+    },
+    {
+     "text": "天",
+     "marks": []
+    },
+    {
+     "text": "功",
+     "marks": []
+    },
+    {
+     "text": "德",
+     "marks": []
+    },
+    {
+     "text": "主",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "堅",
+     "marks": []
+    },
+    {
+     "text": "持",
+     "marks": []
+    },
+    {
+     "text": "戒",
+     "marks": []
+    },
+    {
+     "text": "行",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "為",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "我",
+     "marks": []
+    },
+    {
+     "text": "今",
+     "marks": []
+    },
+    {
+     "text": "稽",
+     "marks": []
+    },
+    {
+     "text": "首",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "願",
+     "marks": []
+    },
+    {
+     "text": "遙",
+     "marks": []
+    },
+    {
+     "text": "知",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "振",
+     "marks": []
+    },
+    {
+     "text": "錫",
+     "marks": []
+    },
+    {
+     "text": "杖",
+     "marks": []
+    },
+    {
+     "text": "提",
+     "marks": []
+    },
+    {
+     "text": "携",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "重",
+     "marks": []
+    },
+    {
+     "text": "二",
+     "marks": []
+    },
+    {
+     "text": "句",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "寶",
+     "marks": []
+    },
+    {
+     "text": "廣",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "邊",
+     "marks": []
+    },
+    {
+     "text": "僧",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "伽",
+     "marks": []
+    },
+    {
+     "text": "萬",
+     "marks": []
+    },
+    {
+     "text": "德",
+     "marks": []
+    },
+    {
+     "text": "功",
+     "marks": []
+    },
+    {
+     "text": "圓",
+     "marks": []
+    },
+    {
+     "text": "六",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "年",
+     "marks": []
+    },
+    {
+     "text": "苦",
+     "marks": []
+    },
+    {
+     "text": "行",
+     "marks": []
+    },
+    {
+     "text": "證",
+     "marks": []
+    },
+    {
+     "text": "金",
+     "marks": []
+    },
+    {
+     "text": "仙",
+     "marks": []
+    },
+    {
+     "text": "說",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "利",
+     "marks": []
+    },
+    {
+     "text": "人",
+     "marks": []
+    },
+    {
+     "text": "天",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "放",
+     "marks": []
+    },
+    {
+     "text": "光",
+     "marks": []
+    },
+    {
+     "text": "現",
+     "marks": []
+    },
+    {
+     "text": "瑞",
+     "marks": []
+    },
+    {
+     "text": "周",
+     "marks": []
+    },
+    {
+     "text": "沙",
+     "marks": []
+    },
+    {
+     "text": "界",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "天",
+     "marks": []
+    },
+    {
+     "text": "龍",
+     "marks": []
+    },
+    {
+     "text": "八",
+     "marks": []
+    },
+    {
+     "text": "部",
+     "marks": []
+    },
+    {
+     "text": "同",
+     "marks": []
+    },
+    {
+     "text": "瞻",
+     "marks": []
+    },
+    {
+     "text": "仰",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "千",
+     "marks": []
+    },
+    {
+     "text": "賢",
+     "marks": []
+    },
+    {
+     "text": "萬",
+     "marks": []
+    }
+   ]
+  }
+ ]
+}

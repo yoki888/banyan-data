@@ -1,0 +1,601 @@
+{
+ "title": "春雨和風正及時",
+ "subtitle": "蓮池大師七筆勾　書頁 204–205　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "春",
+     "marks": []
+    },
+    {
+     "text": "雨",
+     "marks": []
+    },
+    {
+     "text": "和",
+     "marks": []
+    },
+    {
+     "text": "風",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "正",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "及",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "時",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "桃",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "紅",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "柳",
+     "marks": []
+    },
+    {
+     "text": "綠",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "色",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "奇",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "稀",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "蚨",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "蝶",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "成",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "雙",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "對",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "紫",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "燕",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "繞",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "樑",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "飛",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "杜",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "鵑",
+     "marks": []
+    },
+    {
+     "text": "聲",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "嘌",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "嘌",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "林",
+     "marks": [
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "外",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "鷓",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "鴣",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "啼",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "各",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "人",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "條",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "生",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "死",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "路",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "只",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "爭",
+     "marks": []
+    },
+    {
+     "text": "來",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "早",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "與",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "來",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "貪",
+     "marks": []
+    },
+    {
+     "text": "飲",
+     "marks": []
+    },
+    {
+     "text": "酒",
+     "marks": []
+    },
+    {
+     "text": "誰",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "彩",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "啾",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "東",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "倒",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "西",
+     "marks": []
+    },
+    {
+     "text": "歪",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "最",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "可",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "羞",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "李",
+     "marks": [
+      "ring1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "白",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "斗",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "酒",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "今",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "何",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "在",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "弄",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "月",
+     "marks": []
+    },
+    {
+     "text": "騎",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "鯨",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "不",
+     "marks": [
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "到",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "頭",
+     "marks": [
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "須",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "當",
+     "marks": []
+    },
+    {
+     "text": "戒",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "莫",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "嗜",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "酒",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "早",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "到",
+     "marks": []
+    }
+   ]
+  }
+ ]
+}

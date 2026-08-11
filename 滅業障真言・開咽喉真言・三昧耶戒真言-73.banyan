@@ -1,0 +1,412 @@
+{
+ "title": "滅業障真言・開咽喉真言・三昧耶戒真言",
+ "subtitle": "暮時課誦　書頁 73　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "滅",
+     "marks": []
+    },
+    {
+     "text": "定",
+     "marks": []
+    },
+    {
+     "text": "業",
+     "marks": []
+    },
+    {
+     "text": "真",
+     "marks": []
+    },
+    {
+     "text": "言",
+     "marks": [
+      "ringHalf",
+      "ringHalf",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "淹",
+     "marks": [
+      "na",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "鉢",
+     "marks": []
+    },
+    {
+     "text": "囉",
+     "marks": []
+    },
+    {
+     "text": "末",
+     "marks": []
+    },
+    {
+     "text": "隣",
+     "marks": []
+    },
+    {
+     "text": "陀",
+     "marks": []
+    },
+    {
+     "text": "寧",
+     "marks": []
+    },
+    {
+     "text": "娑",
+     "marks": []
+    },
+    {
+     "text": "婆",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "第",
+     "marks": []
+    },
+    {
+     "text": "向",
+     "marks": []
+    },
+    {
+     "text": "中",
+     "marks": []
+    },
+    {
+     "text": "問",
+     "marks": []
+    },
+    {
+     "text": "訊",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "滅",
+     "marks": []
+    },
+    {
+     "text": "業",
+     "marks": []
+    },
+    {
+     "text": "障",
+     "marks": []
+    },
+    {
+     "text": "真",
+     "marks": []
+    },
+    {
+     "text": "言",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "淹",
+     "marks": []
+    },
+    {
+     "text": "河",
+     "marks": [
+      "na",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "嚕",
+     "marks": []
+    },
+    {
+     "text": "勒",
+     "marks": []
+    },
+    {
+     "text": "繼",
+     "marks": []
+    },
+    {
+     "text": "娑",
+     "marks": []
+    },
+    {
+     "text": "婆",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "淹",
+     "marks": [
+      "na",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "步",
+     "marks": []
+    },
+    {
+     "text": "步",
+     "marks": []
+    },
+    {
+     "text": "底",
+     "marks": []
+    },
+    {
+     "text": "哩",
+     "marks": []
+    },
+    {
+     "text": "伽",
+     "marks": []
+    },
+    {
+     "text": "哆",
+     "marks": []
+    },
+    {
+     "text": "哩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "怛",
+     "marks": []
+    },
+    {
+     "text": "哆",
+     "marks": []
+    },
+    {
+     "text": "誐",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "哆",
+     "marks": []
+    },
+    {
+     "text": "耶",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "第",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "遍",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": []
+    },
+    {
+     "text": "前",
+     "marks": []
+    },
+    {
+     "text": "問",
+     "marks": []
+    },
+    {
+     "text": "訊",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "昧",
+     "marks": []
+    },
+    {
+     "text": "耶",
+     "marks": []
+    },
+    {
+     "text": "戒",
+     "marks": []
+    },
+    {
+     "text": "真",
+     "marks": []
+    },
+    {
+     "text": "言",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "埯",
+     "marks": [
+      "na",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "昧",
+     "marks": []
+    },
+    {
+     "text": "耶",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": []
+    },
+    {
+     "text": "埵",
+     "marks": []
+    },
+    {
+     "text": "鋄",
+     "marks": [
+      "na",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  }
+ ]
+}

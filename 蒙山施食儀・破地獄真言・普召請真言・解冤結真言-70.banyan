@@ -1,0 +1,221 @@
+{
+ "title": "蒙山施食儀・破地獄真言・普召請真言・解冤結真言",
+ "subtitle": "暮時課誦　書頁 70　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "蒙",
+     "marks": []
+    },
+    {
+     "text": "山",
+     "marks": []
+    },
+    {
+     "text": "施",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": []
+    },
+    {
+     "text": "儀",
+     "marks": []
+    },
+    {
+     "text": "以",
+     "marks": []
+    },
+    {
+     "text": "下",
+     "marks": []
+    },
+    {
+     "text": "俱",
+     "marks": []
+    },
+    {
+     "text": "各",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "稱",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "若",
+     "marks": []
+    },
+    {
+     "text": "人",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "欲",
+     "marks": []
+    },
+    {
+     "text": "了",
+     "marks": []
+    },
+    {
+     "text": "知",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "世",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "切",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": []
+    },
+    {
+     "text": "應",
+     "marks": [
+      "daqing",
+      "ring1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "觀",
+     "marks": []
+    },
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "界",
+     "marks": []
+    },
+    {
+     "text": "性",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "切",
+     "marks": []
+    },
+    {
+     "text": "唯",
+     "marks": []
+    },
+    {
+     "text": "心",
+     "marks": []
+    },
+    {
+     "text": "造",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "破",
+     "marks": []
+    },
+    {
+     "text": "地",
+     "marks": []
+    },
+    {
+     "text": "獄",
+     "marks": []
+    },
+    {
+     "text": "真",
+     "marks": []
+    },
+    {
+     "text": "言",
+     "marks": [
+      "ringHalf",
+      "daqing",
+      "ring1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "普",
+     "marks": []
+    },
+    {
+     "text": "召",
+     "marks": []
+    },
+    {
+     "text": "請",
+     "marks": []
+    },
+    {
+     "text": "真",
+     "marks": []
+    },
+    {
+     "text": "言",
+     "marks": [
+      "ringHalf"
+     ]
+    }
+   ]
+  }
+ ]
+}

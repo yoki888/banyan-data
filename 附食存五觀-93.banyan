@@ -1,0 +1,2279 @@
+{
+ "title": "附食存五觀",
+ "subtitle": "二時臨齋儀　書頁 93–95　淨律寺重排版",
+ "categories": [
+  "課誦"
+ ],
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "云",
+     "marks": []
+    },
+    {
+     "text": "依",
+     "marks": []
+    },
+    {
+     "text": "教",
+     "marks": []
+    },
+    {
+     "text": "中",
+     "marks": []
+    },
+    {
+     "text": "說",
+     "marks": []
+    },
+    {
+     "text": "切",
+     "marks": []
+    },
+    {
+     "text": "真",
+     "marks": [
+      "dashHalf",
+      "dashHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "言",
+     "marks": []
+    },
+    {
+     "text": "手",
+     "marks": []
+    },
+    {
+     "text": "印",
+     "marks": []
+    },
+    {
+     "text": "必",
+     "marks": []
+    },
+    {
+     "text": "從",
+     "marks": []
+    },
+    {
+     "text": "師",
+     "marks": []
+    },
+    {
+     "text": "受",
+     "marks": []
+    },
+    {
+     "text": "若",
+     "marks": []
+    },
+    {
+     "text": "未",
+     "marks": []
+    },
+    {
+     "text": "入",
+     "marks": []
+    },
+    {
+     "text": "灌",
+     "marks": []
+    },
+    {
+     "text": "頂",
+     "marks": []
+    },
+    {
+     "text": "輪",
+     "marks": []
+    },
+    {
+     "text": "壇",
+     "marks": []
+    },
+    {
+     "text": "輒",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "結",
+     "marks": []
+    },
+    {
+     "text": "手",
+     "marks": []
+    },
+    {
+     "text": "印",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "作",
+     "marks": []
+    },
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "得",
+     "marks": []
+    },
+    {
+     "text": "盗",
+     "marks": []
+    },
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "罪",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "所",
+     "marks": []
+    },
+    {
+     "text": "作",
+     "marks": []
+    },
+    {
+     "text": "不",
+     "marks": []
+    },
+    {
+     "text": "成",
+     "marks": []
+    },
+    {
+     "text": "若",
+     "marks": []
+    },
+    {
+     "text": "於",
+     "marks": []
+    },
+    {
+     "text": "如",
+     "marks": []
+    },
+    {
+     "text": "來",
+     "marks": []
+    },
+    {
+     "text": "像",
+     "marks": []
+    },
+    {
+     "text": "前",
+     "marks": []
+    },
+    {
+     "text": "誦",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "此",
+     "marks": []
+    },
+    {
+     "text": "咒",
+     "marks": []
+    },
+    {
+     "text": "廿",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "遍",
+     "marks": []
+    },
+    {
+     "text": "即",
+     "marks": []
+    },
+    {
+     "text": "如",
+     "marks": []
+    },
+    {
+     "text": "見",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "佛",
+     "marks": []
+    },
+    {
+     "text": "即",
+     "marks": []
+    },
+    {
+     "text": "同",
+     "marks": []
+    },
+    {
+     "text": "入",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "切",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "曼",
+     "marks": []
+    },
+    {
+     "text": "茶",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": []
+    },
+    {
+     "text": "所",
+     "marks": []
+    },
+    {
+     "text": "求",
+     "marks": []
+    },
+    {
+     "text": "諸",
+     "marks": []
+    },
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "皆",
+     "marks": []
+    },
+    {
+     "text": "得",
+     "marks": []
+    },
+    {
+     "text": "成",
+     "marks": []
+    },
+    {
+     "text": "就",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "dashHalf",
+      "dashHalf",
+      "ringHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "供",
+     "marks": []
+    },
+    {
+     "text": "養",
+     "marks": []
+    },
+    {
+     "text": "清",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "淨",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "身",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "毘",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "盧",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "遮",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "那",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "圓",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "滿",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "報",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "身",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "盧",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "舍",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "那",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "千",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "百",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "億",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "化",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "身",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "釋",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "迦",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "牟",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "尼",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "極",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "樂",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "世",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "界",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "何",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "彌",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "陀",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "當",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "來",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "下",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "彌",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "勒",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "尊",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "十",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "方",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "世",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "切",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "諸",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "大",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "智",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "文",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "珠",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "師",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "利",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "大",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "行",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "普",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "賢",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "大",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "悲",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "覲",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "世",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "音",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "諸",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "尊",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "薩",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "般",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "若",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "波",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "羅",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "蜜",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "德",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "六",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "味",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "供",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "及",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "僧",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "界",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "有",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "情",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "普",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "同",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "供",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "養",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "若",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "飯",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "食",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "時",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "當",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "願",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "眾",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "生",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "禪",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "悅",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "為",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "食",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "喜",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "充",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "滿",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "拿",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "文",
+     "marks": []
+    },
+    {
+     "text": "則",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "粥",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "有",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "十",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "利",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "饒",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "益",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "行",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "人",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "果",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "報",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "邊",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "究",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "竟",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "常",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "樂",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "含",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "如",
+     "marks": []
+    },
+    {
+     "text": "前",
+     "marks": []
+    },
+    {
+     "text": "早",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": []
+    },
+    {
+     "text": "忠",
+     "marks": []
+    },
+    {
+     "text": "是",
+     "marks": []
+    },
+    {
+     "text": "大",
+     "marks": []
+    },
+    {
+     "text": "飯",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "力",
+     "marks": []
+    },
+    {
+     "text": "不",
+     "marks": []
+    },
+    {
+     "text": "思",
+     "marks": []
+    },
+    {
+     "text": "議",
+     "marks": []
+    },
+    {
+     "text": "慈",
+     "marks": []
+    },
+    {
+     "text": "悲",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "障",
+     "marks": []
+    },
+    {
+     "text": "礙",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "七",
+     "marks": []
+    },
+    {
+     "text": "粒",
+     "marks": []
+    },
+    {
+     "text": "徧",
+     "marks": []
+    },
+    {
+     "text": "十",
+     "marks": []
+    },
+    {
+     "text": "方",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "普",
+     "marks": []
+    },
+    {
+     "text": "施",
+     "marks": []
+    },
+    {
+     "text": "周",
+     "marks": []
+    },
+    {
+     "text": "沙",
+     "marks": []
+    },
+    {
+     "text": "界",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "淹",
+     "marks": [
+      "na",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "度",
+     "marks": []
+    },
+    {
+     "text": "利",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "血",
+     "marks": []
+    },
+    {
+     "text": "艹",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "沙",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": []
+    },
+    {
+     "text": "早",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "齋",
+     "marks": []
+    },
+    {
+     "text": "出",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
+     "text": "用",
+     "marks": []
+    },
+    {
+     "text": "此",
+     "marks": []
+    },
+    {
+     "text": "偈",
+     "marks": []
+    },
+    {
+     "text": "咒",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "大",
+     "marks": []
+    },
+    {
+     "text": "鴨",
+     "marks": []
+    },
+    {
+     "text": "金",
+     "marks": []
+    },
+    {
+     "text": "翅",
+     "marks": []
+    },
+    {
+     "text": "鳥",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "曠",
+     "marks": []
+    },
+    {
+     "text": "野",
+     "marks": []
+    },
+    {
+     "text": "鬼",
+     "marks": []
+    },
+    {
+     "text": "神",
+     "marks": []
+    },
+    {
+     "text": "眾",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "羅",
+     "marks": []
+    },
+    {
+     "text": "剎",
+     "marks": []
+    },
+    {
+     "text": "鬼",
+     "marks": []
+    },
+    {
+     "text": "子",
+     "marks": []
+    },
+    {
+     "text": "母",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "甘",
+     "marks": []
+    },
+    {
+     "text": "露",
+     "marks": []
+    },
+    {
+     "text": "悉",
+     "marks": []
+    },
+    {
+     "text": "充",
+     "marks": []
+    },
+    {
+     "text": "滿",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "奄",
+     "marks": [
+      "na",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "穆",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "艹",
+     "marks": []
+    },
+    {
+     "text": "沙",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "午",
+     "marks": []
+    },
+    {
+     "text": "齋",
+     "marks": []
+    },
+    {
+     "text": "出",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
+     "text": "用",
+     "marks": []
+    },
+    {
+     "text": "此",
+     "marks": []
+    },
+    {
+     "text": "偈",
+     "marks": []
+    },
+    {
+     "text": "咒",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "汝",
+     "marks": []
+    },
+    {
+     "text": "等",
+     "marks": []
+    },
+    {
+     "text": "鬼",
+     "marks": []
+    },
+    {
+     "text": "神",
+     "marks": []
+    },
+    {
+     "text": "眾",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "我",
+     "marks": []
+    },
+    {
+     "text": "今",
+     "marks": []
+    },
+    {
+     "text": "施",
+     "marks": []
+    },
+    {
+     "text": "汝",
+     "marks": []
+    },
+    {
+     "text": "供",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "此",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": []
+    },
+    {
+     "text": "偏",
+     "marks": []
+    },
+    {
+     "text": "十",
+     "marks": []
+    },
+    {
+     "text": "方",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "切",
+     "marks": []
+    },
+    {
+     "text": "鬼",
+     "marks": []
+    },
+    {
+     "text": "神",
+     "marks": []
+    },
+    {
+     "text": "共",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "奄",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "力",
+     "marks": []
+    },
+    {
+     "text": "菱",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "少",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "河",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "待",
+     "marks": []
+    },
+    {
+     "text": "者",
+     "marks": []
+    },
+    {
+     "text": "出",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
+     "text": "干",
+     "marks": []
+    },
+    {
+     "text": "送",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": []
+    },
+    {
+     "text": "至",
+     "marks": []
+    },
+    {
+     "text": "施",
+     "marks": []
+    },
+    {
+     "text": "食",
+     "marks": []
+    },
+    {
+     "text": "處",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "彈",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "腔",
+     "marks": []
+    },
+    {
+     "text": "大",
+     "marks": []
+    },
+    {
+     "text": "眾",
+     "marks": []
+    },
+    {
+     "text": "復",
+     "marks": []
+    },
+    {
+     "text": "同",
+     "marks": []
+    },
+    {
+     "text": "唱",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "薩",
+     "marks": []
+    },
+    {
+     "text": "多",
+     "marks": []
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "藐",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": []
+    },
+    {
+     "text": "佗",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "俱",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "泜",
+     "marks": []
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "怛",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "姪",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "他",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "淹",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "折",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "隸",
+     "marks": []
+    },
+    {
+     "text": "主",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "隸",
+     "marks": []
+    },
+    {
+     "text": "準",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "提",
+     "marks": []
+    },
+    {
+     "text": "娑",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "婆",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "所",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "謂",
+     "marks": []
+    },
+    {
+     "text": "布",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "施",
+     "marks": []
+    },
+    {
+     "text": "者",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "必",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "獲",
+     "marks": []
+    },
+    {
+     "text": "其",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "利",
+     "marks": []
+    },
+    {
+     "text": "益",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "若",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "為",
+     "marks": []
+    },
+    {
+     "text": "樂",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "故",
+     "marks": []
+    },
+    {
+     "text": "施",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "後",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "必",
+     "marks": []
+    },
+    {
+     "text": "得",
+     "marks": []
+    },
+    {
+     "text": "安",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "樂",
+     "marks": []
+    },
+    {
+     "text": "飯",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "食",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "已",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "訖",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "當",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "願",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "眾",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "生",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "所",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "作",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "皆",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "辦",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "具",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  }
+ ]
+}
