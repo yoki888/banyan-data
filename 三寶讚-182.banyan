@@ -1,9 +1,6 @@
 {
  "title": "三寶讚",
  "subtitle": "演淨科儀　書頁 182–184　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -856,7 +853,12 @@
      "marks": [
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "",

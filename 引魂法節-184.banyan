@@ -1,9 +1,6 @@
 {
  "title": "引魂法節",
  "subtitle": "引魂法節　書頁 184–192　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -3507,7 +3504,12 @@
       "dash1",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     }
    ]
   },

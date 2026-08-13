@@ -1,9 +1,6 @@
 {
  "title": "三寶廣無邊・佛面讚・供養讚・虔誠獻香花",
  "subtitle": "應用諸讚語　書頁 156　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -75,7 +72,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     }
    ]
   },
@@ -142,7 +144,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     }
    ]
   },
@@ -209,7 +216,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     }
    ]
   },
@@ -276,7 +288,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     }
    ]
   },
@@ -383,7 +400,12 @@
      "marks": [
       "ring2",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "三",
@@ -404,7 +426,12 @@
       "dashHalf",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "靈",
@@ -468,7 +495,12 @@
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "薩",

@@ -1,9 +1,6 @@
 {
  "title": "三皈依",
  "subtitle": "朝時課誦　書頁 38–39　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -493,9 +490,12 @@
    "chars": [
     {
      "text": "南",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "無",

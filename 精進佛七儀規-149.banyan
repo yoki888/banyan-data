@@ -1,9 +1,6 @@
 {
  "title": "精進佛七儀規",
  "subtitle": "精進佛七儀規　書頁 149–151　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -156,11 +153,14 @@
     },
     {
      "text": "間",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "ring1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "延",
@@ -251,6 +251,135 @@
   {
    "chars": [
     {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "在",
+     "marks": []
+    },
+    {
+     "text": "止",
+     "marks": []
+    },
+    {
+     "text": "靜",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "由",
+     "marks": []
+    },
+    {
+     "text": "各",
+     "marks": []
+    },
+    {
+     "text": "班",
+     "marks": []
+    },
+    {
+     "text": "首",
+     "marks": []
+    },
+    {
+     "text": "輪",
+     "marks": []
+    },
+    {
+     "text": "流",
+     "marks": []
+    },
+    {
+     "text": "開",
+     "marks": []
+    },
+    {
+     "text": "導",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "擠",
+     "marks": []
+    },
+    {
+     "text": "亦",
+     "marks": []
+    },
+    {
+     "text": "不",
+     "marks": []
+    },
+    {
+     "text": "得",
+     "marks": []
+    },
+    {
+     "text": "言",
+     "marks": []
+    },
+    {
+     "text": "語",
+     "marks": []
+    },
+    {
+     "text": "嬉",
+     "marks": []
+    },
+    {
+     "text": "笑",
+     "marks": []
+    },
+    {
+     "text": "犯",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "者",
+     "marks": []
+    },
+    {
+     "text": "即",
+     "marks": []
+    },
+    {
+     "text": "呵",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
      "text": "用",
      "marks": []
     },
@@ -300,15 +429,21 @@
     },
     {
      "text": "時",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "斥",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "或",
@@ -392,9 +527,12 @@
     },
     {
      "text": "開",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "導",
@@ -582,9 +720,12 @@
     },
     {
      "text": "時",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "間",
@@ -616,6 +757,592 @@
     },
     {
      "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "回",
+     "marks": []
+    },
+    {
+     "text": "堂",
+     "marks": []
+    },
+    {
+     "text": "晚",
+     "marks": []
+    },
+    {
+     "text": "課",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "了",
+     "marks": []
+    },
+    {
+     "text": "大",
+     "marks": []
+    },
+    {
+     "text": "回",
+     "marks": []
+    },
+    {
+     "text": "向",
+     "marks": []
+    },
+    {
+     "text": "畢",
+     "marks": []
+    },
+    {
+     "text": "之",
+     "marks": []
+    },
+    {
+     "text": "五",
+     "marks": []
+    },
+    {
+     "text": "次",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "位",
+     "marks": []
+    },
+    {
+     "text": "四",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "止",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "靜",
+     "marks": []
+    },
+    {
+     "text": "五",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "開",
+     "marks": []
+    },
+    {
+     "text": "靜",
+     "marks": []
+    },
+    {
+     "text": "五",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "外",
+     "marks": []
+    },
+    {
+     "text": "其",
+     "marks": []
+    },
+    {
+     "text": "餘",
+     "marks": []
+    },
+    {
+     "text": "皆",
+     "marks": []
+    },
+    {
+     "text": "有",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "定",
+     "marks": []
+    },
+    {
+     "text": "之",
+     "marks": []
+    },
+    {
+     "text": "次",
+     "marks": []
+    },
+    {
+     "text": "序",
+     "marks": []
+    },
+    {
+     "text": "及",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "回",
+     "marks": []
+    },
+    {
+     "text": "向",
+     "marks": []
+    },
+    {
+     "text": "下",
+     "marks": []
+    },
+    {
+     "text": "位",
+     "marks": []
+    },
+    {
+     "text": "起",
+     "marks": []
+    },
+    {
+     "text": "第",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "枝",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "歸",
+     "marks": []
+    },
+    {
+     "text": "位",
+     "marks": []
+    },
+    {
+     "text": "八",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "止",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "靜",
+     "marks": []
+    },
+    {
+     "text": "八",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "開",
+     "marks": []
+    },
+    {
+     "text": "至",
+     "marks": []
+    },
+    {
+     "text": "四",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "歸",
+     "marks": []
+    },
+    {
+     "text": "位",
+     "marks": []
+    },
+    {
+     "text": "四",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "半",
+     "marks": []
+    },
+    {
+     "text": "止",
+     "marks": []
+    },
+    {
+     "text": "靜",
+     "marks": []
+    },
+    {
+     "text": "四",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "半",
+     "marks": []
+    },
+    {
+     "text": "歸",
+     "marks": []
+    },
+    {
+     "text": "位",
+     "marks": []
+    },
+    {
+     "text": "九",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "止",
+     "marks": []
+    },
+    {
+     "text": "靜",
+     "marks": []
+    },
+    {
+     "text": "十",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "開",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "繞",
+     "marks": []
+    },
+    {
+     "text": "念",
+     "marks": []
+    },
+    {
+     "text": "至",
+     "marks": []
+    },
+    {
+     "text": "六",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "半",
+     "marks": []
+    },
+    {
+     "text": "歸",
+     "marks": []
+    },
+    {
+     "text": "位",
+     "marks": []
+    },
+    {
+     "text": "六",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "止",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "位",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "止",
+     "marks": []
+    },
+    {
+     "text": "靜",
+     "marks": []
+    },
+    {
+     "text": "時",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "開",
+     "marks": []
+    },
+    {
+     "text": "息",
      "marks": []
     },
     {

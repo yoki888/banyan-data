@@ -1,9 +1,6 @@
 {
  "title": "佛前大供",
  "subtitle": "佛七儀規　書頁 130–135　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -233,7 +230,12 @@
      "text": "哆",
      "marks": [
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "縛",
@@ -332,9 +334,14 @@
     {
      "text": "耶",
      "marks": [
-      "dashHalf",
-      "ringHalf"
-     ]
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "怛",
@@ -400,9 +407,12 @@
    "chars": [
     {
      "text": "此",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "食",
@@ -596,7 +606,12 @@
    "chars": [
     {
      "text": "三",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "德",
@@ -682,9 +697,13 @@
     {
      "text": "淹",
      "marks": [
-      "na",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "誠",
@@ -796,7 +815,12 @@
    "chars": [
     {
      "text": "流",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "三",
@@ -851,7 +875,12 @@
    "chars": [
     {
      "text": "天",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "廚",
@@ -1096,107 +1125,155 @@
     },
     {
      "text": "南",
-     "marks": [
-      "na",
-      "dash1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na",
+       "dash1"
+      ]
+     }
     },
     {
      "text": "無",
-     "marks": [
-      "dash1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
     },
     {
      "text": "襌",
-     "marks": [
-      "ring1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "悅",
-     "marks": [
-      "dash1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
     },
     {
      "text": "藏",
-     "marks": [
-      "dash1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
     },
     {
      "text": "菩",
-     "marks": [
-      "ring2"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2"
+      ]
+     }
     },
     {
      "text": "薩",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dash1"
+      ]
+     }
     },
     {
      "text": "摩",
-     "marks": [
-      "ring1",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "訶",
-     "marks": [
-      "ring1",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "薩",
-     "marks": [
-      "ring1",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "摩",
-     "marks": [
-      "ring2"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2"
+      ]
+     }
     },
     {
      "text": "訶",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dash1"
+      ]
+     }
     },
     {
      "text": "般",
-     "marks": [
-      "ring2"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2"
+      ]
+     }
     },
     {
      "text": "若",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dash1"
+      ]
+     }
     },
     {
      "text": "波",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2",
+       "dash1"
+      ]
+     }
     },
     {
      "text": "羅",
-     "marks": [
-      "ring2"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2"
+      ]
+     }
     },
     {
      "text": "蜜",
@@ -1248,10 +1325,13 @@
     },
     {
      "text": "佛",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "已",
@@ -1271,10 +1351,13 @@
     },
     {
      "text": "持",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "四",
@@ -1294,9 +1377,12 @@
     },
     {
      "text": "至",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "往",
@@ -1364,9 +1450,12 @@
     },
     {
      "text": "一",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "枝",

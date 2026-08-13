@@ -1,9 +1,6 @@
 {
  "title": "佛寶讚",
  "subtitle": "祝聖普佛儀軌　書頁 98–101　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -249,9 +246,12 @@
    "chars": [
     {
      "text": "佛",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "寶",
@@ -445,7 +445,6 @@
      "text": "蒙",
      "marks": [
       "ring1",
-      "na",
       "ring2",
       "dashHalf",
       "dashHalf",
@@ -455,7 +454,14 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "為",
@@ -511,12 +517,10 @@
      "text": "法",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
       "dashHalf",
-      "ring1",
       "ring1",
       "dashHalf",
       "ring1",
@@ -524,7 +528,14 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "震",
@@ -665,11 +676,15 @@
      "text": "風",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
@@ -687,7 +702,13 @@
       "dash1",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "山",
@@ -732,7 +753,12 @@
      "text": "受",
      "marks": [
       "ring2"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "記",
@@ -750,7 +776,12 @@
       "ring2",
       "dash1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "宗",
@@ -819,7 +850,12 @@
       "ring2",
       "dash1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "十",
@@ -980,7 +1016,12 @@
      "text": "南",
      "marks": [
       "ring2"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "無",
@@ -1530,7 +1571,13 @@
     },
     {
      "text": "",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dashHalf"
+      ]
+     }
     }
    ]
   },
@@ -1702,9 +1749,13 @@
     },
     {
      "text": "",
-     "marks": [
-      "ring1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "",
@@ -1889,7 +1940,12 @@
     },
     {
      "text": "鼓",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "二",
@@ -1906,9 +1962,14 @@
     {
      "text": "鐘",
      "marks": [
-      "daqing",
-      "combo"
-     ]
+      "daqing"
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "combo"
+      ]
+     }
     },
     {
      "text": "",
@@ -2003,9 +2064,12 @@
     },
     {
      "text": "",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "",

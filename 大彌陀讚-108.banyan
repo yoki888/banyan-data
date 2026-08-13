@@ -1,9 +1,6 @@
 {
  "title": "大彌陀讚",
  "subtitle": "祝聖普佛儀軌　書頁 108–111　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -52,10 +49,13 @@
     },
     {
      "text": "薩",
-     "marks": [
-      "daqing",
-      "daqing"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "稱",
@@ -67,6 +67,153 @@
     },
     {
      "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "摩",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "般",
+     "marks": []
+    },
+    {
+     "text": "若",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "波",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "蜜",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2",
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "多",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "唱",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "贊",
+     "marks": []
+    },
+    {
+     "text": "曷",
+     "marks": []
+    },
+    {
+     "text": "末",
+     "marks": []
+    },
+    {
+     "text": "的",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
+     "text": "淨",
+     "marks": []
+    },
+    {
+     "text": "士",
+     "marks": []
+    },
+    {
+     "text": "淨",
+     "marks": []
+    },
+    {
+     "text": "即",
+     "marks": []
+    },
+    {
+     "text": "淨",
      "marks": []
     },
     {
@@ -112,7 +259,6 @@
      "text": "窮",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
@@ -124,7 +270,13 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "當",
@@ -285,7 +437,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "直",
@@ -341,7 +498,6 @@
      "text": "佛",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
@@ -353,7 +509,14 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "遠",
@@ -504,7 +667,12 @@
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },

@@ -1,9 +1,6 @@
 {
  "title": "春雨和風正及時",
  "subtitle": "蓮池大師七筆勾　書頁 204–205　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -329,6 +326,47 @@
       "dash1",
       "dash1"
      ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "定",
+     "marks": []
+    },
+    {
+     "text": "諸",
+     "marks": []
+    },
+    {
+     "text": "人",
+     "marks": []
+    },
+    {
+     "text": "莫",
+     "marks": []
+    },
+    {
+     "text": "作",
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "等",
+     "marks": []
+    },
+    {
+     "text": "閒",
+     "marks": []
+    },
+    {
+     "text": "看",
+     "marks": []
     }
    ]
   },

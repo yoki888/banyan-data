@@ -1,9 +1,6 @@
 {
  "title": "菩薩下雲中",
  "subtitle": "其它讚語　書頁 175　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -79,24 +76,33 @@
       "dash1",
       "dash1",
       "ring2",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "周",
      "marks": [
       "ring1",
-      "daqing",
       "dashHalf",
       "ring1",
       "dashHalf",
       "dashHalf",
       "ring1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "昭",
@@ -315,9 +321,13 @@
       "dash1",
       "dash1",
       "ring2",
-      "na",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
@@ -335,7 +345,13 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "左",
@@ -483,18 +499,20 @@
       "dash1",
       "dash1",
       "ring1",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "身",
      "marks": [
-      "ring1",
-      "daqing",
       "ring1",
       "dashHalf",
       "ring1",
@@ -502,7 +520,13 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "漸",
@@ -712,12 +736,16 @@
       "dash1",
       "dash1",
       "ring1",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
@@ -733,7 +761,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "我",

@@ -1,9 +1,6 @@
 {
  "title": "滅業障真言・開咽喉真言・三昧耶戒真言",
  "subtitle": "暮時課誦　書頁 73　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -36,12 +33,16 @@
     },
     {
      "text": "言",
-     "marks": [
-      "ringHalf",
-      "ringHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf",
+       "dashHalf",
+       "dashHalf",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "一",
@@ -158,9 +159,12 @@
     },
     {
      "text": "言",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "一",
@@ -210,6 +214,39 @@
      "marks": [
       "ringHalf"
      ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "開",
+     "marks": []
+    },
+    {
+     "text": "咽",
+     "marks": []
+    },
+    {
+     "text": "喉",
+     "marks": []
+    },
+    {
+     "text": "真",
+     "marks": []
+    },
+    {
+     "text": "言",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "",
@@ -350,9 +387,12 @@
     },
     {
      "text": "言",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "一",

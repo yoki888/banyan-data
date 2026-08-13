@@ -1,9 +1,6 @@
 {
  "title": "位居補處",
  "subtitle": "應用諸讚語　書頁 161　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -79,12 +76,16 @@
       "dash1",
       "dash1",
       "ring2",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "可",
@@ -96,7 +97,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "優",
@@ -168,7 +174,12 @@
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "沓",
@@ -313,7 +324,12 @@
       "ring2",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "也",
@@ -325,7 +341,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "怛",
@@ -476,7 +497,12 @@
       "ring2",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "捺",
@@ -488,7 +514,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "桑",
@@ -629,12 +660,16 @@
       "dash1",
       "dash1",
       "ring1",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "訶",
@@ -646,7 +681,13 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     }
    ]
   },
@@ -744,7 +785,12 @@
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "歲",

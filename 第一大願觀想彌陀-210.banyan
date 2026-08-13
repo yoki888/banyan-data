@@ -1,9 +1,6 @@
 {
  "title": "第一大願觀想彌陀",
  "subtitle": "附錄　書頁 210　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -72,12 +69,10 @@
      "text": "蓮",
      "marks": [
       "ring1",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
       "dashHalf",
-      "ring1",
       "ring1",
       "dashHalf",
       "ring1",
@@ -85,7 +80,14 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "池",
@@ -169,17 +171,22 @@
      "text": "行",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
       "dashHalf",
       "ring1",
-      "ring1",
       "dashHalf",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "ring1"
+      ]
+     }
     }
    ]
   },
@@ -322,11 +329,9 @@
      "text": "量",
      "marks": [
       "ring1",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
-      "ring1",
       "ring1",
       "dashHalf",
       "ring1",
@@ -334,7 +339,14 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "降",
@@ -445,7 +457,6 @@
      "text": "養",
      "marks": [
       "ring1",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
@@ -457,7 +468,14 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "現",

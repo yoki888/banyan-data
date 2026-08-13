@@ -1,9 +1,6 @@
 {
  "title": "瑤天玉露・南海普陀山",
  "subtitle": "其它讚語　書頁 167–168　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -223,7 +220,13 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "水",

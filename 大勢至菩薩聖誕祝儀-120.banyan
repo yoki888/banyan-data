@@ -1,9 +1,6 @@
 {
  "title": "大勢至菩薩聖誕祝儀",
  "subtitle": "祝聖普佛儀軌　書頁 120–123　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -90,9 +87,13 @@
     },
     {
      "text": "阿",
-     "marks": [
-      "ring1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "彌",
@@ -176,9 +177,12 @@
    "chars": [
     {
      "text": "大",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "勢",
@@ -742,9 +746,12 @@
     },
     {
      "text": "勢",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "至",
@@ -1197,7 +1204,12 @@
       "ring2",
       "dash1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "無",
@@ -1303,7 +1315,12 @@
      "text": "薩",
      "marks": [
       "ring2"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "數",
@@ -1323,6 +1340,27 @@
     },
     {
      "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "五",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
+    },
+    {
+     "text": "拜",
+     "marks": []
+    },
+    {
+     "text": "願",
      "marks": []
     }
    ]

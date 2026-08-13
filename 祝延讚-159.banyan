@@ -1,9 +1,6 @@
 {
  "title": "祝延讚",
  "subtitle": "應用諸讚語　書頁 159–160　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -266,20 +263,25 @@
      "text": "會",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
       "dashHalf",
       "ring1",
-      "daqing",
       "dashHalf",
       "ring1",
       "dashHalf",
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "daqing"
+      ]
+     }
     }
    ]
   },

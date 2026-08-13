@@ -1,9 +1,6 @@
 {
  "title": "百字明咒",
  "subtitle": "暮時課誦　書頁 91　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -16,15 +13,21 @@
    "chars": [
     {
      "text": "嗡",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "乏",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "資",
@@ -34,9 +37,12 @@
     },
     {
      "text": "拉",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "薩",
@@ -47,15 +53,22 @@
     {
      "text": "埵",
      "marks": [
-      "ringHalf",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "三",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "昧",
@@ -66,16 +79,24 @@
     {
      "text": "耶",
      "marks": [
-      "dashHalf",
-      "ringHalf"
-     ]
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "麻",
      "marks": [
-      "na",
-      "ringHalf"
-     ]
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "納",
@@ -83,9 +104,12 @@
     },
     {
      "text": "巴",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "拉",
@@ -94,15 +118,22 @@
     {
      "text": "耶",
      "marks": [
-      "dashHalf",
-      "ringHalf"
-     ]
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "乏",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "資",
@@ -110,17 +141,24 @@
     },
     {
      "text": "拉",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "薩",
      "marks": [
-      "ringHalf",
       "na",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "埵",
@@ -129,16 +167,23 @@
     {
      "text": "諦",
      "marks": [
-      "ringHalf",
       "na",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "奴",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "巴",
@@ -147,9 +192,13 @@
     {
      "text": "諦",
      "marks": [
-      "ringHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "茶",
@@ -162,9 +211,13 @@
     {
      "text": "笛",
      "marks": [
-      "ringHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "兒",
@@ -174,16 +227,24 @@
      "text": "作",
      "marks": [
       "na",
-      "ringHalf",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "莫",
      "marks": [
-      "na",
-      "ringHalf"
-     ]
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "巴",
@@ -191,15 +252,21 @@
     },
     {
      "text": "瓦",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "蘇",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "多",
@@ -209,9 +276,13 @@
      "text": "使",
      "marks": [
       "na",
-      "na",
-      "ringHalf"
-     ]
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "藥",
@@ -223,9 +294,13 @@
      "text": "莫",
      "marks": [
       "na",
-      "ringHalf",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "巴",
@@ -235,15 +310,21 @@
     },
     {
      "text": "瓦",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "蘇",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "巴",
@@ -253,9 +334,13 @@
      "text": "使",
      "marks": [
       "na",
-      "na",
-      "ringHalf"
-     ]
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "藥",
@@ -265,9 +350,13 @@
      "text": "莫",
      "marks": [
       "na",
-      "ringHalf",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "巴",
@@ -276,15 +365,22 @@
     {
      "text": "瓦",
      "marks": [
-      "ringHalf",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "阿",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "奴",
@@ -292,9 +388,12 @@
     },
     {
      "text": "拉",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "給",
@@ -304,9 +403,12 @@
     },
     {
      "text": "都",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     }
    ]
   },
@@ -316,9 +418,13 @@
      "text": "莫",
      "marks": [
       "na",
-      "ringHalf",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "巴",
@@ -326,15 +432,21 @@
     },
     {
      "text": "瓦",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "薩",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "兒",
@@ -342,9 +454,12 @@
     },
     {
      "text": "乏",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "錫",
@@ -355,16 +470,24 @@
     {
      "text": "的",
      "marks": [
-      "ringHalf",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "莫",
      "marks": [
-      "na",
-      "ringHalf"
-     ]
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "巴",
@@ -372,9 +495,12 @@
     },
     {
      "text": "兒",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "牙",
@@ -382,15 +508,21 @@
     },
     {
      "text": "茶",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "薩",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "兒",
@@ -398,15 +530,21 @@
     },
     {
      "text": "乏",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "葛",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "兒",
@@ -415,15 +553,22 @@
     {
      "text": "麻",
      "marks": [
-      "na",
-      "ringHalf"
-     ]
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "蘇",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "札",
@@ -432,9 +577,13 @@
     {
      "text": "莫",
      "marks": [
-      "na",
-      "ringHalf"
-     ]
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     }
    ]
   },
@@ -442,9 +591,12 @@
    "chars": [
     {
      "text": "汁",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "多",
@@ -454,9 +606,13 @@
      "text": "釋",
      "marks": [
       "na",
-      "na",
-      "ringHalf"
-     ]
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "利",
@@ -466,15 +622,21 @@
     },
     {
      "text": "養",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "古",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "魯",
@@ -482,15 +644,21 @@
     },
     {
      "text": "吽",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "哈",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "哈",
@@ -498,9 +666,12 @@
     },
     {
      "text": "哈",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "哈",
@@ -508,15 +679,21 @@
     },
     {
      "text": "火",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "巴",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "葛",
@@ -524,15 +701,21 @@
     },
     {
      "text": "乏",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "薩",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "兒",
@@ -541,15 +724,22 @@
     {
      "text": "乏",
      "marks": [
-      "ringHalf",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "達",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "他",
@@ -557,9 +747,12 @@
     },
     {
      "text": "葛",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "達",
@@ -572,9 +765,13 @@
     {
      "text": "乏",
      "marks": [
-      "ringHalf",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "資",
@@ -584,16 +781,23 @@
     },
     {
      "text": "拉",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "沒",
      "marks": [
-      "na",
-      "ringHalf"
-     ]
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "木",
@@ -604,15 +808,21 @@
     },
     {
      "text": "喳",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "乏",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "資",
@@ -622,9 +832,12 @@
     },
     {
      "text": "拉",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "巴",
@@ -632,16 +845,23 @@
     },
     {
      "text": "乏",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "麻",
      "marks": [
-      "na",
-      "ringHalf"
-     ]
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "訶",
@@ -649,9 +869,12 @@
     },
     {
      "text": "三",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "昧",
@@ -661,15 +884,21 @@
     },
     {
      "text": "耶",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "薩",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "埵",
@@ -677,9 +906,12 @@
     },
     {
      "text": "阿",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "吽",
@@ -687,9 +919,12 @@
     },
     {
      "text": "怕",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     }
    ]
   },
@@ -697,9 +932,14 @@
    "chars": [
     {
      "text": "有",
-     "marks": [
-      "daqing"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "重",
@@ -711,17 +951,23 @@
     },
     {
      "text": "脫",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "落",
-     "marks": [
-      "ringHalf",
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "之",
@@ -757,9 +1003,12 @@
     },
     {
      "text": "",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
     }
    ]
   }

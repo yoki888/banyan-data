@@ -1,9 +1,6 @@
 {
  "title": "大輪金剛陀羅尼・二時臨齋儀",
  "subtitle": "暮時課誦　書頁 92　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -474,7 +471,12 @@
     },
     {
      "text": "一",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "切",
@@ -486,15 +488,22 @@
     },
     {
      "text": "法",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "切",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na",
+       "na"
+      ]
+     }
     },
     {
      "text": "壇",
@@ -506,7 +515,13 @@
     },
     {
      "text": "當",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "入",
@@ -570,9 +585,12 @@
     },
     {
      "text": "",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "",
@@ -612,9 +630,12 @@
     },
     {
      "text": "遍",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "即",
@@ -630,9 +651,12 @@
     },
     {
      "text": "一",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "切",
@@ -660,9 +684,13 @@
     },
     {
      "text": "皆",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "成",
@@ -698,19 +726,173 @@
     },
     {
      "text": "種",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "印",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "法",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "若",
+     "marks": []
+    },
+    {
+     "text": "作",
+     "marks": []
+    },
+    {
+     "text": "手",
      "marks": []
     },
     {
      "text": "印",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": []
+    },
+    {
+     "text": "誦",
+     "marks": []
+    },
+    {
+     "text": "諸",
+     "marks": []
+    },
+    {
+     "text": "咒",
+     "marks": []
+    },
+    {
+     "text": "法",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "易",
+     "marks": []
+    },
+    {
+     "text": "得",
+     "marks": []
+    },
+    {
+     "text": "成",
+     "marks": []
+    },
+    {
+     "text": "驗",
+     "marks": []
+    },
+    {
+     "text": "若",
+     "marks": []
+    },
+    {
+     "text": "未",
+     "marks": []
+    },
+    {
+     "text": "曾",
+     "marks": []
+    },
+    {
+     "text": "入",
+     "marks": []
+    },
+    {
+     "text": "灌",
+     "marks": []
+    },
+    {
+     "text": "頂",
+     "marks": []
+    },
+    {
+     "text": "壇",
+     "marks": []
+    },
+    {
+     "text": "者",
+     "marks": []
+    },
+    {
+     "text": "不",
+     "marks": []
+    },
+    {
+     "text": "得",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "輒",
+     "marks": []
+    },
+    {
+     "text": "作",
+     "marks": []
     },
     {
      "text": "",
-     "marks": [
-      "na"
-     ]
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
     },
     {
      "text": "",

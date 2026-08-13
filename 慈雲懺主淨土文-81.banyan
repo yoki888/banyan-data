@@ -1,9 +1,6 @@
 {
  "title": "慈雲懺主淨土文",
  "subtitle": "暮時課誦　書頁 81–83　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -506,9 +503,13 @@
     {
      "text": "南",
      "marks": [
-      "na",
       "ring2"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "無",
@@ -683,25 +684,39 @@
    "chars": [
     {
      "text": "慈",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "雲",
-     "marks": [
-      "ring1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "懺",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "主",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "淨",
@@ -713,11 +728,15 @@
     },
     {
      "text": "文",
-     "marks": [
-      "ringHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ringHalf",
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
     }
    ]
   },
@@ -726,10 +745,14 @@
     {
      "text": "心",
      "marks": [
-      "na",
       "ringHalf",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "歸",

@@ -1,9 +1,6 @@
 {
  "title": "禮祖",
  "subtitle": "佛七儀規　書頁 144–146　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -176,9 +173,12 @@
     },
     {
      "text": "歷",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "封",
@@ -561,7 +561,12 @@
      "text": "逸",
      "marks": [
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "黏",
@@ -681,10 +686,13 @@
     },
     {
      "text": "一",
-     "marks": [
-      "daqing",
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "",
@@ -787,9 +795,12 @@
     },
     {
      "text": "尚",
-     "marks": [
-      "daqing"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "一",
@@ -894,10 +905,14 @@
     {
      "text": "土",
      "marks": [
-      "daqing",
-      "ring1",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "一",
@@ -1179,9 +1194,13 @@
     {
      "text": "逸",
      "marks": [
-      "daqing",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "翻",

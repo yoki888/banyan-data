@@ -1,9 +1,6 @@
 {
  "title": "變食真言・甘露水真言・一字水輪真言・乳海真言",
  "subtitle": "暮時課誦　書頁 74　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -20,9 +17,12 @@
     },
     {
      "text": "菊",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "無",
@@ -48,7 +48,12 @@
     },
     {
      "text": "誐",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "哆",
@@ -79,9 +84,13 @@
     {
      "text": "奄",
      "marks": [
-      "na",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "三",
@@ -318,9 +327,12 @@
     },
     {
      "text": "濟",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "饑",
@@ -426,9 +438,12 @@
     },
     {
      "text": "也",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "誐",
@@ -457,21 +472,32 @@
     {
      "text": "也",
      "marks": [
-      "na",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "奄",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "蘇",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "嚕",
@@ -785,9 +811,12 @@
     },
     {
      "text": "",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     }
    ]
   },

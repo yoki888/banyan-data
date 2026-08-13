@@ -1,9 +1,6 @@
 {
  "title": "普賢菩薩聖誕祝儀",
  "subtitle": "祝聖普佛儀軌　書頁 114–117　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -283,7 +280,13 @@
       "dashHalf",
       "dashHalf",
       "ring1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "利",
@@ -434,7 +437,12 @@
       "ring2",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
@@ -451,7 +459,12 @@
       "dash1",
       "ring2",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "覺",

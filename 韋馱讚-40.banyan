@@ -1,9 +1,6 @@
 {
  "title": "韋馱讚",
  "subtitle": "朝時課誦　書頁 40　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -257,7 +254,7 @@
      ]
     },
     {
-     "text": "群",
+     "text": "羣",
      "marks": [
       "ring2",
       "dash1"

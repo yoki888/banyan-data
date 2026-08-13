@@ -1,9 +1,6 @@
 {
  "title": "佛七儀規・爐香讚",
  "subtitle": "佛七儀規　書頁 128–129　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -205,11 +202,14 @@
     },
     {
      "text": "安",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "位",
@@ -221,10 +221,13 @@
     },
     {
      "text": "位",
-     "marks": [
-      "ringHalf",
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "只",
@@ -232,9 +235,12 @@
     },
     {
      "text": "於",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "起",
@@ -258,10 +264,13 @@
     },
     {
      "text": "",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
     }
    ]
   },
@@ -323,6 +332,67 @@
     },
     {
      "text": "一",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "南",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "消",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
+    },
+    {
+     "text": "災",
+     "marks": []
+    },
+    {
+     "text": "延",
+     "marks": []
+    },
+    {
+     "text": "壽",
+     "marks": []
+    },
+    {
+     "text": "藥",
+     "marks": []
+    },
+    {
+     "text": "師",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
      "marks": []
     }
    ]

@@ -1,9 +1,6 @@
 {
  "title": "施無遮食真言",
  "subtitle": "暮時課誦　書頁 75　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -116,16 +113,22 @@
     },
     {
      "text": "水",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "讠",
-     "marks": [
-      "na",
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "方",

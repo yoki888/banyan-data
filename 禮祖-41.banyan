@@ -1,9 +1,6 @@
 {
  "title": "禮祖",
  "subtitle": "朝時課誦　書頁 41　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -20,72 +17,146 @@
     },
     {
      "text": "無",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "na",
+       "dash1"
+      ]
+     }
     },
     {
      "text": "普",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
     },
     {
      "text": "狠",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2"
+      ]
+     }
     },
     {
      "text": "菩",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dash1"
+      ]
+     }
     },
     {
      "text": "薩",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "摩",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
     },
     {
      "text": "訶",
-     "marks": [
-      "ring1",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "薩",
-     "marks": [
-      "ring1",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "摩",
-     "marks": [
-      "ring1",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "dashHalf"
+      ]
+     }
     },
     {
      "text": "訶",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2"
+      ]
+     }
     },
     {
      "text": "般",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dash1"
+      ]
+     }
     },
     {
      "text": "若",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2"
+      ]
+     }
     },
     {
      "text": "波",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dash1"
+      ]
+     }
     },
     {
      "text": "羅",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2",
+       "dash1"
+      ]
+     }
     },
     {
      "text": "蜜",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2"
+      ]
+     }
     },
     {
      "text": "",
@@ -322,7 +393,13 @@
    "chars": [
     {
      "text": "頂",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "禮",
@@ -334,9 +411,12 @@
     },
     {
      "text": "",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "",
@@ -396,9 +476,12 @@
     },
     {
      "text": "",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "",
@@ -406,6 +489,59 @@
     },
     {
      "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "頂",
+     "marks": []
+    },
+    {
+     "text": "禮",
+     "marks": []
+    },
+    {
+     "text": "方",
+     "marks": []
+    },
+    {
+     "text": "丈",
+     "marks": []
+    },
+    {
+     "text": "和",
+     "marks": []
+    },
+    {
+     "text": "尚",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
+    },
+    {
+     "text": "頂",
+     "marks": []
+    },
+    {
+     "text": "起",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "禮",
      "marks": []
     }
    ]

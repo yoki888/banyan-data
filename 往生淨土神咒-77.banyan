@@ -1,9 +1,6 @@
 {
  "title": "往生淨土神咒",
  "subtitle": "暮時課誦　書頁 77–79　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -86,16 +83,23 @@
    "chars": [
     {
      "text": "唵",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "誐",
      "marks": [
-      "dashHalf",
-      "ringHalf"
-     ]
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "誠",
@@ -105,15 +109,21 @@
     },
     {
      "text": "曩",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "三",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "婆",
@@ -121,15 +131,21 @@
     },
     {
      "text": "嗹",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "伐",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "日",
@@ -137,15 +153,22 @@
     },
     {
      "text": "囉",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "斛",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2",
+       "ringHalf"
+      ]
+     }
     }
    ]
   },
@@ -306,9 +329,12 @@
     },
     {
      "text": "空",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     }
    ]
   },
@@ -496,9 +522,12 @@
     },
     {
      "text": "空",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "相",
@@ -577,9 +606,12 @@
     },
     {
      "text": "中",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "無",
@@ -787,9 +819,12 @@
     },
     {
      "text": "佛",
-     "marks": [
-      "daqing"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "依",

@@ -1,9 +1,6 @@
 {
  "title": "阿彌陀佛聖誕祝儀・彌勒佛聖誕祝儀",
  "subtitle": "祝聖普佛儀軌　書頁 105–107　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -91,9 +88,13 @@
     },
     {
      "text": "阿",
-     "marks": [
-      "daqing"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "彌",
@@ -1133,7 +1134,12 @@
      "text": "南",
      "marks": [
       "ring2"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "無",

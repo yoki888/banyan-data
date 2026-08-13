@@ -1,9 +1,6 @@
 {
  "title": "觀音菩薩聖誕祝儀",
  "subtitle": "祝聖普佛儀軌　書頁 111–114　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -99,7 +96,6 @@
      "text": "深",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
@@ -111,7 +107,13 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "度",
@@ -257,20 +259,25 @@
      "text": "門",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
       "dashHalf",
       "ring1",
-      "daqing",
       "dashHalf",
       "ring1",
       "dashHalf",
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "三",
@@ -321,12 +328,10 @@
      "text": "今",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
       "dashHalf",
-      "ring1",
       "ring1",
       "dashHalf",
       "ring1",
@@ -334,7 +339,14 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "畢",
@@ -481,12 +493,16 @@
      "text": "臨",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
@@ -504,7 +520,12 @@
       "dash1",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "念",

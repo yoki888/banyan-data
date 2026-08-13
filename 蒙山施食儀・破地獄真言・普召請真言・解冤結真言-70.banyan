@@ -1,9 +1,6 @@
 {
  "title": "蒙山施食儀・破地獄真言・普召請真言・解冤結真言",
  "subtitle": "暮時課誦　書頁 70　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -60,12 +57,16 @@
     },
     {
      "text": "",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf",
+       "dashHalf",
+       "dashHalf",
+       "ringHalf"
+      ]
+     }
     }
    ]
   },
@@ -183,11 +184,14 @@
     },
     {
      "text": "言",
-     "marks": [
-      "ringHalf",
-      "daqing",
-      "ring1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "daqing",
+       "ring1"
+      ]
+     }
     }
    ]
   },
@@ -211,9 +215,12 @@
     },
     {
      "text": "言",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     }
    ]
   }

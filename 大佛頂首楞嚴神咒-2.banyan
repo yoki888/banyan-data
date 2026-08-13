@@ -1,9 +1,6 @@
 {
  "title": "大佛頂首楞嚴神咒",
  "subtitle": "朝時課誦　書頁 2–22　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -12,6 +9,85 @@
   "paper": "#FAF8F5"
  },
  "lines": [
+  {
+   "chars": [
+    {
+     "text": "妙",
+     "marks": [
+      "na",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "湛",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "總",
+     "marks": []
+    },
+    {
+     "text": "持",
+     "marks": []
+    },
+    {
+     "text": "不",
+     "marks": []
+    },
+    {
+     "text": "動",
+     "marks": []
+    },
+    {
+     "text": "尊",
+     "marks": [
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
+    },
+    {
+     "text": "首",
+     "marks": []
+    },
+    {
+     "text": "楞",
+     "marks": []
+    },
+    {
+     "text": "嚴",
+     "marks": [
+      "dashHalf",
+      "na"
+     ]
+    },
+    {
+     "text": "王",
+     "marks": []
+    },
+    {
+     "text": "世",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "希",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "有",
+     "marks": []
+    }
+   ]
+  },
   {
    "chars": [
     {
@@ -323,10 +399,13 @@
     },
     {
      "text": "佛",
-     "marks": [
-      "daqing",
-      "daqing"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "南",
@@ -653,9 +732,13 @@
     },
     {
      "text": "見",
-     "marks": [
-      "ring1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "頂",
@@ -723,10 +806,13 @@
     },
     {
      "text": "",
-     "marks": [
-      "daqing",
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ringHalf"
+      ]
+     }
     }
    ]
   },
@@ -888,9 +974,12 @@
     },
     {
      "text": "叉",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "剎",
@@ -907,9 +996,13 @@
     {
      "text": "若",
      "marks": [
-      "ring1",
-      "na"
-     ]
+      "ring1"
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "閣",
@@ -1089,9 +1182,13 @@
     {
      "text": "若",
      "marks": [
-      "ring1",
-      "na"
-     ]
+      "ring1"
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "闍",

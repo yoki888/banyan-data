@@ -1,9 +1,6 @@
 {
  "title": "寶鼎讚",
  "subtitle": "朝時課誦　書頁 1　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -21,14 +18,14 @@
      ]
     },
     {
-     "text": "鼎",
+     "text": "過",
      "marks": [
       "dash1",
       "dash1"
      ]
     },
     {
-     "text": "爇",
+     "text": "燕",
      "marks": [
       "ring2",
       "dash1",
@@ -46,19 +43,24 @@
      "text": "香",
      "marks": [
       "ring1",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
       "dashHalf",
       "ring1",
-      "ringHalf",
       "ring1",
       "dashHalf",
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "普",
@@ -68,7 +70,7 @@
      ]
     },
     {
-     "text": "遍",
+     "text": "入",
      "marks": [
       "ring1",
       "dash1",
@@ -98,7 +100,7 @@
   {
    "chars": [
     {
-     "text": "虔",
+     "text": "伏",
      "marks": [
       "ring2",
       "dash1",
@@ -106,7 +108,7 @@
      ]
     },
     {
-     "text": "誠",
+     "text": "訪",
      "marks": [
       "dash1",
       "dash1"
@@ -217,22 +219,31 @@
      "text": "天",
      "marks": [
       "ring1",
-      "na",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "長",
      "marks": [
-      "ring1",
       "ring1",
       "dashHalf",
       "ring1",
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "端",
@@ -304,24 +315,33 @@
      "text": "天",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "長",
      "marks": [
       "ring1",
-      "ring1",
       "dashHalf",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
-     "text": "靈",
+     "text": "續",
      "marks": [
       "dashHalf",
       "ring1",
@@ -351,7 +371,7 @@
      ]
     },
     {
-     "text": "菩",
+     "text": "藻",
      "marks": [
       "ring2",
       "dash1",
@@ -375,26 +395,35 @@
      ]
     },
     {
-     "text": "訶",
+     "text": "訂",
      "marks": [
       "ring1",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "薩",
      "marks": [
       "ring1",
-      "ringHalf",
       "ring1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ringHalf"
+      ]
+     }
     },
     {
-     "text": "靈",
+     "text": "南",
      "marks": [
       "ring1",
       "dash1"
@@ -419,7 +448,7 @@
      ]
     },
     {
-     "text": "蓋",
+     "text": "革",
      "marks": [
       "ring2",
       "dash1",
@@ -427,14 +456,14 @@
      ]
     },
     {
-     "text": "菩",
+     "text": "詞",
      "marks": [
       "ring2",
       "dash1"
      ]
     },
     {
-     "text": "薩",
+     "text": "權",
      "marks": [
       "ring2",
       "dash1",
@@ -450,7 +479,7 @@
      ]
     },
     {
-     "text": "訶",
+     "text": "主",
      "marks": [
       "ring1",
       "dash1",
@@ -468,18 +497,34 @@
      ]
     },
     {
-     "text": "南無",
+     "text": "南",
      "marks": [
-      "na",
       "dashHalf",
       "ring1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "紅",
+     "marks": [
+      "ring1",
+      "dash1"
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "香",
      "marks": [
-      "ring1",
-      "ringHalf",
+      "ring2",
       "dash1"
      ]
     },
@@ -487,6 +532,7 @@
      "text": "雲",
      "marks": [
       "ring2",
+      "dash1",
       "dash1"
      ]
     },
@@ -499,15 +545,7 @@
      ]
     },
     {
-     "text": "菩",
-     "marks": [
-      "ring2",
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "薩",
+     "text": "若",
      "marks": [
       "ring2"
      ]
@@ -517,16 +555,21 @@
   {
    "chars": [
     {
-     "text": "摩",
+     "text": "",
      "marks": [
       "dash1",
       "ring2",
       "dash1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
-     "text": "訶",
+     "text": "",
      "marks": [
       "ring2",
       "dashHalf",
@@ -538,7 +581,7 @@
      ]
     },
     {
-     "text": "薩",
+     "text": "",
      "marks": [
       "ring2",
       "ring2",
@@ -552,7 +595,12 @@
       "ring2",
       "ring2",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     }
    ]
   }

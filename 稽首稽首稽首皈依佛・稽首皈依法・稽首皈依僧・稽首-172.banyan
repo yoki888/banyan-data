@@ -1,9 +1,6 @@
 {
  "title": "稽首稽首稽首皈依佛・稽首皈依法・稽首皈依僧・稽首大覺尊",
  "subtitle": "其它讚語　書頁 172–173　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -195,7 +192,12 @@
      "marks": [
       "ring2",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "陀",
@@ -404,7 +406,12 @@
      "text": "達",
      "marks": [
       "ring2"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "摩",
@@ -615,7 +622,12 @@
      "marks": [
       "ring2",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "伽",
@@ -733,7 +745,12 @@
       "dashHalf",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
@@ -824,17 +841,22 @@
      "text": "宮",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
       "dashHalf",
       "ring1",
-      "daqing",
       "dashHalf",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "daqing"
+      ]
+     }
     }
    ]
   },
@@ -963,7 +985,6 @@
      "text": "行",
      "marks": [
       "ring1",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
@@ -975,7 +996,13 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "若",
@@ -1061,12 +1088,10 @@
      "text": "淪",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
       "dashHalf",
-      "ring1",
       "ring1",
       "dashHalf",
       "ring1",
@@ -1074,7 +1099,14 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "若",
@@ -1154,21 +1186,30 @@
      "text": "沉",
      "marks": [
       "ring1",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "淪",
      "marks": [
       "ring1",
-      "ring1",
       "dashHalf",
       "ring1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "南無",

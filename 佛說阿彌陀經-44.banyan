@@ -1,9 +1,6 @@
 {
  "title": "佛說阿彌陀經",
  "subtitle": "暮時課誦　書頁 44–55　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -211,7 +208,7 @@
      ]
     },
     {
-     "text": "二",
+     "text": "一",
      "marks": []
     },
     {
@@ -342,7 +339,7 @@
      "marks": []
     },
     {
-     "text": "并",
+     "text": "並",
      "marks": [
       "dashHalf"
      ]
@@ -455,10 +452,13 @@
     },
     {
      "text": "等",
-     "marks": [
-      "daqing",
-      "ring1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "無",
@@ -495,10 +495,13 @@
     },
     {
      "text": "俱",
-     "marks": [
-      "daqing",
-      "ring1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "爾",
@@ -641,7 +644,7 @@
      "marks": []
     },
     {
-     "text": "匝",
+     "text": "币",
      "marks": []
     },
     {
@@ -677,11 +680,11 @@
      "marks": []
     },
     {
-     "text": "馬",
+     "text": "碼",
      "marks": []
     },
     {
-     "text": "瑙",
+     "text": "碯",
      "marks": []
     },
     {
@@ -718,7 +721,7 @@
      ]
     },
     {
-     "text": "花",
+     "text": "華",
      "marks": [
       "na"
      ]
@@ -1111,9 +1114,13 @@
      "text": "念",
      "marks": [
       "dashHalf",
-      "na",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "佛",
@@ -1199,9 +1206,12 @@
     },
     {
      "text": "報",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "一",
@@ -2424,7 +2434,7 @@
      ]
     },
     {
-     "text": "二",
+     "text": "一",
      "marks": []
     },
     {
@@ -2961,7 +2971,7 @@
      "marks": []
     },
     {
-     "text": "彌",
+     "text": "爾",
      "marks": [
       "na",
       "dashHalf"
@@ -2986,7 +2996,7 @@
      "marks": []
     },
     {
-     "text": "彌",
+     "text": "爾",
      "marks": [
       "na",
       "dashHalf"
@@ -3001,7 +3011,7 @@
      "marks": []
     },
     {
-     "text": "彌",
+     "text": "濔",
      "marks": [
       "na",
       "dashHalf"
@@ -3298,7 +3308,7 @@
      "marks": []
     },
     {
-     "text": "焰",
+     "text": "緂",
      "marks": [
       "dashHalf",
       "na",
@@ -4309,7 +4319,7 @@
      "marks": []
     },
     {
-     "text": "恒",
+     "text": "恆",
      "marks": []
     },
     {
@@ -4550,9 +4560,14 @@
     {
      "text": "經",
      "marks": [
-      "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "舍",
@@ -4845,7 +4860,7 @@
      "marks": []
     },
     {
-     "text": "共",
+     "text": "之",
      "marks": []
     },
     {

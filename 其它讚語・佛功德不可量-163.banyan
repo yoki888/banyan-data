@@ -1,9 +1,6 @@
 {
  "title": "其它讚語・佛功德不可量",
  "subtitle": "其它讚語　書頁 163　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -27,7 +24,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "觀",
@@ -160,7 +162,12 @@
       "ring2",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "祥",

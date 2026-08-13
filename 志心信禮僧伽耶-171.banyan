@@ -1,9 +1,6 @@
 {
  "title": "志心信禮僧伽耶",
  "subtitle": "其它讚語　書頁 171–172　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -22,7 +19,12 @@
      "text": "心",
      "marks": [
       "ring2"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "信",

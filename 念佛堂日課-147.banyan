@@ -1,9 +1,6 @@
 {
  "title": "念佛堂日課",
  "subtitle": "念佛堂日課　書頁 147–148　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -12,6 +9,136 @@
   "paper": "#FAF8F5"
  },
  "lines": [
+  {
+   "chars": [
+    {
+     "text": "每",
+     "marks": []
+    },
+    {
+     "text": "日",
+     "marks": []
+    },
+    {
+     "text": "六",
+     "marks": []
+    },
+    {
+     "text": "枝",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "修",
+     "marks": []
+    },
+    {
+     "text": "持",
+     "marks": []
+    },
+    {
+     "text": "每",
+     "marks": []
+    },
+    {
+     "text": "枝",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "點",
+     "marks": []
+    },
+    {
+     "text": "半",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": []
+    },
+    {
+     "text": "開",
+     "marks": []
+    },
+    {
+     "text": "靜",
+     "marks": []
+    },
+    {
+     "text": "後",
+     "marks": [],
+     "note": {
+      "marks": [
+       "combo"
+      ]
+     }
+    },
+    {
+     "text": "起",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": []
+    },
+    {
+     "text": "號",
+     "marks": []
+    },
+    {
+     "text": "出",
+     "marks": []
+    },
+    {
+     "text": "聲",
+     "marks": []
+    },
+    {
+     "text": "坐",
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "念",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
   {
    "chars": [
     {
@@ -28,12 +155,16 @@
     },
     {
      "text": "鐘",
-     "marks": [
-      "na",
-      "dashHalf",
-      "dashHalf",
-      "dash1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na",
+       "na",
+       "dashHalf",
+       "dashHalf",
+       "dash1"
+      ]
+     }
     },
     {
      "text": "歸",
@@ -41,19 +172,120 @@
     },
     {
      "text": "位",
-     "marks": [
-      "daqing",
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "占",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "詀",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "童",
+     "marks": []
+    },
+    {
+     "text": "季",
+     "marks": []
+    },
+    {
+     "text": "第",
+     "marks": []
+    },
+    {
+     "text": "五",
+     "marks": []
+    },
+    {
+     "text": "枝",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "六",
+     "marks": []
+    },
+    {
+     "text": "點",
+     "marks": []
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "刻",
+     "marks": []
+    },
+    {
+     "text": "鐘",
+     "marks": []
+    },
+    {
+     "text": "止",
+     "marks": []
+    },
+    {
+     "text": "靜",
      "marks": []
     },
     {
@@ -66,9 +298,120 @@
     },
     {
      "text": "",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "與",
+     "marks": []
+    },
+    {
+     "text": "第",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "枝",
+     "marks": []
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "完",
+     "marks": []
+    },
+    {
+     "text": "全",
+     "marks": []
+    },
+    {
+     "text": "相",
+     "marks": []
+    },
+    {
+     "text": "同",
+     "marks": []
+    },
+    {
+     "text": "念",
+     "marks": []
+    },
+    {
+     "text": "歸",
+     "marks": []
+    },
+    {
+     "text": "位",
+     "marks": []
+    },
+    {
+     "text": "及",
+     "marks": []
+    },
+    {
+     "text": "回",
+     "marks": []
+    },
+    {
+     "text": "向",
+     "marks": []
+    },
+    {
+     "text": "各",
+     "marks": []
+    },
+    {
+     "text": "項",
+     "marks": []
+    },
+    {
+     "text": "皆",
+     "marks": []
+    },
+    {
+     "text": "與",
+     "marks": []
+    },
+    {
+     "text": "第",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "枝",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
     },
     {
      "text": "",
@@ -122,13 +465,21 @@
     },
     {
      "text": "",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "combo"
+      ]
+     }
     },
     {
      "text": "",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "",

@@ -1,9 +1,6 @@
 {
  "title": "善女天咒",
  "subtitle": "朝時課誦　書頁 39–40　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -22,7 +19,12 @@
      "text": "南",
      "marks": [
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "無",
@@ -627,7 +629,12 @@
     },
     {
      "text": "簸",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "僧",

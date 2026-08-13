@@ -1,9 +1,6 @@
 {
  "title": "娑婆界我等本師",
  "subtitle": "其它讚語　書頁 176–177　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -108,25 +105,34 @@
       "dash1",
       "dash1",
       "ring1",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "凄",
      "marks": [
       "ring1",
-      "daqing",
       "dashHalf",
       "ring1",
       "dashHalf",
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "發",
@@ -275,7 +281,12 @@
       "dash1",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
@@ -294,7 +305,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "麻",
@@ -416,7 +432,12 @@
       "ring2",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "移",
@@ -427,7 +448,13 @@
       "dashHalf",
       "dashHalf",
       "ring1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "釋",
@@ -542,17 +569,20 @@
       "dash1",
       "dash1",
       "ring2",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "佛",
      "marks": [
-      "ring1",
       "ring1",
       "dashHalf",
       "ring1",
@@ -560,7 +590,13 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "釋",

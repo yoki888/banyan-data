@@ -1,9 +1,6 @@
 {
  "title": "回向偈",
  "subtitle": "朝時課誦　書頁 34–35　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -12,6 +9,233 @@
   "paper": "#FAF8F5"
  },
  "lines": [
+  {
+   "chars": [
+    {
+     "text": "皊",
+     "marks": []
+    },
+    {
+     "text": "若",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "波",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": []
+    },
+    {
+     "text": "蜜",
+     "marks": [
+      "na",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "多",
+     "marks": []
+    },
+    {
+     "text": "咒",
+     "marks": []
+    },
+    {
+     "text": "即",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "說",
+     "marks": []
+    },
+    {
+     "text": "咒",
+     "marks": []
+    },
+    {
+     "text": "曰",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "daqing"
+      ]
+     }
+    },
+    {
+     "text": "揭",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "諦",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "揭",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "諦",
+     "marks": [
+      "na",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "波",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": []
+    },
+    {
+     "text": "褐",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "諦",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "波",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "僧",
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
+    },
+    {
+     "text": "揭",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "諦",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": []
+    },
+    {
+     "text": "提",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": []
+    },
+    {
+     "text": "婆",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1",
+       "dash1"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "摩",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": []
+    },
+    {
+     "text": "般",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "若",
+     "marks": []
+    },
+    {
+     "text": "波",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "羅",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "蜜",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "多",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": []
+    },
+    {
+     "text": "稱",
+     "marks": []
+    }
+   ]
+  },
   {
    "chars": [
     {
@@ -149,9 +373,12 @@
     },
     {
      "text": "子",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "某",
@@ -177,9 +404,12 @@
     },
     {
      "text": "",
-     "marks": [
-      "ring1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     }
    ]
   },

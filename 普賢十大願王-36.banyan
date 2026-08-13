@@ -1,9 +1,6 @@
 {
  "title": "普賢十大願王",
  "subtitle": "朝時課誦　書頁 36–37　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -17,10 +14,14 @@
     {
      "text": "者",
      "marks": [
-      "na",
       "ringHalf",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "禮",
@@ -704,7 +705,12 @@
     },
     {
      "text": "及",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "佛",

@@ -1,9 +1,6 @@
 {
  "title": "消災吉祥神咒",
  "subtitle": "朝時課誦　書頁 27　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -199,9 +196,12 @@
     },
     {
      "text": "致",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "哩",

@@ -1,9 +1,6 @@
 {
  "title": "心香五分",
  "subtitle": "應用諸讚語　書頁 153　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -126,7 +123,6 @@
      "text": "雲",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
@@ -138,7 +134,14 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "誠",
@@ -194,7 +197,6 @@
      "text": "現",
      "marks": [
       "ring1",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
@@ -205,7 +207,14 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "菩",
@@ -355,7 +364,12 @@
       "ring2",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
@@ -373,7 +387,12 @@
       "dash1",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "龍",
@@ -451,7 +470,12 @@
       "ring2",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
@@ -463,7 +487,12 @@
       "ring1",
       "dashHalf",
       "ring1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "虛",
@@ -526,7 +555,12 @@
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "薩",
@@ -538,7 +572,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "香",

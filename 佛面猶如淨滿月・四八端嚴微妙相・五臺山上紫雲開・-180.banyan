@@ -1,9 +1,6 @@
 {
  "title": "佛面猶如淨滿月・四八端嚴微妙相・五臺山上紫雲開・演淨科儀・楊枝讚",
  "subtitle": "其它讚語　書頁 180–181　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -110,7 +107,12 @@
      "marks": [
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
@@ -176,7 +178,12 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "滅",
@@ -229,7 +236,12 @@
      "marks": [
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "紅",
@@ -304,7 +316,12 @@
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "薩",
@@ -444,14 +461,18 @@
      "text": "訶",
      "marks": [
       "ring1",
-      "na",
       "dashHalf",
       "dashHalf",
       "ring1",
       "dashHalf",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "薩",

@@ -1,9 +1,6 @@
 {
  "title": "大悲觀世音・清淨法身佛",
  "subtitle": "其它讚語　書頁 168–169　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -45,7 +42,13 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "觀",
@@ -137,7 +140,12 @@
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "生",
@@ -146,7 +154,12 @@
       "dashHalf",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "鱻",

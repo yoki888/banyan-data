@@ -1,9 +1,6 @@
 {
  "title": "大悲咒",
  "subtitle": "暮時課誦　書頁 87–90　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -64,6 +61,89 @@
     {
      "text": "",
      "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "伽",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "罰",
+     "marks": []
+    },
+    {
+     "text": "特",
+     "marks": []
+    },
+    {
+     "text": "豆",
+     "marks": []
+    },
+    {
+     "text": "怛",
+     "marks": []
+    },
+    {
+     "text": "姪",
+     "marks": []
+    },
+    {
+     "text": "他",
+     "marks": []
+    },
+    {
+     "text": "唵",
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
+    },
+    {
+     "text": "阿",
+     "marks": []
+    },
+    {
+     "text": "婆",
+     "marks": []
+    },
+    {
+     "text": "盧",
+     "marks": []
+    },
+    {
+     "text": "醯",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "盧",
+     "marks": []
+    },
+    {
+     "text": "迦",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "帝",
+     "marks": [
+      "dashHalf"
+     ]
     }
    ]
   },

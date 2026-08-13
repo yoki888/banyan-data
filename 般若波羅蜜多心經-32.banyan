@@ -1,9 +1,6 @@
 {
  "title": "般若波羅蜜多心經",
  "subtitle": "朝時課誦　書頁 32–33　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -448,10 +445,13 @@
     },
     {
      "text": "佛",
-     "marks": [
-      "daqing",
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "依",
@@ -609,217 +609,6 @@
       "na",
       "dashHalf"
      ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "皊",
-     "marks": []
-    },
-    {
-     "text": "若",
-     "marks": [
-      "ring1"
-     ]
-    },
-    {
-     "text": "波",
-     "marks": []
-    },
-    {
-     "text": "羅",
-     "marks": []
-    },
-    {
-     "text": "蜜",
-     "marks": [
-      "na",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "多",
-     "marks": []
-    },
-    {
-     "text": "咒",
-     "marks": []
-    },
-    {
-     "text": "即",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "說",
-     "marks": []
-    },
-    {
-     "text": "咒",
-     "marks": []
-    },
-    {
-     "text": "曰",
-     "marks": []
-    },
-    {
-     "text": "揭",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "帝",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "揭",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "帝",
-     "marks": [
-      "na",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "般",
-     "marks": []
-    },
-    {
-     "text": "羅",
-     "marks": []
-    },
-    {
-     "text": "褐",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "諦",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "波",
-     "marks": []
-    },
-    {
-     "text": "羅",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "僧",
-     "marks": [
-      "ring1"
-     ]
-    },
-    {
-     "text": "揭",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "帝",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "菩",
-     "marks": []
-    },
-    {
-     "text": "提",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "僧",
-     "marks": []
-    },
-    {
-     "text": "莎",
-     "marks": []
-    },
-    {
-     "text": "訶",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "摩",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "訶",
-     "marks": []
-    },
-    {
-     "text": "般",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "若",
-     "marks": []
-    },
-    {
-     "text": "波",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "羅",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "蜜",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "多",
-     "marks": [
-      "ring2",
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "三",
-     "marks": []
-    },
-    {
-     "text": "稱",
-     "marks": []
     }
    ]
   }

@@ -1,9 +1,6 @@
 {
  "title": "滅定業真言",
  "subtitle": "暮時課誦　書頁 71–73　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -16,101 +13,12 @@
    "chars": [
     {
      "text": "南",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "部",
-     "marks": []
-    },
-    {
-     "text": "部",
-     "marks": []
-    },
-    {
-     "text": "帝",
-     "marks": []
-    },
-    {
-     "text": "唎",
-     "marks": [
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "伽",
-     "marks": []
-    },
-    {
-     "text": "哩",
-     "marks": []
-    },
-    {
-     "text": "哆",
-     "marks": []
-    },
-    {
-     "text": "哩",
-     "marks": []
-    },
-    {
-     "text": "怛",
-     "marks": []
-    },
-    {
-     "text": "哆",
-     "marks": []
-    },
-    {
-     "text": "誐",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "哆",
-     "marks": []
-    },
-    {
-     "text": "耶",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "解",
-     "marks": []
-    },
-    {
-     "text": "冤",
-     "marks": []
-    },
-    {
-     "text": "結",
-     "marks": []
-    },
-    {
-     "text": "真",
-     "marks": []
-    },
-    {
-     "text": "言",
-     "marks": [
-      "ringHalf"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "南",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "無",
@@ -126,9 +34,12 @@
     },
     {
      "text": "廣",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "佛",
@@ -148,168 +59,15 @@
     },
     {
      "text": "",
-     "marks": [
-      "daqing",
-      "ring1",
-      "dashHalf",
-      "ring1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "南",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "常",
-     "marks": []
-    },
-    {
-     "text": "住",
-     "marks": []
-    },
-    {
-     "text": "十",
-     "marks": []
-    },
-    {
-     "text": "方",
-     "marks": []
-    },
-    {
-     "text": "佛",
-     "marks": []
-    },
-    {
-     "text": "南",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": [
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "本",
-     "marks": []
-    },
-    {
-     "text": "師",
-     "marks": []
-    },
-    {
-     "text": "釋",
-     "marks": []
-    },
-    {
-     "text": "迦",
-     "marks": []
-    },
-    {
-     "text": "牟",
-     "marks": []
-    },
-    {
-     "text": "尼",
-     "marks": []
-    },
-    {
-     "text": "佛",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "南",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "常",
-     "marks": []
-    },
-    {
-     "text": "住",
-     "marks": []
-    },
-    {
-     "text": "十",
-     "marks": []
-    },
-    {
-     "text": "方",
-     "marks": []
-    },
-    {
-     "text": "法",
-     "marks": []
-    },
-    {
-     "text": "南",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "大",
-     "marks": []
-    },
-    {
-     "text": "悲",
-     "marks": []
-    },
-    {
-     "text": "觀",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "世",
-     "marks": [
-      "ringHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "音",
-     "marks": []
-    },
-    {
-     "text": "菩",
-     "marks": []
-    },
-    {
-     "text": "薩",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1",
+       "dashHalf",
+       "ring1"
+      ]
+     }
     }
    ]
   },
@@ -499,159 +257,6 @@
     },
     {
      "text": "鬼",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "三",
-     "marks": []
-    },
-    {
-     "text": "歸",
-     "marks": []
-    },
-    {
-     "text": "依",
-     "marks": []
-    },
-    {
-     "text": "佛",
-     "marks": []
-    },
-    {
-     "text": "歸",
-     "marks": []
-    },
-    {
-     "text": "依",
-     "marks": []
-    },
-    {
-     "text": "佛",
-     "marks": []
-    },
-    {
-     "text": "兩",
-     "marks": []
-    },
-    {
-     "text": "足",
-     "marks": []
-    },
-    {
-     "text": "尊",
-     "marks": []
-    },
-    {
-     "text": "了",
-     "marks": []
-    },
-    {
-     "text": "歸",
-     "marks": []
-    },
-    {
-     "text": "依",
-     "marks": []
-    },
-    {
-     "text": "佛",
-     "marks": []
-    },
-    {
-     "text": "竟",
-     "marks": []
-    },
-    {
-     "text": "一",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [
-      "na"
-     ]
-    },
-    {
-     "text": "",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "歸",
-     "marks": []
-    },
-    {
-     "text": "依",
-     "marks": []
-    },
-    {
-     "text": "僧",
-     "marks": []
-    },
-    {
-     "text": "歸",
-     "marks": []
-    },
-    {
-     "text": "衣",
-     "marks": []
-    },
-    {
-     "text": "僧",
-     "marks": []
-    },
-    {
-     "text": "眾",
-     "marks": []
-    },
-    {
-     "text": "中",
-     "marks": []
-    },
-    {
-     "text": "尊",
-     "marks": []
-    },
-    {
-     "text": "歸",
-     "marks": []
-    },
-    {
-     "text": "衣",
-     "marks": []
-    },
-    {
-     "text": "僧",
-     "marks": []
-    },
-    {
-     "text": "竟",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "ringHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "",
      "marks": []
     }
    ]

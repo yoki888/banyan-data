@@ -1,9 +1,6 @@
 {
  "title": "伽藍讚",
  "subtitle": "暮時課誦　書頁 90　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -113,7 +110,7 @@
   {
    "chars": [
     {
-     "text": "輸",
+     "text": "翰",
      "marks": [
       "ring2",
       "dashHalf",

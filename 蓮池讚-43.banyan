@@ -1,9 +1,6 @@
 {
  "title": "蓮池讚",
  "subtitle": "暮時課誦　書頁 43–44　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -39,10 +36,15 @@
      "text": "會",
      "marks": [
       "ring2",
-      "ring1",
       "dash1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "彌",
@@ -106,9 +108,13 @@
      "text": "坐",
      "marks": [
       "ring2",
-      "na",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
@@ -126,8 +132,6 @@
      "text": "臺",
      "marks": [
       "ring1",
-      "daqing",
-      "ring1",
       "dashHalf",
       "ring1",
       "dashHalf",
@@ -138,7 +142,13 @@
       "dash1",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "接",
@@ -170,13 +180,10 @@
      "text": "階",
      "marks": [
       "ring1",
-      "na",
       "dash1",
       "ring2",
       "dashHalf",
       "dashHalf",
-      "ring1",
-      "daqing",
       "ring1",
       "dashHalf",
       "ring1",
@@ -184,7 +191,14 @@
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na",
+       "daqing",
+       "ring1"
+      ]
+     }
     },
     {
      "text": "大",
@@ -240,9 +254,13 @@
      "text": "離",
      "marks": [
       "ring2",
-      "na",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "塵",
@@ -256,12 +274,16 @@
      "text": "埃",
      "marks": [
       "ring1",
-      "daqing",
-      "daqing",
       "dashHalf",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "南無",
@@ -326,23 +348,31 @@
      "text": "訶",
      "marks": [
       "ring2",
-      "na",
       "dash1",
       "ring1",
       "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "薩",
      "marks": [
       "ring1",
-      "daqing",
-      "daqing",
       "dashHalf",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     }
    ]
   },
@@ -421,29 +451,41 @@
      "text": "薩",
      "marks": [
       "ring1",
-      "daqing",
-      "daqing",
       "dashHalf",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
      "text": "南無",
      "marks": [
-      "na",
       "dashHalf",
       "ring1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "蓮",
      "marks": [
       "ring2",
-      "daqing",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "池",
@@ -491,20 +533,29 @@
       "ring2",
       "dash1",
       "dash1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "訶",
      "marks": [
       "ring2",
-      "na",
       "dashHalf",
       "dashHalf",
       "ring1",
       "dashHalf",
       "ring1",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "薩",
@@ -521,7 +572,12 @@
       "ring2",
       "ring2",
       "na"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     }
    ]
   },

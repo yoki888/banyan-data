@@ -1,9 +1,6 @@
 {
  "title": "大回向",
  "subtitle": "佛七儀規　書頁 138–143　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -255,7 +252,12 @@
     },
     {
      "text": "",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
     },
     {
      "text": "",
@@ -311,10 +313,14 @@
     {
      "text": "磬",
      "marks": [
-      "ringHalf",
-      "ringHalf",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "大",
@@ -342,17 +348,30 @@
     },
     {
      "text": "引",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "磬",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "下",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "引",
@@ -364,10 +383,14 @@
     },
     {
      "text": "",
-     "marks": [
-      "daqing",
-      "daqing"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing",
+       "ringHalf"
+      ]
+     }
     }
    ]
   },
@@ -1089,7 +1112,12 @@
      "text": "河",
      "marks": [
       "ring1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "爾",
@@ -1101,13 +1129,23 @@
      "text": "沱",
      "marks": [
       "ring1"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "佛",
      "marks": [
       "daqing"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "演",
@@ -1915,7 +1953,12 @@
     },
     {
      "text": "",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "",
@@ -2757,7 +2800,12 @@
    "chars": [
     {
      "text": "二",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "一",
@@ -2863,9 +2911,12 @@
     },
     {
      "text": "諸",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "佛",
@@ -3914,9 +3965,13 @@
     {
      "text": "自",
      "marks": [
-      "na",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "皈",
@@ -3990,9 +4045,13 @@
     {
      "text": "發",
      "marks": [
-      "na",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "無",
@@ -4021,9 +4080,13 @@
     {
      "text": "自",
      "marks": [
-      "na",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "皈",
@@ -4098,9 +4161,13 @@
     {
      "text": "智",
      "marks": [
-      "na",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "慧",
@@ -4128,9 +4195,13 @@
     {
      "text": "自",
      "marks": [
-      "na",
       "ringHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "皈",
@@ -4198,9 +4269,13 @@
      "text": "眾",
      "marks": [
       "ring2",
-      "ringHalf",
-      "na"
-     ]
+      "ringHalf"
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     },
     {
      "text": "一",

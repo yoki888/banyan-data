@@ -1,9 +1,6 @@
 {
  "title": "普佛儀規",
  "subtitle": "祝聖普佛儀軌　書頁 96–97　淨律寺重排版",
- "categories": [
-  "課誦"
- ],
  "theme": {
   "ring": "#C02626",
   "dash": "#1E64D2",
@@ -58,15 +55,22 @@
     },
     {
      "text": "再",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "默",
-     "marks": [
-      "na"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "na"
+      ]
+     }
     },
     {
      "text": "念",
@@ -86,20 +90,28 @@
     },
     {
      "text": "",
-     "marks": [
-      "na",
-      "ringHalf",
-      "na",
-      "ringHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "ringHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "ringHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "na",
+       "ringHalf",
+       "dashHalf",
+       "na",
+       "dashHalf",
+       "ringHalf",
+       "ringHalf",
+       "dashHalf",
+       "dashHalf",
+       "dashHalf",
+       "ringHalf",
+       "dashHalf",
+       "dashHalf",
+       "dashHalf",
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
     }
    ]
   },
@@ -427,7 +439,12 @@
     },
     {
      "text": "",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
     }
    ]
   },
