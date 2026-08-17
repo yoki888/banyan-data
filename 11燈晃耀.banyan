@@ -1,667 +1,641 @@
 {
- "title": "11燈晃耀",
- "subtitle": "覺苑寺梵唄傳承",
- "theme": {
-  "ring": "#C02626",
-  "dash": "#1E64D2",
-  "qing": "#7A2BBE",
-  "ink": "#1D1B18",
-  "paper": "#FAF8F5"
- },
- "lines": [
-  {
-   "chars": [
+  "categories" : [
+    "覺苑寺"
+  ],
+  "lines" : [
     {
-     "text": "燈",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "燈"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "晃"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "耀"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "盈"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "煌"
+        },
+        {
+          "marks" : [
+            "daqing",
+            "na"
+          ],
+          "text" : "列"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dash1",
+            "dash1",
+            "ring2"
+          ],
+          "text" : "寶"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "ring2",
+            "ring2",
+            "ring2"
+          ],
+          "text" : "臺"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "ringHalf",
+            "ringHalf"
+          ],
+          "text" : "光"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "ringHalf",
+            "dash1"
+          ],
+          "text" : "明"
+        },
+        {
+          "marks" : [
+            "daqing",
+            "ringHalf",
+            "ringHalf"
+          ],
+          "text" : "遍"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dash1",
+            "ringHalf",
+            "dash1"
+          ],
+          "text" : "照"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "daqing",
+            "ringHalf",
+            "ringHalf"
+          ],
+          "text" : "周"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dash1",
+            "ringHalf",
+            "dash1",
+            "ringHalf"
+          ],
+          "text" : "沙"
+        },
+        {
+          "marks" : [
+            "daqing"
+          ],
+          "text" : "界"
+        }
+      ]
     },
     {
-     "text": "晃",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+            "ringHalf",
+            "na",
+            "dash1",
+            "dashHalf",
+            "dash1",
+            "daqing",
+            "ringHalf",
+            "ringHalf",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf",
+            "dash1",
+            "daqing",
+            "ringHalf"
+          ],
+          "text" : "昏"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dashHalf",
+            "dash1",
+            "ringHalf",
+            "dash1"
+          ],
+          "text" : "衢"
+        },
+        {
+          "marks" : [
+            "daqing",
+            "na"
+          ],
+          "text" : "朗"
+        },
+        {
+          "marks" : [
+            "na",
+            "ringHalf",
+            "dash1",
+            "dash1",
+            "ringHalf"
+          ],
+          "text" : "耀"
+        },
+        {
+          "marks" : [
+            "daqing",
+            "ringHalf",
+            "ringHalf"
+          ],
+          "text" : "俱"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ringHalf",
+            "dash1",
+            "ringHalf",
+            "ring2",
+            "ringHalf",
+            "dash1"
+          ],
+          "text" : "無"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "ring2",
+            "dash1",
+            "ring2",
+            "ring2"
+          ],
+          "text" : "礙"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "daqing",
+            "ringHalf",
+            "dash1",
+            "ringHalf"
+          ],
+          "text" : "閻"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "ringHalf",
+            "dash1",
+            "ringHalf"
+          ],
+          "text" : "魔"
+        },
+        {
+          "marks" : [
+            "daqing",
+            "ringHalf",
+            "na"
+          ],
+          "text" : "瞻"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dash1",
+            "ringHalf",
+            "dash1"
+          ],
+          "text" : "禮"
+        },
+        {
+          "marks" : [
+            "daqing",
+            "ringHalf"
+          ],
+          "text" : "紫"
+        }
+      ]
     },
     {
-     "text": "耀",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf",
+            "dashHalf",
+            "dash1"
+          ],
+          "text" : "金"
+        },
+        {
+          "marks" : [
+            "daqing",
+            "ringHalf",
+            "na",
+            "dash1",
+            "dash1",
+            "ringHalf"
+          ],
+          "text" : "臺"
+        },
+        {
+          "marks" : [
+            "daqing",
+            "dash1",
+            "dash1",
+            "dashHalf",
+            "ring2"
+          ],
+          "text" : "燃"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "燈"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "佛"
+        },
+        {
+          "marks" : [
+            "na",
+            "daqing",
+            "ringHalf"
+          ],
+          "text" : "成"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dash1",
+            "ringHalf",
+            "dash1"
+          ],
+          "text" : "道"
+        },
+        {
+          "marks" : [
+            "daqing",
+            "ringHalf"
+          ],
+          "text" : "曾"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "受"
+        },
+        {
+          "marks" : [
+            "daqing",
+            "ringHalf"
+          ],
+          "text" : "人"
+        },
+        {
+          "marks" : [
+            "na",
+            "dash1",
+            "ringHalf",
+            "dash1",
+            "ringHalf",
+            "ring2",
+            "ringHalf",
+            "dash1"
+          ],
+          "text" : "天"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "ring2",
+            "ring2",
+            "ring2"
+          ],
+          "text" : "拜"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "南"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ringHalf"
+          ],
+          "text" : "無"
+        }
+      ]
     },
     {
-     "text": "盈",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "普"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "供"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "養"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "菩"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "訶"
+        },
+        {
+          "marks" : [
+            "na"
+          ],
+          "pulse" : 0,
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "南"
+        },
+        {
+          "marks" : [
+            "na"
+          ],
+          "pulse" : 0,
+          "text" : "無"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "普"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "供"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "養"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        }
+      ]
     },
     {
-     "text": "煌",
-     "marks": [
-      "dash1",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "菩"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+            "na"
+          ],
+          "pulse" : 0,
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "訶"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "南"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "無"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "普"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "供"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "養"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "菩"
+        }
+      ]
     },
     {
-     "text": "列",
-     "marks": [
-      "daqing",
-      "na"
-     ]
-    },
-    {
-     "text": "寶",
-     "marks": [
-      "ringHalf",
-      "dash1",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "臺",
-     "marks": [
-      "ringHalf",
-      "ring2",
-      "ring2",
-      "ring2"
-     ]
-    },
-    {
-     "text": "光",
-     "marks": [
-      "ring2",
-      "dash1",
-      "ringHalf",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "明",
-     "marks": [
-      "ring2",
-      "ringHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "遍",
-     "marks": [
-      "daqing",
-      "ringHalf",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "照",
-     "marks": [
-      "ringHalf",
-      "dash1",
-      "ringHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "周",
-     "marks": [
-      "ringHalf",
-      "daqing",
-      "ringHalf",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "沙",
-     "marks": [
-      "ringHalf",
-      "dash1",
-      "ringHalf",
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "界",
-     "marks": [
-      "daqing"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "dash1",
+            "ringHalf",
+            "dashHalf",
+            "ringHalf",
+            "ringHalf",
+            "dash1"
+          ],
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ringHalf",
+            "daqing",
+            "na",
+            "na",
+            "dash1"
+          ],
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "daqing",
+            "ringHalf",
+            "ringHalf",
+            "ringHalf",
+            "dash1"
+          ],
+          "text" : "訶"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "daqing",
+            "dash1",
+            "ring2"
+          ],
+          "text" : "薩"
+        }
+      ]
     }
-   ]
+  ],
+  "subtitle" : "覺苑寺梵唄傳承",
+  "theme" : {
+    "dash" : "#1E64D2",
+    "ink" : "#1D1B18",
+    "note" : "#B3261E",
+    "paper" : "#FAF8F5",
+    "pulse" : "#8E8E93",
+    "qing" : "#7A2BBE",
+    "ring" : "#C02626"
   },
-  {
-   "chars": [
-    {
-     "text": "昏",
-     "marks": [
-      "ringHalf",
-      "na",
-      "dash1",
-      "dashHalf",
-      "dash1",
-      "daqing",
-      "ringHalf",
-      "ringHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "ringHalf",
-      "dash1",
-      "daqing",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "衢",
-     "marks": [
-      "ringHalf",
-      "dashHalf",
-      "dash1",
-      "ringHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "朗",
-     "marks": [
-      "daqing",
-      "na"
-     ]
-    },
-    {
-     "text": "耀",
-     "marks": [
-      "na",
-      "ringHalf",
-      "dash1",
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "俱",
-     "marks": [
-      "daqing",
-      "ringHalf",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "無",
-     "marks": [
-      "dash1",
-      "ringHalf",
-      "dash1",
-      "ringHalf",
-      "ring2",
-      "ringHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "礙",
-     "marks": [
-      "ringHalf",
-      "ring2",
-      "dash1",
-      "ring2",
-      "ring2"
-     ]
-    },
-    {
-     "text": "閻",
-     "marks": [
-      "ring2",
-      "dash1",
-      "daqing",
-      "ringHalf",
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "魔",
-     "marks": [
-      "ring2",
-      "ringHalf",
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "瞻",
-     "marks": [
-      "daqing",
-      "ringHalf",
-      "na"
-     ]
-    },
-    {
-     "text": "禮",
-     "marks": [
-      "ringHalf",
-      "dash1",
-      "ringHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "紫",
-     "marks": [
-      "daqing",
-      "ringHalf"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "金",
-     "marks": [
-      "dash1",
-      "dashHalf",
-      "dashHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "臺",
-     "marks": [
-      "daqing",
-      "ringHalf",
-      "na",
-      "dash1",
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "燃",
-     "marks": [
-      "daqing",
-      "dash1",
-      "dash1",
-      "dashHalf",
-      "ring2"
-     ]
-    },
-    {
-     "text": "燈",
-     "marks": []
-    },
-    {
-     "text": "佛",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "成",
-     "marks": [
-      "na",
-      "daqing",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "道",
-     "marks": [
-      "ringHalf",
-      "dash1",
-      "ringHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "曾",
-     "marks": [
-      "daqing",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "受",
-     "marks": [
-      "ringHalf",
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "人",
-     "marks": [
-      "daqing",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "天",
-     "marks": [
-      "na",
-      "dash1",
-      "ringHalf",
-      "dash1",
-      "ringHalf",
-      "ring2",
-      "ringHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "拜",
-     "marks": [
-      "ringHalf",
-      "ring2",
-      "ring2",
-      "ring2"
-     ]
-    },
-    {
-     "text": "南",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "無",
-     "marks": [
-      "dash1",
-      "ringHalf"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [
-      "na"
-     ]
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [
-      "na"
-     ]
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [
-      "na"
-     ]
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "菩",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dash1",
-      "ringHalf",
-      "dashHalf",
-      "ringHalf",
-      "ringHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "dash1",
-      "ringHalf",
-      "daqing",
-      "na",
-      "na",
-      "dash1"
-     ]
-    },
-    {
-     "text": "摩",
-     "marks": [
-      "dash1",
-      "daqing",
-      "ringHalf",
-      "ringHalf",
-      "ringHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "訶",
-     "marks": [
-      "dash1",
-      "daqing",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "ring2",
-      "ring2"
-     ]
-    },
-    {
-     "text": "南",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "無",
-     "marks": [
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "普",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "供",
-     "marks": [
-      "daqing",
-      "dash1"
-     ]
-    },
-    {
-     "text": "養",
-     "marks": [
-      "daqing",
-      "ringHalf",
-      "ringHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "菩",
-     "marks": [
-      "dash1",
-      "ringHalf",
-      "daqing"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    }
-   ]
-  }
- ],
- "categories": [
-  "覺苑寺"
- ]
+  "title" : "11燈晃耀"
 }
