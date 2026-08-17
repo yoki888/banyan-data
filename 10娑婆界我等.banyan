@@ -1,874 +1,1090 @@
 {
- "title": "10娑婆界我等",
- "subtitle": "覺苑寺梵唄傳承",
- "theme": {
-  "ring": "#C02626",
-  "dash": "#1E64D2",
-  "qing": "#7A2BBE",
-  "ink": "#1D1B18",
-  "paper": "#FAF8F5"
- },
- "lines": [
-  {
-   "chars": [
+  "categories" : [
+    "覺苑寺"
+  ],
+  "lines" : [
     {
-     "text": "年",
-     "marks": []
-    },
-    {
-     "text": "四",
-     "marks": []
-    },
-    {
-     "text": "月",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "八",
-     "marks": []
-    },
-    {
-     "text": "摩",
-     "marks": []
-    },
-    {
-     "text": "耶",
-     "marks": []
-    },
-    {
-     "text": "夫",
-     "marks": []
-    },
-    {
-     "text": "人",
-     "marks": []
-    },
-    {
-     "text": "毘",
-     "marks": []
-    },
-    {
-     "text": "蘭",
-     "marks": [],
-     "note": {
-      "marks": [
-       "dashHalf",
-       "na"
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "娑"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "婆"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "界"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "我"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "等"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "本"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "師"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "釋"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "迦"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "牟"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "尼"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "佛"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "周"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "昭"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "王"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "甲"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "寅"
+        }
       ]
-     }
     },
     {
-     "text": "園",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "年"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "四"
+        },
+        {
+          "marks" : [
+            "dashHalf"
+          ],
+          "text" : "月"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "八"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "耶"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "夫"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "人"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "毘"
+        },
+        {
+          "marks" : [
+
+          ],
+          "note" : {
+            "marks" : [
+              "dashHalf",
+              "na"
+            ]
+          },
+          "text" : "蘭"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "園"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "無"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "憂"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf"
+          ],
+          "text" : "樹"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "手"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "攀"
+        },
+        {
+          "marks" : [
+            "dashHalf"
+          ],
+          "text" : "著"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "右"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "脇"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "下"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "降"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dash1"
+          ],
+          "text" : "生"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "dash1"
+          ],
+          "text" : "太"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "daqing"
+          ],
+          "text" : "子"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "太"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "子"
+        },
+        {
+          "marks" : [
+            "daqing"
+          ],
+          "text" : "世"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1",
+            "dash1",
+            "ringHalf"
+          ],
+          "text" : "間"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "稀"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "左"
+        },
+        {
+          "marks" : [
+            "na"
+          ],
+          "text" : "手"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "指"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "著"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "天"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "右"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "手"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "指"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "著"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "地"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "托"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "雙"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "足"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "金"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "盆"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf"
+          ],
+          "text" : "内"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "九"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "龍"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "dash1",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "note" : {
+            "marks" : [
+              "ringHalf"
+            ]
+          },
+          "text" : "土"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ringHalf",
+            "dashHalf",
+            "na",
+            "ringHalf",
+            "na"
+          ],
+          "text" : "水"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "沐"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "金"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "na",
+            "dash1",
+            "dashHalf"
+          ],
+          "text" : "身"
+        },
+        {
+          "marks" : [
+            "na",
+            "na",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "斬"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "斬"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "相"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "成"
+        },
+        {
+          "marks" : [
+            "na",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf"
+          ],
+          "text" : "器"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+            "dashHalf"
+          ],
+          "text" : "斬"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "斬"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf"
+          ],
+          "text" : "相"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "成"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "ringHalf"
+          ],
+          "note" : {
+            "marks" : [
+              "dashHalf"
+            ]
+          },
+          "text" : "器"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf"
+          ],
+          "text" : "行"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "七"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "dash1"
+          ],
+          "text" : "步"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "狠"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "觀"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "dash1"
+          ],
+          "text" : "四"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "dash1",
+            "dashHalf",
+            "na",
+            "dash1",
+            "dashHalf",
+            "dash1",
+            "dashHalf",
+            "dashHalf",
+            "dash1"
+          ],
+          "note" : {
+            "marks" : [
+              "dashHalf"
+            ]
+          },
+          "text" : "圍"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+            "dash1",
+            "dash1",
+            "dashHalf",
+            "dash1",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "遊"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "na",
+            "na",
+            "dash1",
+            "dash1",
+            "dashHalf"
+          ],
+          "note" : {
+            "marks" : [
+              "na"
+            ]
+          },
+          "text" : "见"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf",
+            "ringHalf",
+            "dash1",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "看"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "見"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf",
+            "dash1"
+          ],
+          "text" : "他"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "生"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dash1",
+            "ringHalf"
+          ],
+          "note" : {
+            "marks" : [
+              "ringHalf",
+              "dashHalf"
+            ]
+          },
+          "text" : "老"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "病"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2"
+          ],
+          "text" : "死"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "半"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "夜"
+        },
+        {
+          "marks" : [
+            "dashHalf"
+          ],
+          "text" : "間"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "過"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "城"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dash1",
+            "dashHalf"
+          ],
+          "note" : {
+            "marks" : [
+              "dashHalf"
+            ]
+          },
+          "text" : "去"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "雪"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "山"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "note" : {
+            "marks" : [
+              "ringHalf"
+            ]
+          },
+          "text" : "修"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dash1",
+            "ring2"
+          ],
+          "text" : "行"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "修"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dash1"
+          ],
+          "note" : {
+            "marks" : [
+              "dashHalf"
+            ]
+          },
+          "text" : "道"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "六"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1",
+            "dashHalf",
+            "ringHalf",
+            "dash1"
+          ],
+          "text" : "年"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+            "na",
+            "ringHalf",
+            "dash1",
+            "na",
+            "dash1",
+            "dashHalf",
+            "dashHalf",
+            "na",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "note" : {
+            "marks" : [
+              "na",
+              "dashHalf"
+            ]
+          },
+          "text" : "餘"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "麻"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "麥"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "飯"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ringHalf"
+          ],
+          "text" : "充"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dashHalf"
+          ],
+          "note" : {
+            "marks" : [
+              "dashHalf"
+            ]
+          },
+          "text" : "饑"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf"
+          ],
+          "text" : "蘆"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "芋"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf"
+          ],
+          "text" : "穿"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "過"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "ring2",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "膝"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2"
+          ],
+          "text" : "鵲"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dashHalf"
+          ],
+          "text" : "巢"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dashHalf",
+            "dash1",
+            "dashHalf",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "頂"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+            "ringHalf"
+          ],
+          "note" : {
+            "marks" : [
+              "ringHalf"
+            ]
+          },
+          "text" : "不"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "利"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "我"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "等"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "本"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "澤"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "迦"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "牟"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "尼"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "佛"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "繹"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "加"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "功"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "德"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "擇"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        }
+      ]
     }
-   ]
+  ],
+  "subtitle" : "覺苑寺梵唄傳承",
+  "theme" : {
+    "dash" : "#1E64D2",
+    "ink" : "#1D1B18",
+    "note" : "#B3261E",
+    "paper" : "#FAF8F5",
+    "pulse" : "#8E8E93",
+    "qing" : "#7A2BBE",
+    "ring" : "#C02626"
   },
-  {
-   "chars": [
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "憂",
-     "marks": []
-    },
-    {
-     "text": "樹",
-     "marks": [
-      "dash1",
-      "dashHalf",
-      "dashHalf",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "手",
-     "marks": []
-    },
-    {
-     "text": "攀",
-     "marks": []
-    },
-    {
-     "text": "著",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "右",
-     "marks": []
-    },
-    {
-     "text": "脇",
-     "marks": []
-    },
-    {
-     "text": "下",
-     "marks": [
-      "dash1",
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "降",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "生",
-     "marks": [
-      "dashHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "太",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "子",
-     "marks": [
-      "dash1",
-      "daqing"
-     ]
-    },
-    {
-     "text": "太",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "子",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "世",
-     "marks": [
-      "daqing"
-     ]
-    },
-    {
-     "text": "間",
-     "marks": [
-      "dash1",
-      "dash1",
-      "dash1",
-      "ringHalf"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "稀",
-     "marks": []
-    },
-    {
-     "text": "左",
-     "marks": []
-    },
-    {
-     "text": "手",
-     "marks": [
-      "na"
-     ]
-    },
-    {
-     "text": "指",
-     "marks": []
-    },
-    {
-     "text": "著",
-     "marks": []
-    },
-    {
-     "text": "天",
-     "marks": []
-    },
-    {
-     "text": "右",
-     "marks": []
-    },
-    {
-     "text": "手",
-     "marks": []
-    },
-    {
-     "text": "指",
-     "marks": []
-    },
-    {
-     "text": "著",
-     "marks": []
-    },
-    {
-     "text": "地",
-     "marks": []
-    },
-    {
-     "text": "托",
-     "marks": []
-    },
-    {
-     "text": "雙",
-     "marks": []
-    },
-    {
-     "text": "足",
-     "marks": []
-    },
-    {
-     "text": "金",
-     "marks": []
-    },
-    {
-     "text": "盆",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "内",
-     "marks": [
-      "dash1",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "九",
-     "marks": []
-    },
-    {
-     "text": "龍",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "土",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dash1",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "ringHalf"
-      ]
-     }
-    },
-    {
-     "text": "水",
-     "marks": [
-      "dash1",
-      "ringHalf",
-      "dashHalf",
-      "na",
-      "ringHalf",
-      "na"
-     ]
-    },
-    {
-     "text": "沐",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "金",
-     "marks": []
-    },
-    {
-     "text": "身",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "na",
-      "dash1",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "斬",
-     "marks": [
-      "na",
-      "na",
-      "dashHalf",
-      "ringHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "斬",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "相",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "成",
-     "marks": []
-    },
-    {
-     "text": "器",
-     "marks": [
-      "na",
-      "dashHalf",
-      "dashHalf",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "斬",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "斬",
-     "marks": []
-    },
-    {
-     "text": "相",
-     "marks": [
-      "dash1",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "成",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "器",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "ringHalf"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
-    },
-    {
-     "text": "行",
-     "marks": [
-      "dash1",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "七",
-     "marks": []
-    },
-    {
-     "text": "步",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "狠",
-     "marks": []
-    },
-    {
-     "text": "觀",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "四",
-     "marks": [
-      "dash1",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "圍",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dash1",
-      "dashHalf",
-      "na",
-      "dash1",
-      "dashHalf",
-      "dash1",
-      "dashHalf",
-      "dashHalf",
-      "dash1"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "遊",
-     "marks": [
-      "dash1",
-      "dash1",
-      "dashHalf",
-      "dash1",
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "见",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "na",
-      "na",
-      "dash1",
-      "dash1",
-      "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "na"
-      ]
-     }
-    },
-    {
-     "text": "看",
-     "marks": [
-      "dash1",
-      "dashHalf",
-      "ringHalf",
-      "dash1",
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "見",
-     "marks": []
-    },
-    {
-     "text": "他",
-     "marks": [
-      "dash1",
-      "dashHalf",
-      "dash1"
-     ]
-    },
-    {
-     "text": "生",
-     "marks": []
-    },
-    {
-     "text": "老",
-     "marks": [
-      "ringHalf",
-      "dash1",
-      "ringHalf"
-     ],
-     "note": {
-      "marks": [
-       "ringHalf",
-       "dashHalf"
-      ]
-     }
-    },
-    {
-     "text": "病",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "死",
-     "marks": [
-      "dash1",
-      "ring2"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "半",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "夜",
-     "marks": []
-    },
-    {
-     "text": "間",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "過",
-     "marks": []
-    },
-    {
-     "text": "城",
-     "marks": []
-    },
-    {
-     "text": "去",
-     "marks": [
-      "dashHalf",
-      "dash1",
-      "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
-    },
-    {
-     "text": "雪",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "山",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "修",
-     "marks": [
-      "dash1",
-      "dash1"
-     ],
-     "note": {
-      "marks": [
-       "ringHalf"
-      ]
-     }
-    },
-    {
-     "text": "行",
-     "marks": [
-      "ringHalf",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "修",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "道",
-     "marks": [
-      "dashHalf",
-      "dash1"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
-    },
-    {
-     "text": "六",
-     "marks": []
-    },
-    {
-     "text": "年",
-     "marks": [
-      "dash1",
-      "dash1",
-      "dashHalf",
-      "ringHalf",
-      "dash1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "餘",
-     "marks": [
-      "na",
-      "ringHalf",
-      "dash1",
-      "na",
-      "dash1",
-      "dashHalf",
-      "dashHalf",
-      "na",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "na",
-       "dashHalf"
-      ]
-     }
-    },
-    {
-     "text": "麻",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "麥",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "飯",
-     "marks": []
-    },
-    {
-     "text": "充",
-     "marks": [
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "饑",
-     "marks": [
-      "ring2",
-      "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
-    },
-    {
-     "text": "蘆",
-     "marks": [
-      "dash1",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "芋",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "穿",
-     "marks": [
-      "dash1",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "過",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "膝",
-     "marks": [
-      "dashHalf",
-      "ring2",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "鵲",
-     "marks": [
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "巢",
-     "marks": [
-      "ringHalf",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "頂",
-     "marks": [
-      "dash1",
-      "dashHalf",
-      "dash1",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "不",
-     "marks": [
-      "ringHalf"
-     ],
-     "note": {
-      "marks": [
-       "ringHalf"
-      ]
-     }
-    },
-    {
-     "text": "利",
-     "marks": []
-    },
-    {
-     "text": "我",
-     "marks": []
-    },
-    {
-     "text": "等",
-     "marks": []
-    },
-    {
-     "text": "本",
-     "marks": []
-    },
-    {
-     "text": "澤",
-     "marks": []
-    },
-    {
-     "text": "迦",
-     "marks": []
-    },
-    {
-     "text": "牟",
-     "marks": []
-    },
-    {
-     "text": "尼",
-     "marks": []
-    },
-    {
-     "text": "佛",
-     "marks": []
-    },
-    {
-     "text": "繹",
-     "marks": []
-    },
-    {
-     "text": "加",
-     "marks": []
-    },
-    {
-     "text": "功",
-     "marks": []
-    },
-    {
-     "text": "德",
-     "marks": []
-    },
-    {
-     "text": "擇",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    }
-   ]
-  }
- ],
- "categories": [
-  "覺苑寺"
- ]
+  "title" : "10娑婆界我等"
 }
