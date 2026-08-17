@@ -9,14 +9,12 @@
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "我"
         },
         {
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "今"
         },
         {
@@ -29,14 +27,13 @@
               "dashHalf"
             ]
           },
-          "pulse" : 0,
+          "pulse" : 2,
           "text" : "灌"
         },
         {
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "沐"
         },
         {
@@ -168,49 +165,42 @@
               "na"
             ]
           },
-          "pulse" : 0,
           "text" : "仝"
         },
         {
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "證"
         },
         {
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "如"
         },
         {
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "來"
         },
         {
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "淨"
         },
         {
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "法"
         },
         {
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "身"
         }
       ]
@@ -325,14 +315,12 @@
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "五"
         },
         {
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "濁"
         },
         {
@@ -345,14 +333,12 @@
               "dashHalf"
             ]
           },
-          "pulse" : 0,
           "text" : "眾"
         },
         {
           "marks" : [
 
           ],
-          "pulse" : 0,
           "text" : "生"
         },
         {
