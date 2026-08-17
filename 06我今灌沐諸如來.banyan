@@ -1,527 +1,500 @@
 {
- "title": "06我今灌沐諸如來",
- "subtitle": "覺苑寺梵唄傳承",
- "theme": {
-  "ring": "#C02626",
-  "dash": "#1E64D2",
-  "qing": "#7A2BBE",
-  "ink": "#1D1B18",
-  "paper": "#FAF8F5"
- },
- "lines": [
-  {
-   "chars": [
+  "categories" : [
+    "覺苑寺"
+  ],
+  "lines" : [
     {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [],
-     "note": {
-      "marks": [
-       "dashHalf",
-       "dashHalf"
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "我"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "今"
+        },
+        {
+          "marks" : [
+
+          ],
+          "note" : {
+            "marks" : [
+              "dashHalf",
+              "dashHalf"
+            ]
+          },
+          "pulse" : 0,
+          "text" : "灌"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "沐"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "諸"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "如"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "來"
+        }
       ]
-     }
     },
     {
-     "text": "",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "淨",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "智",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "莊",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "嚴",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "功",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "德",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "海",
-     "marks": [
-      "ring2",
-      "dash1",
-      "dash1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "五",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "濁",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "眾",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "生",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "離",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "塵",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "垢",
-     "marks": [
-      "ring2",
-      "dash1",
-      "ring2",
-      "dash1",
-      "dash1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "",
-     "marks": [],
-     "note": {
-      "marks": [
-       "na"
+      "chars" : [
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "淨"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "智"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "莊"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "嚴"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "功"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "德"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "海"
+        }
       ]
-     }
     },
     {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "仝",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "證",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "如",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "來",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "淨",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "法",
-     "marks": [
-      "dash1",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "身",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1",
-      "ring2",
-      "dash1",
-      "ring2",
-      "dash1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "我",
-     "marks": [
-      "daqing"
-     ]
-    },
-    {
-     "text": "今",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "灌",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "沐",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "諸",
-     "marks": [
-      "daqing"
-     ]
-    },
-    {
-     "text": "如",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "來",
-     "marks": [
-      "ring2",
-      "dash1",
-      "ring2",
-      "dash1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [],
-     "note": {
-      "marks": [
-       "dashHalf",
-       "dashHalf"
+      "chars" : [
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "五"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "濁"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "眾"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "生"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "離"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "塵"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "垢"
+        }
       ]
-     }
     },
     {
-     "text": "",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "淨",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "智",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "莊",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "嚴",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "功",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "德",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "海",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "",
-     "marks": [],
-     "note": {
-      "marks": [
-       "ringHalf"
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "note" : {
+            "marks" : [
+              "na"
+            ]
+          },
+          "pulse" : 0,
+          "text" : "仝"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "證"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "如"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "來"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "淨"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "法"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "身"
+        }
       ]
-     }
     },
     {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "五",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "濁",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "眾",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "生",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "離",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "塵",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "垢",
-     "marks": [
-      "ring2",
-      "dash1",
-      "dash1",
-      "ring2",
-      "dash1",
-      "dash1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "",
-     "marks": [],
-     "note": {
-      "marks": [
-       "na"
+      "chars" : [
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "我"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "今"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "灌"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "沐"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "諸"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1",
+            "ring2"
+          ],
+          "text" : "如"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "dash1",
+            "ring2",
+            "dash1",
+            "ring2",
+            "dash1"
+          ],
+          "text" : "來"
+        }
       ]
-     }
     },
     {
-     "text": "",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+            "daqing"
+          ],
+          "text" : "淨"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "智"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "莊"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "嚴"
+        },
+        {
+          "marks" : [
+            "daqing"
+          ],
+          "text" : "功"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "德"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "ring2",
+            "dash1"
+          ],
+          "text" : "海"
+        }
+      ]
     },
     {
-     "text": "",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "五"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "濁"
+        },
+        {
+          "marks" : [
+
+          ],
+          "note" : {
+            "marks" : [
+              "dashHalf",
+              "dashHalf"
+            ]
+          },
+          "pulse" : 0,
+          "text" : "眾"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "生"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "離"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "塵"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "垢"
+        }
+      ]
     },
     {
-     "text": "",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "仝"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "證"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "如"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "來"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "淨"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "法"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "身"
+        }
+      ]
     },
     {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "pulse" : 2,
+          "text" : ""
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : ""
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "pulse" : 2,
+          "text" : ""
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : ""
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "pulse" : 2,
+          "text" : ""
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1",
+            "ring2"
+          ],
+          "pulse" : 4,
+          "text" : ""
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "dash1",
+            "ring2",
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "pulse" : 11,
+          "text" : ""
+        }
+      ]
     }
-   ]
+  ],
+  "subtitle" : "覺苑寺梵唄傳承",
+  "theme" : {
+    "dash" : "#1E64D2",
+    "ink" : "#1D1B18",
+    "note" : "#B3261E",
+    "paper" : "#FAF8F5",
+    "pulse" : "#8E8E93",
+    "qing" : "#7A2BBE",
+    "ring" : "#C02626"
   },
-  {
-   "chars": [
-    {
-     "text": "全",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "證",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "如",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "來",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "淨",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "法",
-     "marks": [
-      "dash1",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "身",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1",
-      "ring2",
-      "dash1",
-      "ring2",
-      "dash1",
-      "dash1"
-     ]
-    }
-   ]
-  }
- ],
- "categories": [
-  "覺苑寺"
- ]
+  "title" : "06我今灌沐諸如來"
 }
