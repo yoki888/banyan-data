@@ -1,0 +1,259 @@
+{
+  "categories" : [
+    "覺苑寺"
+  ],
+  "lines" : [
+    {
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "往"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "昔"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "所"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "造"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "諸"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "惡"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "業"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "pulse" : 1,
+          "text" : "皆"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "由"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "無"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "始"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "貪"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "嗔"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "癡"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "pulse" : 1,
+          "text" : "從"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "身"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "語"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "意"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "之"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "所"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "生"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "pulse" : 1,
+          "text" : "今"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "對"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "佛"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "前"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "求"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "懺"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "pulse" : 1,
+          "text" : "悔"
+        }
+      ]
+    }
+  ],
+  "subtitle" : "覺苑寺梵唄傳承",
+  "theme" : {
+    "dash" : "#1E64D2",
+    "ink" : "#1D1B18",
+    "note" : "#B3261E",
+    "paper" : "#FAF8F5",
+    "pulse" : "#8E8E93",
+    "qing" : "#7A2BBE",
+    "ring" : "#C02626"
+  },
+  "title" : "01往昔所造諸惡業"
+}

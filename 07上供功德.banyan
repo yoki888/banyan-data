@@ -1,0 +1,200 @@
+{
+ "title": "07上供功德",
+ "subtitle": "覺苑寺梵唄傳承",
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dash1",
+      "combo",
+      "dash1"
+     ],
+     "note": {
+      "marks": [
+       "dash1",
+       "ringHalf",
+       "daqing",
+       "ringHalf",
+       "ringHalf",
+       "ring2"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "daqing"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  }
+ ],
+ "categories": [
+  "覺苑寺"
+ ]
+}

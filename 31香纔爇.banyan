@@ -1,0 +1,1007 @@
+{
+ "title": "31香纔爇",
+ "subtitle": "覺苑寺梵唄傳承",
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "大",
+     "marks": []
+    },
+    {
+     "text": "乘",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "富",
+     "marks": []
+    },
+    {
+     "text": "住",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "问",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "大",
+     "marks": [
+      "ringHalf",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "乘",
+     "marks": []
+    },
+    {
+     "text": "尚",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "中",
+     "marks": []
+    },
+    {
+     "text": "住",
+     "marks": []
+    },
+    {
+     "text": "室",
+     "marks": [
+      "combo"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ringHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "二",
+     "marks": []
+    },
+    {
+     "text": "大",
+     "marks": []
+    },
+    {
+     "text": "乘",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "二",
+     "marks": []
+    },
+    {
+     "text": "尚",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "位",
+     "marks": []
+    },
+    {
+     "text": "二",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "附",
+     "marks": []
+    },
+    {
+     "text": "錄",
+     "marks": []
+    },
+    {
+     "text": "應",
+     "marks": []
+    },
+    {
+     "text": "用",
+     "marks": []
+    },
+    {
+     "text": "諸",
+     "marks": []
+    },
+    {
+     "text": "讚",
+     "marks": []
+    },
+    {
+     "text": "語",
+     "marks": [
+      "ringHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "纔",
+     "marks": []
+    },
+    {
+     "text": "爇",
+     "marks": []
+    },
+    {
+     "text": "爐",
+     "marks": []
+    },
+    {
+     "text": "焚",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf",
+       "daqing"
+      ]
+     }
+    },
+    {
+     "text": "寶",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "鼎",
+     "marks": []
+    },
+    {
+     "text": "中",
+     "marks": [
+      "daqing",
+      "daqing",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "梅",
+     "marks": [
+      "daqing",
+      "dashHalf",
+      "daqing",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "檀",
+     "marks": [
+      "daqing",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "沉",
+     "marks": [
+      "daqing",
+      "dash1"
+     ]
+    },
+    {
+     "text": "乳",
+     "marks": []
+    },
+    {
+     "text": "眞",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "堪",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "供",
+     "marks": [
+      "dash1",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dash1",
+      "dash1",
+      "daqing"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "香",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "雲",
+     "marks": []
+    },
+    {
+     "text": "繚",
+     "marks": []
+    },
+    {
+     "text": "繞",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "蓮",
+     "marks": []
+    },
+    {
+     "text": "花",
+     "marks": [
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "動",
+     "marks": []
+    },
+    {
+     "text": "十",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "方",
+     "marks": [
+      "daqing",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "諸",
+     "marks": [
+      "na",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": []
+    },
+    {
+     "text": "下",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "天",
+     "marks": []
+    },
+    {
+     "text": "宮",
+     "marks": [
+      "dashHalf",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dashHalf",
+      "dash1",
+      "dash1",
+      "daqing"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "天",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "臺",
+     "marks": []
+    },
+    {
+     "text": "山",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": []
+    },
+    {
+     "text": "漢",
+     "marks": [
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "來",
+     "marks": []
+    },
+    {
+     "text": "受",
+     "marks": []
+    },
+    {
+     "text": "人",
+     "marks": []
+    },
+    {
+     "text": "間",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "供",
+     "marks": [
+      "dashHalf",
+      "daqing",
+      "dashHalf",
+      "dashHalf",
+      "daqing",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dash1",
+       "dash1",
+       "dash1",
+       "daqing"
+      ]
+     }
+    },
+    {
+     "text": "十",
+     "marks": []
+    },
+    {
+     "text": "方",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "諸",
+     "marks": [
+      "daqing"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "下",
+     "marks": [
+      "daqing"
+     ]
+    },
+    {
+     "text": "天",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "宮",
+     "marks": []
+    },
+    {
+     "text": "清",
+     "marks": [
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "凉",
+     "marks": []
+    },
+    {
+     "text": "山",
+     "marks": [
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "羅",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "漢",
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "來",
+     "marks": []
+    },
+    {
+     "text": "受",
+     "marks": []
+    },
+    {
+     "text": "人",
+     "marks": []
+    },
+    {
+     "text": "間",
+     "marks": []
+    },
+    {
+     "text": "供",
+     "marks": [
+      "daqing",
+      "dashHalf",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "票",
+     "marks": [
+      "dashHalf",
+      "daqing",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "香",
+     "marks": [
+      "dashHalf",
+      "daqing",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "dash1",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "供",
+     "marks": [
+      "daqing",
+      "dash1"
+     ]
+    },
+    {
+     "text": "養",
+     "marks": [
+      "daqing",
+      "dash1"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "daqing"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "戒",
+     "marks": []
+    },
+    {
+     "text": "定",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "香",
+     "marks": []
+    },
+    {
+     "text": "金",
+     "marks": []
+    },
+    {
+     "text": "爐",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "放",
+     "marks": [
+      "na",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "頃",
+     "marks": [
+      "daqing",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "daqing"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "刻",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": [
+      "daqing",
+      "dash1",
+      "na",
+      "dashHalf",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "界",
+     "marks": [
+      "daqing",
+      "dash1",
+      "dashHalf",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": [
+      "daqing",
+      "dashHalf",
+      "dash1",
+      "dash1"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "蒙",
+     "marks": []
+    },
+    {
+     "text": "熏",
+     "marks": []
+    },
+    {
+     "text": "諸",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "海",
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "會",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "悉",
+     "marks": [
+      "na"
+     ]
+    },
+    {
+     "text": "遙",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "聞",
+     "marks": []
+    },
+    {
+     "text": "隨",
+     "marks": [
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "dash1",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "處",
+     "marks": [
+      "na",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "daqing"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "秸",
+     "marks": []
+    },
+    {
+     "text": "祥",
+     "marks": []
+    },
+    {
+     "text": "雲",
+     "marks": []
+    },
+    {
+     "text": "誠",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "意",
+     "marks": [
+      "daqing",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "daqing",
+      "dashHalf",
+      "daqing",
+      "dashHalf",
+      "dashHalf",
+      "daqing",
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dash1",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "方",
+     "marks": [
+      "na",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "殷",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "諸",
+     "marks": [
+      "na",
+      "na"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "na",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "ringHalf",
+      "dashHalf",
+      "dashHalf",
+      "dash1",
+      "daqing",
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "現",
+     "marks": [
+      "daqing",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": []
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "daqing"
+     ],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "羅",
+     "marks": [
+      "dashHalf",
+      "dashHalf",
+      "ringHalf",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "漢",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "聲",
+     "marks": [
+      "dash1",
+      "dashHalf",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "dash1",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "聞",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "daqing",
+      "dash1",
+      "dash1",
+      "dash1",
+      "dash1",
+      "dash1"
+     ],
+     "note": {
+      "marks": [
+       "dash1",
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "categories": [
+  "覺苑寺"
+ ]
+}

@@ -1,0 +1,453 @@
+{
+ "title": "25南無甘露王",
+ "subtitle": "覺苑寺梵唄傳承",
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "摩",
+     "marks": [],
+     "note": {
+      "marks": [
+       "na",
+       "ring1"
+      ]
+     }
+    },
+    {
+     "text": "般",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "若",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
+    },
+    {
+     "text": "波",
+     "marks": []
+    },
+    {
+     "text": "羅",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "留",
+     "marks": []
+    },
+    {
+     "text": "多",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "幸",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "甘",
+     "marks": [
+      "ring1"
+     ],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "露",
+     "marks": []
+    },
+    {
+     "text": "王",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "苦",
+     "marks": []
+    },
+    {
+     "text": "薤",
+     "marks": []
+    },
+    {
+     "text": "藥",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "遊",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "赢",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "麗",
+     "marks": []
+    },
+    {
+     "text": "凈",
+     "marks": []
+    },
+    {
+     "text": "功",
+     "marks": []
+    },
+    {
+     "text": "德",
+     "marks": []
+    },
+    {
+     "text": "陈",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "勝",
+     "marks": [
+      "ring1",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "行",
+     "marks": [
+      "ringHalf",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "邊",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "勝",
+     "marks": [
+      "ring1",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "福",
+     "marks": [
+      "ring1",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "皆",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "回",
+     "marks": [
+      "ring1",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "向",
+     "marks": [
+      "ring1",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "普",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "願",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "沈",
+     "marks": [
+      "ring1",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "溺",
+     "marks": [
+      "ring1",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "諸",
+     "marks": [
+      "ring1",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "有",
+     "marks": [
+      "ring1"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "情",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "速",
+     "marks": []
+    },
+    {
+     "text": "往",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "量",
+     "marks": []
+    },
+    {
+     "text": "光",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring1",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "剎",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "十",
+     "marks": []
+    },
+    {
+     "text": "方",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": [
+      "dashHalf",
+      "dashHalf",
+      "ring1"
+     ]
+    },
+    {
+     "text": "世",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": [
+      "ring1",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "切",
+     "marks": [
+      "ring1",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": [
+      "daqing",
+      "ringHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "奶",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "摩",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "部",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1"
+      ]
+     }
+    },
+    {
+     "text": "薩",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring1",
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "categories": [
+  "覺苑寺"
+ ]
+}

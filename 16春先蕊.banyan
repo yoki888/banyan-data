@@ -1,0 +1,78 @@
+{
+ "title": "16春先蕊",
+ "subtitle": "覺苑寺梵唄傳承",
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "重",
+     "marks": []
+    },
+    {
+     "text": "新",
+     "marks": []
+    },
+    {
+     "text": "睡",
+     "marks": []
+    },
+    {
+     "text": "魔",
+     "marks": []
+    },
+    {
+     "text": "王",
+     "marks": []
+    },
+    {
+     "text": "能",
+     "marks": []
+    },
+    {
+     "text": "退",
+     "marks": []
+    },
+    {
+     "text": "幾",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "度",
+     "marks": []
+    },
+    {
+     "text": "黃",
+     "marks": []
+    },
+    {
+     "text": "昏",
+     "marks": []
+    },
+    {
+     "text": "陣",
+     "marks": []
+    },
+    {
+     "text": "南",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    }
+   ]
+  }
+ ],
+ "categories": [
+  "覺苑寺"
+ ]
+}

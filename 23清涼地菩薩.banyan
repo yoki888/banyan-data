@@ -1,0 +1,265 @@
+{
+ "title": "23清涼地菩薩",
+ "subtitle": "覺苑寺梵唄傳承",
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "主",
+     "marks": []
+    },
+    {
+     "text": "月",
+     "marks": []
+    },
+    {
+     "text": "你",
+     "marks": []
+    },
+    {
+     "text": "也",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf",
+       "ringHalf",
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "菩",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf",
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "薩",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf",
+       "ringHalf",
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "原",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "部",
+     "marks": []
+    },
+    {
+     "text": "薩",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "南",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "通",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ring2"
+      ]
+     }
+    },
+    {
+     "text": "清",
+     "marks": []
+    },
+    {
+     "text": "京",
+     "marks": []
+    },
+    {
+     "text": "地",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
+     "text": "雇",
+     "marks": []
+    },
+    {
+     "text": "產",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf",
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ring2",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "南",
+     "marks": []
+    },
+    {
+     "text": "血",
+     "marks": []
+    },
+    {
+     "text": "清",
+     "marks": []
+    },
+    {
+     "text": "青",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "清",
+     "marks": []
+    },
+    {
+     "text": "地",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "菩",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "薩",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf",
+       "ringHalf",
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "寧",
+     "marks": []
+    },
+    {
+     "text": "可",
+     "marks": []
+    }
+   ]
+  }
+ ],
+ "categories": [
+  "覺苑寺"
+ ]
+}

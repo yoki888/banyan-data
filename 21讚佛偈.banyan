@@ -1,0 +1,211 @@
+{
+ "title": "21讚佛偈",
+ "subtitle": "覺苑寺梵唄傳承",
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "南",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "本",
+     "marks": []
+    },
+    {
+     "text": "師",
+     "marks": []
+    },
+    {
+     "text": "釋",
+     "marks": []
+    },
+    {
+     "text": "迦",
+     "marks": []
+    },
+    {
+     "text": "牟",
+     "marks": []
+    },
+    {
+     "text": "尼",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dashHalf",
+      "dashHalf",
+      "ringHalf",
+      "dash1"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf",
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "南",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "本",
+     "marks": []
+    },
+    {
+     "text": "師",
+     "marks": []
+    },
+    {
+     "text": "釋",
+     "marks": []
+    },
+    {
+     "text": "迦",
+     "marks": []
+    },
+    {
+     "text": "牟",
+     "marks": []
+    },
+    {
+     "text": "尼",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring2",
+      "dash1",
+      "na",
+      "ringHalf"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf",
+       "dashHalf",
+       "dashHalf",
+       "dash1"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "釋",
+     "marks": []
+    },
+    {
+     "text": "迦",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "如",
+     "marks": []
+    },
+    {
+     "text": "來",
+     "marks": [
+      "dashHalf",
+      "dash1"
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "dashHalf",
+       "na",
+       "na",
+       "dashHalf",
+       "dashHalf",
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "釋",
+     "marks": []
+    },
+    {
+     "text": "迦",
+     "marks": []
+    },
+    {
+     "text": "如",
+     "marks": []
+    },
+    {
+     "text": "來",
+     "marks": [
+      "dashHalf",
+      "dashHalf",
+      "na",
+      "na",
+      "na"
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "dashHalf",
+       "dashHalf",
+       "dashHalf",
+       "dashHalf",
+       "na",
+       "na",
+       "ringHalf",
+       "na",
+       "na",
+       "na",
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  }
+ ],
+ "categories": [
+  "覺苑寺"
+ ]
+}

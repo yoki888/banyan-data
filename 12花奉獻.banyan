@@ -1,0 +1,85 @@
+{
+ "title": "12花奉獻",
+ "subtitle": "覺苑寺梵唄傳承",
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "金",
+     "marks": []
+    },
+    {
+     "text": "蓮",
+     "marks": []
+    },
+    {
+     "text": "青",
+     "marks": []
+    },
+    {
+     "text": "衣",
+     "marks": []
+    },
+    {
+     "text": "童",
+     "marks": []
+    },
+    {
+     "text": "子",
+     "marks": []
+    },
+    {
+     "text": "持",
+     "marks": []
+    },
+    {
+     "text": "花",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "親",
+     "marks": []
+    },
+    {
+     "text": "觀",
+     "marks": []
+    },
+    {
+     "text": "慈",
+     "marks": []
+    },
+    {
+     "text": "尊",
+     "marks": []
+    },
+    {
+     "text": "面",
+     "marks": []
+    },
+    {
+     "text": "南",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    }
+   ]
+  }
+ ],
+ "categories": [
+  "覺苑寺"
+ ]
+}

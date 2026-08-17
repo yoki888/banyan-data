@@ -1,0 +1,109 @@
+{
+ "title": "22課誦本第一頁",
+ "subtitle": "覺苑寺梵唄傳承",
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "勃",
+     "marks": []
+    },
+    {
+     "text": "裘",
+     "marks": []
+    },
+    {
+     "text": "課",
+     "marks": []
+    },
+    {
+     "text": "評",
+     "marks": []
+    },
+    {
+     "text": "禮",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": []
+    },
+    {
+     "text": "儀",
+     "marks": []
+    },
+    {
+     "text": "規",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
+     "text": "排",
+     "marks": []
+    },
+    {
+     "text": "班",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "東",
+     "marks": []
+    },
+    {
+     "text": "西",
+     "marks": []
+    },
+    {
+     "text": "對",
+     "marks": []
+    },
+    {
+     "text": "面",
+     "marks": []
+    },
+    {
+     "text": "立",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  }
+ ],
+ "categories": [
+  "覺苑寺"
+ ]
+}

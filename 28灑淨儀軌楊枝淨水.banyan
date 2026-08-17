@@ -1,0 +1,154 @@
+{
+ "title": "28灑淨儀軌楊枝淨水",
+ "subtitle": "覺苑寺梵唄傳承",
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "摩",
+     "marks": [
+      "dash1",
+      "dash1",
+      "dash1"
+     ],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "艹",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "隡",
+     "marks": []
+    },
+    {
+     "text": "南",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "注",
+     "marks": []
+    },
+    {
+     "text": "仴",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "涼",
+     "marks": []
+    },
+    {
+     "text": "地",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "苙",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "薩",
+     "marks": []
+    },
+    {
+     "text": "摩",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": []
+    },
+    {
+     "text": "薩",
+     "marks": []
+    },
+    {
+     "text": "有",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
+     "text": "月",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "涼",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "地",
+     "marks": []
+    },
+    {
+     "text": "芷",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  }
+ ],
+ "categories": [
+  "覺苑寺"
+ ]
+}
