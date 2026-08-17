@@ -1,224 +1,304 @@
 {
- "title": "08拔一切業障根本得生淨土陀羅尼1",
- "subtitle": "覺苑寺梵唄傳承",
- "theme": {
-  "ring": "#C02626",
-  "dash": "#1E64D2",
-  "qing": "#7A2BBE",
-  "ink": "#1D1B18",
-  "paper": "#FAF8F5"
- },
- "lines": [
-  {
-   "chars": [
+  "categories" : [
+    "覺苑寺"
+  ],
+  "lines" : [
     {
-     "text": "夜",
-     "marks": []
-    },
-    {
-     "text": "他",
-     "marks": [],
-     "note": {
-      "marks": [
-       "dashHalf",
-       "dash1",
-       "dashHalf",
-       "dashHalf"
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "夜"
+        },
+        {
+          "marks" : [
+
+          ],
+          "note" : {
+            "marks" : [
+              "dashHalf",
+              "dash1",
+              "dashHalf",
+              "dashHalf"
+            ]
+          },
+          "text" : "他"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "阿"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "彌"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "唎"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "都"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "婆"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "毘"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "间"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "彌"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "唎"
+        },
+        {
+          "marks" : [
+            "ring1"
+          ],
+          "text" : "哆"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "悉"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "躭"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        }
       ]
-     }
     },
     {
-     "text": "阿",
-     "marks": []
-    },
-    {
-     "text": "彌",
-     "marks": []
-    },
-    {
-     "text": "唎",
-     "marks": []
-    },
-    {
-     "text": "都",
-     "marks": []
-    },
-    {
-     "text": "婆",
-     "marks": []
-    },
-    {
-     "text": "毘",
-     "marks": []
-    },
-    {
-     "text": "间",
-     "marks": []
-    },
-    {
-     "text": "彌",
-     "marks": []
-    },
-    {
-     "text": "唎",
-     "marks": []
-    },
-    {
-     "text": "哆",
-     "marks": [
-      "ring1"
-     ]
-    },
-    {
-     "text": "悉",
-     "marks": []
-    },
-    {
-     "text": "躭",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "婆",
-     "marks": []
-    },
-    {
-     "text": "毘",
-     "marks": []
-    },
-    {
-     "text": "河",
-     "marks": []
-    },
-    {
-     "text": "彌",
-     "marks": []
-    },
-    {
-     "text": "唎",
-     "marks": []
-    },
-    {
-     "text": "哆",
-     "marks": []
-    },
-    {
-     "text": "毘",
-     "marks": []
-    },
-    {
-     "text": "迦",
-     "marks": []
-    },
-    {
-     "text": "蘭",
-     "marks": []
-    },
-    {
-     "text": "帝",
-     "marks": []
-    },
-    {
-     "text": "阿",
-     "marks": []
-    },
-    {
-     "text": "彌",
-     "marks": []
-    },
-    {
-     "text": "唎",
-     "marks": []
-    },
-    {
-     "text": "哆",
-     "marks": [
-      "ring1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "阿",
-     "marks": []
-    },
-    {
-     "text": "彌",
-     "marks": []
-    },
-    {
-     "text": "陀",
-     "marks": [
-      "dash1",
-      "dash1",
-      "dash1"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf",
-       "ring2"
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "婆"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "毘"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "河"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "彌"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "唎"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "哆"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "毘"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "迦"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "蘭"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "帝"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "阿"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "彌"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "唎"
+        },
+        {
+          "marks" : [
+            "ring1"
+          ],
+          "text" : "哆"
+        }
       ]
-     }
     },
     {
-     "text": "佛",
-     "marks": []
-    },
-    {
-     "text": "身",
-     "marks": []
-    },
-    {
-     "text": "金",
-     "marks": []
-    },
-    {
-     "text": "色",
-     "marks": []
-    },
-    {
-     "text": "相",
-     "marks": []
-    },
-    {
-     "text": "好",
-     "marks": []
-    },
-    {
-     "text": "光",
-     "marks": []
-    },
-    {
-     "text": "明",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "等",
-     "marks": []
-    },
-    {
-     "text": "倫",
-     "marks": [
-      "dashHalf"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "阿"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "彌"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1",
+            "dash1"
+          ],
+          "note" : {
+            "marks" : [
+              "dashHalf",
+              "ring2"
+            ]
+          },
+          "text" : "陀"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "佛"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "身"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "金"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "色"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "相"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "好"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "光"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "明"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "無"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "等"
+        },
+        {
+          "marks" : [
+            "dashHalf"
+          ],
+          "text" : "倫"
+        }
+      ]
     }
-   ]
-  }
- ],
- "categories": [
-  "覺苑寺"
- ]
+  ],
+  "subtitle" : "覺苑寺梵唄傳承",
+  "theme" : {
+    "dash" : "#1E64D2",
+    "ink" : "#1D1B18",
+    "note" : "#B3261E",
+    "paper" : "#FAF8F5",
+    "pulse" : "#8E8E93",
+    "qing" : "#7A2BBE",
+    "ring" : "#C02626"
+  },
+  "title" : "08拔一切業障根本得生淨土陀羅尼"
 }
