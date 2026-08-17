@@ -422,68 +422,6 @@
           "text" : "身"
         }
       ]
-    },
-    {
-      "chars" : [
-        {
-          "marks" : [
-            "ring2"
-          ],
-          "pulse" : 2,
-          "text" : ""
-        },
-        {
-          "marks" : [
-            "dash1"
-          ],
-          "pulse" : 1,
-          "text" : ""
-        },
-        {
-          "marks" : [
-            "ring2"
-          ],
-          "pulse" : 2,
-          "text" : ""
-        },
-        {
-          "marks" : [
-            "dash1"
-          ],
-          "pulse" : 1,
-          "text" : ""
-        },
-        {
-          "marks" : [
-            "ring2"
-          ],
-          "pulse" : 2,
-          "text" : ""
-        },
-        {
-          "marks" : [
-            "dash1",
-            "dash1",
-            "ring2"
-          ],
-          "pulse" : 4,
-          "text" : ""
-        },
-        {
-          "marks" : [
-            "dash1",
-            "ring2",
-            "dash1",
-            "ring2",
-            "dash1",
-            "ring2",
-            "dash1",
-            "dash1"
-          ],
-          "pulse" : 11,
-          "text" : ""
-        }
-      ]
     }
   ],
   "subtitle" : "覺苑寺梵唄傳承",
