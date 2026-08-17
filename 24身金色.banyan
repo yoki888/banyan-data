@@ -22,37 +22,39 @@
     {
      "text": "陀",
      "marks": [
-      "dash1"
+      "dashHalf"
      ]
     },
     {
      "text": "佛",
-     "marks": []
+     "marks": [
+      "dashHalf"
+     ]
     },
     {
      "text": "身",
      "marks": [
-      "daqing"
+      "ring1",
+      "dash1"
      ]
     },
     {
      "text": "金",
      "marks": [
-      "ring2",
       "dashHalf",
       "ring1"
      ]
     },
     {
      "text": "色",
-     "marks": []
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
     },
     {
      "text": "相",
-     "marks": [
-      "dashHalf",
-      "dash1"
-     ]
+     "marks": []
     },
     {
      "text": "好",
@@ -65,48 +67,47 @@
     {
      "text": "明",
      "marks": [
-      "dash1"
+      "dashHalf"
      ]
     },
     {
      "text": "無",
-     "marks": []
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ]
     },
     {
      "text": "等",
      "marks": [
-      "dashHalf",
+      "combo",
       "dash1"
      ]
     },
     {
      "text": "倫",
      "marks": [
-      "dash1"
+      "daqing"
      ]
-    },
-    {
-     "text": "",
-     "marks": []
     }
    ]
   },
   {
    "chars": [
     {
-     "text": "自",
+     "text": "白",
      "marks": [
-      "ring2"
+      "ring1"
      ]
     },
     {
-     "text": "量",
+     "text": "毫",
      "marks": []
     },
     {
      "text": "宛",
      "marks": [
-      "dash1"
+      "dashHalf"
      ]
     },
     {
@@ -118,20 +119,18 @@
     {
      "text": "五",
      "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "須",
-     "marks": [
+      "na",
       "dashHalf"
      ]
     },
     {
+     "text": "須",
+     "marks": []
+    },
+    {
      "text": "彌",
      "marks": [
-      "dashHalf",
-      "dash1"
+      "dashHalf"
      ]
     },
     {
@@ -148,27 +147,19 @@
     },
     {
      "text": "清",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "四",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "大",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "海",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     }
    ]
   },
@@ -196,9 +187,7 @@
     },
     {
      "text": "無",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "數",
@@ -208,15 +197,11 @@
     },
     {
      "text": "億",
-     "marks": [
-      "dash1"
-     ]
+     "marks": []
     },
     {
      "text": "化",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "菩",
@@ -224,9 +209,7 @@
     },
     {
      "text": "薩",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "眾",
@@ -237,7 +220,6 @@
     {
      "text": "亦",
      "marks": [
-      "dashHalf",
       "dashHalf"
      ]
     },
@@ -278,7 +260,6 @@
      "text": "度",
      "marks": [
       "dashHalf",
-      "dashHalf",
       "dashHalf"
      ]
     },
@@ -297,7 +278,6 @@
     {
      "text": "九",
      "marks": [
-      "dashHalf",
       "dashHalf"
      ]
     },
@@ -319,15 +299,11 @@
     },
     {
      "text": "彼",
-     "marks": [
-      "na",
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "岸",
      "marks": [
-      "dashHalf",
       "dash1"
      ]
     }
@@ -349,9 +325,7 @@
     },
     {
      "text": "方",
-     "marks": [
-      "dash1"
-     ]
+     "marks": []
     },
     {
      "text": "極",
@@ -359,21 +333,17 @@
     },
     {
      "text": "樂",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "世",
      "marks": [
-      "na"
+      "dashHalf"
      ]
     },
     {
      "text": "界",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     }
    ]
   },
@@ -392,23 +362,18 @@
     {
      "text": "大",
      "marks": [
-      "dashHalf",
-      "dash1"
+      "dashHalf"
      ]
     },
     {
      "text": "悲",
      "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "dashHalf"
+      "dash1"
      ]
     },
     {
      "text": "阿",
      "marks": [
-      "dashHalf",
       "dashHalf"
      ]
     },
@@ -418,12 +383,9 @@
     },
     {
      "text": "陀",
-     "marks": [],
-     "note": {
-      "marks": [
-       "na"
-      ]
-     }
+     "marks": [
+      "ring1"
+     ]
     },
     {
      "text": "佛",
@@ -467,7 +429,9 @@
     },
     {
      "text": "彌",
-     "marks": []
+     "marks": [
+      "dash1"
+     ]
     },
     {
      "text": "陀",
@@ -475,9 +439,7 @@
     },
     {
      "text": "佛",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "阿",
@@ -512,7 +474,7 @@
     {
      "text": "佛",
      "marks": [
-      "daqing"
+      "ringHalf"
      ]
     },
     {
@@ -533,9 +495,7 @@
     },
     {
      "text": "佛",
-     "marks": [
-      "daqing"
-     ]
+     "marks": []
     }
    ]
   },
@@ -543,9 +503,7 @@
    "chars": [
     {
      "text": "阿",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "彌",
@@ -553,9 +511,7 @@
     },
     {
      "text": "陀",
-     "marks": [
-      "dash1"
-     ]
+     "marks": []
     },
     {
      "text": "佛",
@@ -587,14 +543,13 @@
     },
     {
      "text": "",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "",
-     "marks": []
+     "marks": [
+      "dashHalf"
+     ]
     }
    ]
   }

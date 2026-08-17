@@ -10,7 +10,579 @@
  },
  "lines": [
   {
-   "chars": []
+   "chars": [
+    {
+     "text": "蓮",
+     "marks": []
+    },
+    {
+     "text": "池",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "海",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "會",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "dashHalf",
+      "dash1"
+     ]
+    },
+    {
+     "text": "彌",
+     "marks": [
+      "dash1",
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "陀",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "如",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "來",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "dash1",
+      "ringHalf",
+      "ring2"
+     ]
+    },
+    {
+     "text": "觀",
+     "marks": [
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "音",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "勢",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "至",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "坐",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "蓮",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "臺",
+     "marks": [
+      "ring1",
+      "ring1",
+      "ring1"
+     ]
+    },
+    {
+     "text": "接",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "引",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "dash1"
+     ]
+    },
+    {
+     "text": "上",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "金",
+     "marks": [
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "階",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ring1"
+     ]
+    },
+    {
+     "text": "大",
+     "marks": [
+      "ring1",
+      "ring1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "弘",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "開",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "普",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "願",
+     "marks": [
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "離",
+     "marks": [
+      "ringHalf",
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "塵",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "埃",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ring1",
+      "ring1"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "蓮",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "池",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "海",
+     "marks": []
+    },
+    {
+     "text": "會",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "ring2"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "薩",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "dash1",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "dash1",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ring2"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ring1",
+      "ring1"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "蓮",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "池",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "海",
+     "marks": []
+    },
+    {
+     "text": "會",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "訶",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": [
+      "ring1",
+      "ring1"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "蓮",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "池",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "海",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "會",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "na"
+     ]
+    },
+    {
+     "text": "菩",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "dash1",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "dash1"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "dash1",
+      "ring2",
+      "ringHalf",
+      "dash1",
+      "dash1",
+      "ring1"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ring1",
+      "ring1"
+     ]
+    }
+   ]
   }
  ],
  "categories": [

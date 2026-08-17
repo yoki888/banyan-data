@@ -13,47 +13,29 @@
    "chars": [
     {
      "text": "諸",
-     "marks": [
-      "ringHalf"
-     ],
-     "note": {
-      "marks": [
-       "na"
-      ]
-     }
+     "marks": []
     },
     {
      "text": "業",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "道",
-     "marks": [
-      "dash1"
-     ],
-     "note": {
-      "marks": [
-       "dash1"
-      ]
-     }
+     "marks": []
     },
     {
      "text": "官",
      "marks": [
       "daqing",
       "ring1",
-      "daqing",
-      "dashHalf"
+      "daqing"
      ],
      "note": {
       "marks": [
-       "na",
        "dashHalf",
        "dashHalf",
        "dashHalf",
-       "dash1"
+       "dashHalf"
       ]
      }
     },
@@ -80,8 +62,8 @@
     {
      "text": "降",
      "marks": [
-      "dash1",
-      "dash1"
+      "dashHalf",
+      "dashHalf"
      ]
     },
     {
@@ -89,7 +71,7 @@
      "marks": [],
      "note": {
       "marks": [
-       "dash1"
+       "dashHalf"
       ]
      }
     },
@@ -106,17 +88,23 @@
   {
    "chars": [
     {
+     "text": "制",
+     "marks": []
+    },
+    {
+     "text": "一",
+     "marks": []
+    },
+    {
      "text": "法",
-     "marks": [
-      "dash1"
-     ]
+     "marks": []
     },
     {
      "text": "會",
      "marks": [
-      "daqing",
-      "dash1",
-      "dash1"
+      "ring1",
+      "dashHalf",
+      "dashHalf"
      ]
     },
     {
@@ -126,8 +114,8 @@
     {
      "text": "受",
      "marks": [
-      "dash1",
-      "dash1"
+      "dashHalf",
+      "dashHalf"
      ]
     },
     {
@@ -174,12 +162,7 @@
     },
     {
      "text": "養",
-     "marks": [],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
+     "marks": []
     }
    ]
   },
@@ -190,11 +173,11 @@
      "marks": [
       "dashHalf",
       "dashHalf",
-      "dashHalf",
-      "dashHalf"
+      "na"
      ],
      "note": {
       "marks": [
+       "na",
        "ringHalf"
       ]
      }
@@ -202,8 +185,8 @@
     {
      "text": "字",
      "marks": [
-      "dash1",
-      "dash1"
+      "dashHalf",
+      "dashHalf"
      ]
     },
     {
@@ -218,12 +201,7 @@
      "marks": [
       "daqing",
       "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
+     ]
     },
     {
      "text": "花",
@@ -289,23 +267,20 @@
     },
     {
      "text": "光",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
+     "marks": []
     },
     {
      "text": "明",
      "marks": [
       "daqing",
-      "dash1",
-      "dash1",
+      "dashHalf",
+      "dashHalf",
       "daqing",
-      "dash1",
+      "dashHalf",
       "daqing",
-      "dash1",
+      "dashHalf",
       "daqing",
-      "dash1",
+      "dashHalf",
       "dashHalf",
       "dashHalf"
      ]
@@ -318,20 +293,19 @@
     },
     {
      "text": "一",
-     "marks": [
-      "dash1"
-     ]
+     "marks": []
     },
     {
      "text": "手",
      "marks": [
-      "dash1",
-      "dash1"
+      "dashHalf"
      ]
     },
     {
      "text": "印",
-     "marks": []
+     "marks": [
+      "ringHalf"
+     ]
     },
     {
      "text": "持",
@@ -347,7 +321,9 @@
     },
     {
      "text": "塗",
-     "marks": []
+     "marks": [
+      "dashHalf"
+     ]
     },
     {
      "text": "",
@@ -361,34 +337,28 @@
      "text": "下",
      "marks": [
       "dashHalf",
-      "dash1",
+      "dashHalf",
       "dashHalf",
       "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
+     ]
     },
     {
      "text": "一",
      "marks": [
-      "dash1",
-      "dash1"
+      "ringHalf",
+      "dashHalf"
      ]
     },
     {
      "text": "手",
-     "marks": [
-      "daqing"
-     ]
+     "marks": []
     },
     {
      "text": "印",
      "marks": [
-      "dash1",
-      "dash1"
+      "dashHalf",
+      "dashHalf",
+      "dashHalf"
      ]
     },
     {
@@ -400,14 +370,13 @@
     {
      "text": "相",
      "marks": [
-      "dash1",
-      "dash1"
+      "dashHalf",
+      "dashHalf"
      ]
     },
     {
      "text": "交",
      "marks": [
-      "daqing",
       "daqing",
       "daqing"
      ],
@@ -427,7 +396,7 @@
      "marks": []
     },
     {
-     "text": "畔",
+     "text": "吽",
      "marks": []
     },
     {
@@ -450,22 +419,14 @@
      "text": "唵",
      "marks": [
       "dash1",
-      "dash1"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
+      "dashHalf"
+     ]
     },
     {
      "text": "啞",
-     "marks": [
-      "dashHalf"
-     ],
+     "marks": [],
      "note": {
       "marks": [
-       "dashHalf",
        "dashHalf"
       ]
      }
@@ -473,13 +434,9 @@
     {
      "text": "吽",
      "marks": [
-      "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
+      "dashHalf",
+      "ringHalf"
+     ]
     },
     {
      "text": "唵",
@@ -487,9 +444,7 @@
     },
     {
      "text": "嘛",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "呢",
@@ -500,7 +455,7 @@
      "marks": []
     },
     {
-     "text": "礪",
+     "text": "彌",
      "marks": []
     },
     {
@@ -526,10 +481,6 @@
     {
      "text": "",
      "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
     }
    ]
   },
@@ -539,19 +490,25 @@
      "text": "果",
      "marks": [
       "dashHalf",
-      "dash1"
+      "dashHalf",
+      "dashHalf",
+      "dashHalf"
      ]
     },
     {
      "text": "樂",
      "marks": [
-      "dash1",
-      "dash1",
       "dashHalf",
       "dashHalf",
-      "dash1",
-      "dash1"
-     ]
+      "na",
+      "dashHalf",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "天",
@@ -564,24 +521,35 @@
     {
      "text": "供",
      "marks": [
-      "dashHalf",
       "dashHalf"
-     ]
+     ],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "養",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "佛",
-     "marks": [
-      "dash1"
-     ]
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing",
+       "daqing"
+      ]
+     }
     },
     {
-     "text": "顧",
+     "text": "願",
      "marks": []
     },
     {
@@ -610,7 +578,12 @@
     },
     {
      "text": "受",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     }
    ]
   },
@@ -619,13 +592,14 @@
     {
      "text": "因",
      "marks": [
-      "dash1",
-      "na",
       "dashHalf",
-      "dash1",
       "dashHalf",
-      "dash1",
-      "dash1",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
+      "dashHalf",
       "daqing"
      ]
     },
@@ -633,11 +607,11 @@
      "text": "緣",
      "marks": [
       "dashHalf",
-      "dash1"
+      "dashHalf"
      ],
      "note": {
       "marks": [
-       "dash1",
+       "dashHalf",
        "dashHalf"
       ]
      }
@@ -645,8 +619,8 @@
     {
      "text": "自",
      "marks": [
-      "daqing",
-      "dashHalf",
+      "ring1",
+      "ringHalf",
       "dashHalf",
       "dashHalf"
      ]
@@ -654,14 +628,11 @@
     {
      "text": "性",
      "marks": [
-      "daqing",
-      "dash1",
-      "dash1",
-      "daqing"
+      "dashHalf"
      ],
      "note": {
       "marks": [
-       "dash1"
+       "dashHalf"
       ]
      }
     },
@@ -671,9 +642,7 @@
     },
     {
      "text": "出",
-     "marks": [
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "生",
@@ -698,6 +667,10 @@
     {
      "text": "",
      "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
     }
    ]
   },
@@ -716,7 +689,7 @@
     {
      "text": "花",
      "marks": [
-      "dash1"
+      "dashHalf"
      ]
     },
     {
@@ -728,8 +701,7 @@
     {
      "text": "燈",
      "marks": [
-      "dashHalf",
-      "na"
+      "dashHalf"
      ]
     },
     {
@@ -742,7 +714,10 @@
     },
     {
      "text": "樂",
-     "marks": []
+     "marks": [
+      "dashHalf",
+      "daqing"
+     ]
     },
     {
      "text": "奉",
@@ -776,11 +751,6 @@
      "text": "寶",
      "marks": [
       "dashHalf",
-      "dashHalf",
-      "dash1",
-      "dashHalf",
-      "dashHalf",
-      "ringHalf",
       "dashHalf"
      ]
     },
@@ -788,9 +758,9 @@
      "text": "尊",
      "marks": [
       "dashHalf",
-      "dash1",
-      "ringHalf",
-      "dash1"
+      "dashHalf",
+      "dashHalf",
+      "dashHalf"
      ]
     },
     {
@@ -798,29 +768,33 @@
      "marks": [],
      "note": {
       "marks": [
-       "na",
-       "dashHalf"
+       "na"
       ]
      }
     },
     {
      "text": "願",
      "marks": [
-      "dashHalf",
-      "ringHalf"
+      "dashHalf"
      ]
     },
     {
      "text": "慈",
-     "marks": []
+     "marks": [
+      "dashHalf"
+     ]
     },
     {
      "text": "悲",
-     "marks": []
+     "marks": [
+      "dashHalf"
+     ]
     },
     {
-     "text": "哀",
-     "marks": []
+     "text": "炅",
+     "marks": [
+      "dashHalf"
+     ]
     },
     {
      "text": "納",
@@ -828,7 +802,9 @@
     },
     {
      "text": "受",
-     "marks": []
+     "marks": [
+      "na"
+     ]
     },
     {
      "text": "戶",
@@ -852,19 +828,13 @@
    "chars": [
     {
      "text": "哩",
-     "marks": [
-      "dash1",
-      "dash1",
-      "dash1"
-     ]
+     "marks": []
     },
     {
      "text": "斡",
      "marks": [
-      "dash1",
-      "na",
-      "dashHalf",
-      "dash1"
+      "ring1",
+      "dashHalf"
      ]
     },
     {
@@ -880,14 +850,14 @@
      "marks": []
     },
     {
-     "text": "識",
-     "marks": [
-      "dashHalf"
-     ]
+     "text": "誐",
+     "marks": []
     },
     {
      "text": "多",
-     "marks": []
+     "marks": [
+      "dashHalf"
+     ]
     },
     {
      "text": "布",
@@ -923,9 +893,7 @@
     },
     {
      "text": "干",
-     "marks": [
-      "dash1"
-     ]
+     "marks": []
     }
    ]
   },
@@ -934,15 +902,11 @@
     {
      "text": "的",
      "marks": [
-      "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "ring1",
-      "dashHalf"
+      "ring1"
      ],
      "note": {
       "marks": [
-       "dashHalf"
+       "daqing"
       ]
      }
     },
@@ -960,12 +924,10 @@
     },
     {
      "text": "捨",
-     "marks": [
-      "dashHalf"
-     ],
+     "marks": [],
      "note": {
       "marks": [
-       "dash1",
+       "dashHalf",
        "dashHalf",
        "dashHalf"
       ]
@@ -996,7 +958,7 @@
      "marks": [],
      "note": {
       "marks": [
-       "dashHalf"
+       "daqing"
       ]
      }
     },
@@ -1014,9 +976,7 @@
    "chars": [
     {
      "text": "謨",
-     "marks": [
-      "daqing"
-     ]
+     "marks": []
     },
     {
      "text": "的",
@@ -1026,10 +986,7 @@
     },
     {
      "text": "囉",
-     "marks": [
-      "dashHalf",
-      "dashHalf"
-     ]
+     "marks": []
     },
     {
      "text": "斯",
@@ -1066,8 +1023,8 @@
     {
      "text": "五",
      "marks": [
-      "daqing",
-      "dash1"
+      "dashHalf",
+      "daqing"
      ]
     },
     {
@@ -1090,24 +1047,16 @@
      "text": "佛",
      "marks": [
       "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "dash1"
-      ]
-     }
+     ]
     },
     {
      "text": "菩",
-     "marks": [
-      "dashHalf",
-      "dash1"
-     ],
+     "marks": [],
      "note": {
       "marks": [
-       "dash1",
        "dashHalf",
-       "dash1"
+       "dashHalf",
+       "dashHalf"
       ]
      }
     },
@@ -1115,23 +1064,19 @@
      "text": "薩",
      "marks": [
       "dashHalf",
-      "dashHalf",
-      "dashHalf",
-      "na"
-     ]
-    },
-    {
-     "text": "摩",
-     "marks": []
-    },
-    {
-     "text": "訶",
-     "marks": [
-      "ringHalf",
+      "combo",
       "dashHalf"
      ]
     },
     {
+     "text": "摩",
+     "marks": []
+    },
+    {
+     "text": "訶",
+     "marks": []
+    },
+    {
      "text": "薩",
      "marks": []
     },
@@ -1141,7 +1086,12 @@
     },
     {
      "text": "訶",
-     "marks": []
+     "marks": [],
+     "note": {
+      "marks": [
+       "daqing"
+      ]
+     }
     },
     {
      "text": "般",
@@ -1149,7 +1099,9 @@
     },
     {
      "text": "若",
-     "marks": []
+     "marks": [
+      "dashHalf"
+     ]
     },
     {
      "text": "波",
@@ -1174,7 +1126,6 @@
      ],
      "note": {
       "marks": [
-       "dashHalf",
        "ringHalf"
       ]
      }

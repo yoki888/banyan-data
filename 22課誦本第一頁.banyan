@@ -12,31 +12,43 @@
   {
    "chars": [
     {
-     "text": "勃",
+     "text": "電",
      "marks": []
     },
     {
-     "text": "裘",
+     "text": "一",
      "marks": []
     },
     {
-     "text": "課",
+     "text": "刺",
      "marks": []
     },
     {
-     "text": "評",
-     "marks": []
+     "text": "彩",
+     "marks": [
+      "ringHalf"
+     ]
     },
     {
-     "text": "禮",
+     "text": "靚",
      "marks": [
       "dashHalf",
       "dashHalf"
      ]
     },
     {
-     "text": "佛",
+     "text": "訓",
      "marks": []
+    },
+    {
+     "text": "禮",
+     "marks": []
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ringHalf"
+     ]
     },
     {
      "text": "儀",
@@ -45,6 +57,28 @@
     {
      "text": "規",
      "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [
+      "dashHalf"
+     ]
     },
     {
      "text": "",
@@ -63,37 +97,190 @@
   {
    "chars": [
     {
-     "text": "一",
+     "text": "捺",
      "marks": []
     },
     {
-     "text": "排",
-     "marks": []
-    },
-    {
-     "text": "班",
+     "text": "大",
      "marks": [
-      "dashHalf"
+      "ring2"
      ]
     },
     {
-     "text": "東",
+     "text": "磬",
+     "marks": [
+      "ring2",
+      "ring2",
+      "ring2"
+     ]
+    },
+    {
+     "text": "接",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "唱",
+     "marks": [
+      "ring2",
+      "ring2"
+     ]
+    },
+    {
+     "text": "香",
+     "marks": [
+      "daqing",
+      "ring2"
+     ]
+    },
+    {
+     "text": "讚",
+     "marks": [
+      "ring2",
+      "ring2",
+      "ring2",
+      "daqing"
+     ]
+    },
+    {
+     "text": "如",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "不",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "唱",
+     "marks": [
+      "ring2",
+      "ring2"
+     ]
+    },
+    {
+     "text": "香",
+     "marks": [
+      "ring2",
+      "ring2"
+     ]
+    },
+    {
+     "text": "歡",
+     "marks": [
+      "ring2",
+      "ring2",
+      "ring2"
+     ]
+    },
+    {
+     "text": "三",
+     "marks": [
+      "ring2",
+      "ring2"
+     ]
+    },
+    {
+     "text": "個",
+     "marks": [
+      "ring2",
+      "ring2"
+     ]
+    },
+    {
+     "text": "署",
+     "marks": [
+      "daqing",
+      "ring2"
+     ]
+    },
+    {
+     "text": "退",
+     "marks": [
+      "ring2",
+      "ring2",
+      "ring2"
+     ]
+    },
+    {
+     "text": "女",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "妾",
      "marks": []
     },
     {
-     "text": "西",
+     "text": "木",
+     "marks": [
+      "daqing",
+      "daqing"
+     ]
+    },
+    {
+     "text": "系",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "二",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "下",
      "marks": []
     },
     {
-     "text": "對",
+     "text": "",
      "marks": []
     },
     {
-     "text": "面",
+     "text": "",
      "marks": []
     },
     {
-     "text": "立",
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
      "marks": []
     },
     {

@@ -12,12 +12,20 @@
   {
    "chars": [
     {
-     "text": "摩",
-     "marks": [
-      "dash1",
-      "dash1",
-      "dash1"
-     ],
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [],
      "note": {
       "marks": [
        "na"
@@ -25,125 +33,118 @@
      }
     },
     {
-     "text": "訶",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
+     "text": "",
+     "marks": []
     },
     {
-     "text": "艹",
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
      "marks": [],
      "note": {
       "marks": [
-       "dashHalf"
+       "na"
       ]
      }
     },
     {
-     "text": "隡",
+     "text": "",
      "marks": []
     },
     {
-     "text": "南",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "注",
-     "marks": []
-    },
-    {
-     "text": "仴",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "涼",
-     "marks": []
-    },
-    {
-     "text": "地",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "苙",
+     "text": "",
      "marks": [],
      "note": {
       "marks": [
-       "dashHalf"
+       "ring1"
       ]
      }
-    },
-    {
-     "text": "薩",
-     "marks": []
-    },
-    {
-     "text": "摩",
-     "marks": []
-    },
-    {
-     "text": "訶",
-     "marks": []
-    },
-    {
-     "text": "薩",
-     "marks": []
-    },
-    {
-     "text": "有",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "生",
-     "marks": []
-    },
-    {
-     "text": "月",
-     "marks": [
-      "ring1"
-     ]
-    },
-    {
-     "text": "涼",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "地",
-     "marks": []
-    },
-    {
-     "text": "芷",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
     }
    ]
   }

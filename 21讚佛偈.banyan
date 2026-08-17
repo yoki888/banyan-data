@@ -12,24 +12,243 @@
   {
    "chars": [
     {
-     "text": "南",
+     "text": "世",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "間",
      "marks": []
+    },
+    {
+     "text": "所",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "有",
+     "marks": []
+    },
+    {
+     "text": "我",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "盡",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "見",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "一",
+     "marks": [
+      "daqing"
+     ]
+    },
+    {
+     "text": "切",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "有",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "如",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "者",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "南",
+     "marks": [
+      "ring2"
+     ]
     },
     {
      "text": "無",
      "marks": []
     },
     {
-     "text": "本",
+     "text": "娑",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "婆",
      "marks": []
+    },
+    {
+     "text": "世",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "界",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "二",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "界",
+     "marks": []
+    },
+    {
+     "text": "導",
+     "marks": [
+      "ring2"
+     ]
     },
     {
      "text": "師",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "四",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "生",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "慈",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "父",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "人",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "天",
      "marks": []
     },
     {
-     "text": "釋",
+     "text": "教",
+     "marks": [
+      "daqing"
+     ]
+    },
+    {
+     "text": "主",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "二",
+     "marks": [
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "類",
      "marks": []
+    },
+    {
+     "text": "化",
+     "marks": [
+      "ring2",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "身",
+     "marks": [
+      "daqing",
+      "dash1"
+     ]
+    },
+    {
+     "text": "本",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "師",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "釋",
+     "marks": [
+      "ring2"
+     ]
     },
     {
      "text": "迦",
@@ -37,170 +256,21 @@
     },
     {
      "text": "牟",
-     "marks": []
+     "marks": [
+      "ring2"
+     ]
     },
     {
      "text": "尼",
-     "marks": []
+     "marks": [
+      "ring2"
+     ]
     },
     {
      "text": "佛",
      "marks": [
-      "ring2",
-      "dash1",
-      "dashHalf",
-      "dashHalf",
-      "ringHalf",
-      "dash1"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf",
-       "dashHalf",
-       "dashHalf",
-       "dashHalf"
-      ]
-     }
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "南",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "本",
-     "marks": []
-    },
-    {
-     "text": "師",
-     "marks": []
-    },
-    {
-     "text": "釋",
-     "marks": []
-    },
-    {
-     "text": "迦",
-     "marks": []
-    },
-    {
-     "text": "牟",
-     "marks": []
-    },
-    {
-     "text": "尼",
-     "marks": []
-    },
-    {
-     "text": "佛",
-     "marks": [
-      "ring2",
-      "dash1",
-      "na",
-      "ringHalf"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf",
-       "dashHalf",
-       "dashHalf",
-       "dashHalf",
-       "dash1"
-      ]
-     }
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "釋",
-     "marks": []
-    },
-    {
-     "text": "迦",
-     "marks": [],
-     "note": {
-      "marks": [
-       "dash1"
-      ]
-     }
-    },
-    {
-     "text": "如",
-     "marks": []
-    },
-    {
-     "text": "來",
-     "marks": [
-      "dashHalf",
-      "dash1"
-     ],
-     "note": {
-      "marks": [
-       "daqing",
-       "dashHalf",
-       "na",
-       "na",
-       "dashHalf",
-       "dashHalf",
-       "dashHalf",
-       "dashHalf"
-      ]
-     }
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "釋",
-     "marks": []
-    },
-    {
-     "text": "迦",
-     "marks": []
-    },
-    {
-     "text": "如",
-     "marks": []
-    },
-    {
-     "text": "來",
-     "marks": [
-      "dashHalf",
-      "dashHalf",
-      "na",
-      "na",
-      "na"
-     ],
-     "note": {
-      "marks": [
-       "daqing",
-       "dashHalf",
-       "dashHalf",
-       "dashHalf",
-       "dashHalf",
-       "na",
-       "na",
-       "ringHalf",
-       "na",
-       "na",
-       "na",
-       "dash1"
-      ]
-     }
-    },
-    {
-     "text": "",
-     "marks": []
+      "ring2"
+     ]
     }
    ]
   }

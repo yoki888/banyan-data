@@ -10,7 +10,373 @@
  },
  "lines": [
   {
-   "chars": []
+   "chars": [
+    {
+     "text": "伽",
+     "marks": []
+    },
+    {
+     "text": "藍",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "dash1"
+     ]
+    },
+    {
+     "text": "主",
+     "marks": [
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "na",
+      "dash1"
+     ]
+    },
+    {
+     "text": "者",
+     "marks": [
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "合",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "寺",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "威",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "dash1"
+     ]
+    },
+    {
+     "text": "靈",
+     "marks": [
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "na",
+      "dash1",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "欽",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "承",
+     "marks": [
+      "ringHalf",
+      "na",
+      "dash1",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "佛",
+     "marks": [
+      "ring2",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "敕",
+     "marks": [
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "ringHalf",
+      "dash1"
+     ]
+    },
+    {
+     "text": "共",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "輸",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    },
+    {
+     "text": "誠",
+     "marks": [
+      "ring1",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ring1"
+     ]
+    },
+    {
+     "text": "擁",
+     "marks": [
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "護",
+     "marks": [
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "dash1"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": [
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "王",
+     "marks": [
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "城",
+     "marks": [
+      "ring1",
+      "ringHalf",
+      "dash1",
+      "ring1",
+      "ringHalf",
+      "dash1",
+      "dash1",
+      "ring1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "為",
+     "marks": [
+      "ring1",
+      "dash1",
+      "ring1",
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "翰",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "爲",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "dash1"
+     ]
+    },
+    {
+     "text": "屏",
+     "marks": [
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "梵",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "剎",
+     "marks": [
+      "ringHalf",
+      "dash1",
+      "ringHalf",
+      "dash1"
+     ]
+    },
+    {
+     "text": "永",
+     "marks": [
+      "ringHalf",
+      "ring2",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "安",
+     "marks": [
+      "ring2",
+      "ringHalf",
+      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "寧",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "南",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "護",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "藏",
+     "marks": []
+    },
+    {
+     "text": "菩",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "摩",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "訶",
+     "marks": [
+      "ring1"
+     ]
+    },
+    {
+     "text": "薩",
+     "marks": [
+      "ring1"
+     ]
+    }
+   ]
   }
  ],
  "categories": [

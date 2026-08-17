@@ -28,13 +28,13 @@
      "marks": []
     },
     {
-     "text": "德",
+     "text": "徳",
      "marks": [
-      "ringHalf",
       "ringHalf"
      ],
      "note": {
       "marks": [
+       "dashHalf",
        "dashHalf"
       ]
      }
@@ -44,7 +44,9 @@
      "marks": [
       "ringHalf",
       "ringHalf",
-      "daqing"
+      "ringHalf",
+      "daqing",
+      "ringHalf"
      ]
     },
     {
@@ -52,10 +54,13 @@
      "marks": [
       "ringHalf",
       "ringHalf",
-      "ring1",
-      "dash1",
-      "dash1"
-     ]
+      "ringHalf"
+     ],
+     "note": {
+      "marks": [
+       "qingBowl"
+      ]
+     }
     },
     {
      "text": "當",
@@ -64,15 +69,14 @@
       "ringHalf",
       "dashHalf",
       "dashHalf",
-      "dashHalf",
-      "dashHalf",
       "dashHalf"
      ]
     },
     {
      "text": "來",
      "marks": [
-      "dash1"
+      "dashHalf",
+      "dashHalf"
      ]
     },
     {
@@ -87,35 +91,41 @@
      "text": "證",
      "marks": [
       "ring1",
-      "dash1",
+      "dashHalf",
       "daqing",
       "ringHalf",
-      "ringHalf",
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "daqing",
-      "ringHalf",
-      "ringHalf",
-      "ringHalf",
-      "dash1",
-      "dash1",
+      "dashHalf",
+      "dashHalf",
       "ringHalf"
      ]
     },
     {
      "text": "",
      "marks": [
-      "ring2",
+      "daqing",
       "ringHalf",
       "ringHalf",
-      "dash1",
       "ringHalf",
-      "dash1"
+      "dashHalf",
+      "ringHalf",
+      "dashHalf",
+      "ringHalf"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": [
+      "ring1",
+      "ringHalf",
+      "ringHalf",
+      "dashHalf",
+      "ringHalf",
+      "dashHalf"
      ]
     }
    ]
@@ -123,12 +133,22 @@
   {
    "chars": [
     {
-     "text": "灬",
+     "text": "动",
      "marks": []
     },
     {
-     "text": "二",
+     "text": "大",
      "marks": []
+    },
+    {
+     "text": "雄",
+     "marks": []
+    },
+    {
+     "text": "仁",
+     "marks": [
+      "ringHalf"
+     ]
     },
     {
      "text": "惑",
@@ -140,53 +160,32 @@
     },
     {
      "text": "早",
+     "marks": []
+    },
+    {
+     "text": "銷",
      "marks": [
       "ringHalf"
      ]
     },
     {
-     "text": "銷",
-     "marks": []
-    },
-    {
      "text": "鎔",
-     "marks": []
+     "marks": [
+      "ringHalf",
+      "na",
+      "ringHalf"
+     ]
     },
     {
      "text": "寄",
-     "marks": []
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
     },
     {
      "text": "居",
      "marks": [
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [],
-     "note": {
-      "marks": [
-       "ringHalf"
-      ]
-     }
-    },
-    {
-     "text": "",
-     "marks": [
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "ringHalf",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
       "ringHalf",
       "ringHalf",
       "ringHalf",
@@ -198,6 +197,18 @@
      "marks": [
       "na",
       "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
       "na"
      ]
     },
@@ -205,6 +216,17 @@
      "text": "",
      "marks": [
       "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dashHalf",
+      "dashHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
       "ringHalf"
      ]
     },
@@ -212,37 +234,10 @@
      "text": "",
      "marks": [
       "ringHalf",
-      "na"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "ring1",
-      "ringHalf",
-      "ringHalf",
-      "ringHalf",
-      "ringHalf",
-      "dash1",
-      "na",
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "ringHalf",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
       "daqing",
-      "dash1",
+      "dashHalf",
       "ringHalf",
-      "dash1"
+      "dashHalf"
      ]
     }
    ]
@@ -256,58 +251,63 @@
      ]
     },
     {
-     "text": "兜",
+     "text": "率",
      "marks": []
     },
     {
-     "text": "率",
-     "marks": [
-      "ring1"
-     ]
-    },
-    {
-     "text": "宮",
-     "marks": [
-      "ringHalf"
-     ]
+     "text": "富",
+     "marks": []
     },
     {
      "text": "直",
-     "marks": [
-      "ring1"
-     ]
+     "marks": []
     },
     {
      "text": "待",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": []
     },
     {
      "text": "龍",
      "marks": [
-      "ringHalf",
-      "dashHalf",
-      "daqing",
-      "dashHalf",
       "ringHalf"
      ]
     },
     {
      "text": "華",
+     "marks": []
+    },
+    {
+     "text": "不",
+     "marks": []
+    },
+    {
+     "text": "成",
      "marks": [
       "ring1"
      ]
     },
     {
-     "text": "不",
+     "text": "",
      "marks": [
-      "dash1",
       "ringHalf"
      ]
     },
     {
-     "text": "成",
+     "text": "",
+     "marks": [
+      "ringHalf",
+      "daqing",
+      "dashHalf",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
      "marks": [
       "ringHalf",
       "ringHalf"
@@ -316,38 +316,40 @@
     {
      "text": "",
      "marks": [
-      "dash1"
+      "ringHalf"
      ]
     },
     {
      "text": "",
      "marks": [
-      "ring2",
       "na"
      ]
     },
     {
      "text": "",
      "marks": [
-      "dash1",
-      "dash1",
-      "ringHalf",
-      "daqing",
-      "ringHalf",
-      "dash1",
       "ring1",
-      "dash1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "ring1",
+      "dashHalf",
+      "dashHalf",
+      "ringHalf",
+      "daqing",
+      "dashHalf",
+      "ringHalf",
+      "dashHalf",
       "daqing",
       "ringHalf",
       "ringHalf",
+      "na",
       "ringHalf",
-      "dash1"
-     ],
-     "note": {
-      "marks": [
-       "ring1"
-      ]
-     }
+      "dashHalf"
+     ]
     }
    ]
   },
@@ -356,13 +358,10 @@
     {
      "text": "佛",
      "marks": [
+      "na",
+      "dashHalf",
       "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
+     ]
     },
     {
      "text": "遠",
@@ -377,8 +376,6 @@
     {
      "text": "方",
      "marks": [
-      "ringHalf",
-      "ringHalf",
       "ringHalf"
      ]
     },
@@ -390,12 +387,16 @@
      "text": "宣",
      "marks": [
       "ringHalf",
+      "ringHalf",
       "ring1",
       "dashHalf",
-      "ring1",
-      "dash1",
-      "dash1"
-     ]
+      "ringHalf"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
     },
     {
      "text": "弘",
@@ -403,247 +404,32 @@
       "daqing",
       "na",
       "ringHalf",
-      "dash1",
-      "na"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "ring2",
       "ringHalf",
-      "ringHalf",
-      "na",
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "ring2",
-      "ringHalf",
-      "ringHalf",
-      "ringHalf",
-      "na",
-      "ringHalf",
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "daqing",
-      "ringHalf",
-      "ringHalf",
-      "dash1",
-      "daqing",
-      "ringHalf",
-      "ringHalf",
-      "dash1",
-      "dash1",
-      "daqing",
-      "ringHalf",
-      "dash1"
-     ],
-     "note": {
-      "marks": [
-       "ring1"
-      ]
-     }
-    },
-    {
-     "text": "",
-     "marks": [
-      "dash1",
-      "ringHalf"
-     ],
-     "note": {
-      "marks": [
-       "ring1"
-      ]
-     }
-    },
-    {
-     "text": "",
-     "marks": []
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "普",
-     "marks": []
-    },
-    {
-     "text": "术",
-     "marks": []
-    },
-    {
-     "text": "法",
-     "marks": []
-    },
-    {
-     "text": "生",
-     "marks": []
-    },
-    {
-     "text": "深",
-     "marks": []
-    },
-    {
-     "text": "士",
-     "marks": [
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "同",
-     "marks": [
-      "ring1"
-     ]
-    },
-    {
-     "text": "來",
-     "marks": [
-      "na"
-     ]
-    },
-    {
-     "text": "暢",
-     "marks": [
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "宗",
-     "marks": [
-      "ringHalf",
-      "ringHalf",
-      "ringHalf",
-      "na",
-      "ringHalf",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "風",
-     "marks": [
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "ringHalf",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "dash1",
       "dashHalf",
-      "ringHalf",
-      "ringHalf",
-      "ringHalf",
-      "ringHalf"
-     ],
-     "note": {
-      "marks": [
-       "dash1"
-      ]
-     }
-    },
-    {
-     "text": "",
-     "marks": [
-      "dash1",
-      "na",
-      "dash1",
       "ringHalf"
      ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "ring2",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "dash1",
-      "dash1"
-     ],
-     "note": {
-      "marks": [
-       "daqing"
-      ]
-     }
-    },
-    {
-     "text": "",
-     "marks": [
-      "daqing",
-      "ringHalf",
-      "na"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "dash1",
-      "dash1",
-      "ringHalf"
-     ],
-     "note": {
-      "marks": [
-       "ring1"
-      ]
-     }
     },
     {
      "text": "",
      "marks": [
       "ring1",
-      "dash1",
       "ringHalf",
-      "ring1",
+      "ringHalf",
+      "na",
       "dashHalf",
-      "dashHalf"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "普",
-     "marks": [
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "顧",
-     "marks": []
-    },
-    {
-     "text": "末",
-     "marks": []
-    },
-    {
-     "text": "法",
-     "marks": [
       "ringHalf"
      ]
     },
     {
-     "text": "生",
+     "text": "",
      "marks": [
+      "ring1",
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "na",
+      "ringHalf",
+      "dashHalf",
       "ringHalf"
      ],
      "note": {
@@ -653,42 +439,104 @@
      }
     },
     {
+     "text": "",
+     "marks": [
+      "ring1",
+      "ringHalf",
+      "ringHalf",
+      "dashHalf",
+      "ringHalf",
+      "daqing",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "ringHalf",
+      "dashHalf",
+      "ringHalf",
+      "dashHalf",
+      "daqing",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dashHalf",
+      "ringHalf"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "普",
+     "marks": []
+    },
+    {
+     "text": "顧",
+     "marks": []
+    },
+    {
+     "text": "未",
+     "marks": []
+    },
+    {
+     "text": "法",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": []
+    },
+    {
      "text": "淨",
      "marks": [
+      "ringHalf",
+      "ringHalf",
       "ringHalf"
      ]
     },
     {
      "text": "士",
-     "marks": [],
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "同",
+     "marks": [
+      "na",
+      "ringHalf"
+     ],
      "note": {
       "marks": [
-       "dash1"
+       "na"
       ]
      }
     },
     {
-     "text": "同",
-     "marks": []
-    },
-    {
      "text": "來",
      "marks": [
-      "ringHalf",
-      "ringHalf",
-      "ring1",
-      "dash1",
-      "dash1",
-      "ring2",
-      "ringHalf",
-      "na",
-      "dash1"
+      "ringHalf"
      ]
     },
     {
      "text": "暢",
      "marks": [
-      "ringHalf",
       "ringHalf",
       "ringHalf"
      ]
@@ -696,12 +544,74 @@
     {
      "text": "宗",
      "marks": [
-      "dash1",
-      "dash1",
+      "ring1",
       "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "na",
+      "dashHalf",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "風",
+     "marks": [
       "daqing",
-      "dash1",
-      "dash1"
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dashHalf",
+      "ringHalf",
+      "ringHalf",
+      "na"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dashHalf",
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "ring1",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dashHalf",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": [
+      "ring1",
+      "ringHalf",
+      "na"
+     ]
+    },
+    {
+     "text": "",
+     "marks": [
+      "dashHalf",
+      "ringHalf",
+      "dashHalf",
+      "ringHalf"
      ],
      "note": {
       "marks": [
@@ -712,9 +622,101 @@
     {
      "text": "",
      "marks": [
+      "ring1",
+      "dashHalf",
+      "ring1",
       "ringHalf",
-      "dash1",
-      "dash1"
+      "dashHalf",
+      "dashHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "普",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "願",
+     "marks": []
+    },
+    {
+     "text": "末",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "生",
+     "marks": [
+      "ringHalf"
+     ],
+     "note": {
+      "marks": [
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "淨",
+     "marks": [
+      "combo"
+     ]
+    },
+    {
+     "text": "士",
+     "marks": [
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "dashHalf",
+      "dashHalf",
+      "ring1",
+      "na",
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "同",
+     "marks": [
+      "ringHalf",
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "來",
+     "marks": [
+      "ringHalf",
+      "dashHalf",
+      "ringHalf",
+      "daqing",
+      "dashHalf"
+     ],
+     "note": {
+      "marks": [
+       "daqing",
+       "ring1"
+      ]
+     }
+    },
+    {
+     "text": "暢",
+     "marks": [
+      "ringHalf",
+      "ringHalf",
+      "dashHalf",
+      "dashHalf"
      ],
      "note": {
       "marks": [
@@ -723,15 +725,14 @@
      }
     },
     {
-     "text": "",
+     "text": "宗",
      "marks": [
       "daqing",
       "ringHalf",
-      "dash1",
+      "dashHalf",
       "ringHalf",
-      "daqing",
-      "ringHalf",
-      "dash1",
+      "ring1",
+      "dashHalf",
       "dash1"
      ]
     }
@@ -744,7 +745,7 @@
      "marks": [],
      "note": {
       "marks": [
-       "na"
+       "ringHalf"
       ]
      }
     },
@@ -758,14 +759,11 @@
     },
     {
      "text": "勝",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": []
     },
     {
      "text": "補",
      "marks": [
-      "ring1",
       "ringHalf",
       "ringHalf"
      ]
@@ -783,7 +781,6 @@
      "marks": [
       "ringHalf",
       "ringHalf",
-      "ringHalf",
       "ringHalf"
      ]
     },
@@ -803,44 +800,37 @@
     {
      "text": "率",
      "marks": [
-      "ring1",
       "ringHalf",
-      "dash1",
+      "ringHalf",
       "ringHalf"
      ]
     },
     {
      "text": "演",
      "marks": [
-      "daqing",
-      "ringHalf",
-      "ringHalf",
       "ringHalf"
      ]
     },
     {
      "text": "圓",
      "marks": [
-      "combo",
-      "dash1",
       "ringHalf",
-      "dash1",
+      "ringHalf",
       "ringHalf"
      ]
     },
     {
      "text": "因",
      "marks": [
-      "daqing",
-      "dash1"
+      "ring1",
+      "dashHalf"
      ]
     },
     {
      "text": "",
      "marks": [
       "daqing",
-      "dash1",
-      "ringHalf"
+      "dashHalf"
      ]
     },
     {
@@ -848,138 +838,9 @@
      "marks": [
       "daqing",
       "ringHalf",
-      "ringHalf",
-      "dash1",
-      "dash1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "大",
-     "marks": []
-    },
-    {
-     "text": "乘",
-     "marks": [
-      "ring1"
-     ]
-    },
-    {
-     "text": "常",
-     "marks": []
-    },
-    {
-     "text": "住",
-     "marks": [
-      "ring1"
-     ]
-    },
-    {
-     "text": "三",
-     "marks": []
-    },
-    {
-     "text": "点",
-     "marks": []
-    },
-    {
-     "text": "宝",
-     "marks": [
-      "combo"
-     ]
-    },
-    {
-     "text": "南",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": [
       "dashHalf",
       "dashHalf"
      ]
-    },
-    {
-     "text": "大",
-     "marks": []
-    },
-    {
-     "text": "乘",
-     "marks": [
-      "ring1"
-     ]
-    },
-    {
-     "text": "常",
-     "marks": []
-    },
-    {
-     "text": "位",
-     "marks": []
-    },
-    {
-     "text": "二",
-     "marks": []
-    },
-    {
-     "text": "室",
-     "marks": [
-      "combo"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "南",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": [
-      "ring1"
-     ]
-    },
-    {
-     "text": "大",
-     "marks": []
-    },
-    {
-     "text": "乘",
-     "marks": [
-      "ring1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "常",
-     "marks": []
-    },
-    {
-     "text": "住",
-     "marks": [
-      "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "ring1"
-      ]
-     }
-    },
-    {
-     "text": "宝",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "",
-     "marks": []
     }
    ]
   },
@@ -987,55 +848,55 @@
    "chars": [
     {
      "text": "現",
-     "marks": []
-    },
-    {
-     "text": "身",
      "marks": [
       "ringHalf"
      ]
     },
     {
+     "text": "身",
+     "marks": []
+    },
+    {
      "text": "塵",
      "marks": [
+      "dashHalf",
       "ringHalf"
      ]
     },
     {
      "text": "剎",
      "marks": [
-      "ringHalf",
-      "ringHalf",
+      "daqing",
       "ringHalf"
      ]
     },
     {
      "text": "有",
      "marks": [
-      "daqing",
       "ringHalf"
      ]
     },
     {
      "text": "誰",
      "marks": [
-      "ringHalf",
+      "dashHalf",
       "ringHalf"
      ]
     },
     {
      "text": "識",
      "marks": [
+      "ringHalf",
+      "ringHalf",
+      "ringHalf",
+      "combo",
       "ringHalf"
      ]
     },
     {
      "text": "融",
      "marks": [
-      "ringHalf",
-      "ringHalf",
-      "ringHalf",
-      "ring1"
+      "ringHalf"
      ]
     },
     {
@@ -1045,7 +906,6 @@
     {
      "text": "法",
      "marks": [
-      "ringHalf",
       "ringHalf"
      ]
     },
@@ -1053,57 +913,37 @@
      "text": "界",
      "marks": [
       "ringHalf",
+      "dashHalf",
       "ringHalf"
      ]
     },
     {
      "text": "許",
      "marks": [
-      "na"
+      "ring1",
+      "ringHalf",
+      "dashHalf"
      ]
     },
     {
      "text": "彼",
      "marks": [
+      "ring1",
       "ringHalf",
-      "daqing",
-      "dash1",
-      "dash1"
+      "dashHalf",
+      "ringHalf"
      ]
     },
     {
      "text": "親",
      "marks": [
       "ring1",
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "ring1",
-      "ringHalf",
-      "dash1",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "",
-     "marks": [
-      "ring2",
       "ringHalf",
       "ringHalf",
-      "ring1",
-      "dash1",
-      "dash1",
+      "dashHalf",
+      "dashHalf",
       "dashHalf"
-     ],
-     "note": {
-      "marks": [
-       "ringHalf"
-      ]
-     }
+     ]
     }
    ]
   },
@@ -1118,40 +958,41 @@
     {
      "text": "中",
      "marks": [
-      "combo",
-      "ringHalf"
+      "combo"
      ]
     },
     {
-     "text": "寶",
+     "text": "實",
      "marks": [
-      "ringHalf"
+      "dashHalf"
      ]
     },
     {
      "text": "藏",
      "marks": [
-      "combo",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "全",
-     "marks": [
-      "ring1",
-      "dashHalf"
-     ]
-    },
-    {
-     "text": "傾",
-     "marks": [
-      "ring1",
       "ringHalf",
+      "combo",
       "ringHalf"
      ],
      "note": {
       "marks": [
-       "dash1",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "全",
+     "marks": []
+    },
+    {
+     "text": "傾",
+     "marks": [
+      "ringHalf"
+     ],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf",
        "dashHalf",
        "dashHalf",
        "dashHalf"
@@ -1162,38 +1003,32 @@
      "text": "出",
      "marks": [
       "ringHalf",
+      "ringHalf",
       "combo",
-      "na"
+      "ringHalf"
      ],
      "note": {
       "marks": [
-       "dashHalf",
-       "dashHalf",
-       "daqing"
+       "dashHalf"
       ]
      }
     },
     {
      "text": "笑",
      "marks": [
-      "ringHalf",
       "ringHalf"
      ]
     },
     {
      "text": "顏",
      "marks": [
-      "ringHalf",
-      "ringHalf",
-      "dashHalf",
-      "dashHalf"
+      "daqing",
+      "ringHalf"
      ]
     },
     {
      "text": "等",
      "marks": [
-      "ring2",
-      "ringHalf",
       "ringHalf"
      ]
     },
@@ -1201,7 +1036,8 @@
      "text": "付",
      "marks": [
       "combo",
-      "dash1",
+      "dashHalf",
+      "ringHalf",
       "dashHalf",
       "ringHalf"
      ]
@@ -1210,30 +1046,25 @@
      "text": "者",
      "marks": [
       "daqing",
-      "ringHalf",
-      "dashHalf"
+      "ringHalf"
      ]
     },
     {
      "text": "箇",
      "marks": [
-      "ring1",
-      "ringHalf",
-      "dash1"
+      "ringHalf"
      ]
     },
     {
      "text": "人",
      "marks": [
       "ringHalf",
-      "ringHalf",
-      "ringHalf",
-      "dash1",
-      "dash1"
+      "dashHalf",
+      "dashHalf"
      ],
      "note": {
       "marks": [
-       "ring1"
+       "ringHalf"
       ]
      }
     }
@@ -1247,9 +1078,7 @@
     },
     {
      "text": "偕",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": []
     },
     {
      "text": "彌",
@@ -1268,9 +1097,7 @@
     },
     {
      "text": "接",
-     "marks": [
-      "ring1"
-     ]
+     "marks": []
     },
     {
      "text": "引",
@@ -1281,41 +1108,36 @@
      "marks": [
       "dashHalf",
       "ringHalf",
-      "ringHalf",
       "ringHalf"
      ]
     },
     {
      "text": "合",
-     "marks": [
-      "ringHalf"
-     ]
+     "marks": []
     },
     {
      "text": "一",
      "marks": [
       "ringHalf",
-      "dash1",
       "ringHalf",
-      "dash1",
+      "ringHalf",
       "ringHalf"
      ]
     },
     {
      "text": "會",
      "marks": [
-      "ringHalf",
       "ringHalf"
      ]
     },
     {
      "text": "證",
      "marks": [
-      "ring1",
-      "dash1",
       "ringHalf",
-      "dash1",
-      "ringHalf"
+      "combo",
+      "dashHalf",
+      "ringHalf",
+      "dashHalf"
      ]
     },
     {
@@ -1323,25 +1145,26 @@
      "marks": [
       "ring1",
       "ringHalf",
-      "dash1",
+      "dashHalf",
+      "ringHalf",
       "ring1"
      ]
     },
     {
      "text": "眞",
      "marks": [
-      "ringHalf",
-      "dash1",
+      "dashHalf",
       "ringHalf"
      ]
     },
     {
      "text": "",
      "marks": [
-      "ring2",
+      "ring1",
       "ringHalf",
-      "dash1",
-      "dash1"
+      "na",
+      "dashHalf",
+      "dashHalf"
      ]
     }
    ]
@@ -1369,26 +1192,19 @@
     {
      "text": "内",
      "marks": [
-      "na"
-     ]
-    },
-    {
-     "text": "院",
-     "marks": [
       "ringHalf",
       "ringHalf"
      ]
     },
     {
-     "text": "萬",
+     "text": "院",
      "marks": [
       "ringHalf"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
+     ]
+    },
+    {
+     "text": "萬",
+     "marks": []
     },
     {
      "text": "德",
@@ -1416,7 +1232,6 @@
      "text": "位",
      "marks": [
       "ringHalf",
-      "ringHalf",
       "ringHalf"
      ]
     },
@@ -1430,58 +1245,59 @@
     {
      "text": "補",
      "marks": [
-      "dash1",
       "ringHalf",
-      "dash1",
-      "ringHalf"
+      "dashHalf",
+      "ringHalf",
+      "dashHalf"
      ]
     },
     {
      "text": "處",
      "marks": [
-      "dash1"
+      "dashHalf"
      ]
     },
     {
      "text": "當",
      "marks": [
+      "dashHalf",
       "ringHalf",
       "ringHalf",
+      "na",
       "ringHalf",
-      "ringHalf",
-      "dash1",
+      "dashHalf",
       "ringHalf"
      ]
     },
     {
      "text": "來",
      "marks": [
-      "ring2",
+      "ring1",
       "ringHalf"
      ]
     },
     {
      "text": "下",
      "marks": [
-      "dash1",
+      "dashHalf",
       "ringHalf",
-      "dash1",
-      "ringHalf"
+      "dashHalf"
      ]
     },
     {
      "text": "生",
      "marks": [
+      "ringHalf",
       "daqing",
       "ringHalf",
-      "dash1",
+      "dashHalf",
       "ringHalf"
      ]
     },
     {
      "text": "",
      "marks": [
-      "ring2",
+      "ring1",
       "ringHalf",
       "ringHalf",
       "ringHalf"
@@ -1493,28 +1309,19 @@
    "chars": [
     {
      "text": "彌",
-     "marks": [
-      "ringHalf"
-     ],
-     "note": {
-      "marks": [
-       "dashHalf"
-      ]
-     }
+     "marks": []
     },
     {
      "text": "勒",
      "marks": [
-      "combo",
-      "ringHalf"
+      "combo"
      ]
     },
     {
      "text": "尊",
      "marks": [
       "ring1",
-      "na",
-      "dash1"
+      "ringHalf"
      ]
     },
     {
@@ -1553,9 +1360,7 @@
     },
     {
      "text": "彌",
-     "marks": [
-      "dash1"
-     ]
+     "marks": []
     },
     {
      "text": "勒",
@@ -1566,7 +1371,7 @@
      "marks": []
     },
     {
-     "text": "",
+     "text": "響",
      "marks": []
     },
     {

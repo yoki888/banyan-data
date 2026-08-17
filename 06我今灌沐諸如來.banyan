@@ -10,7 +10,515 @@
  },
  "lines": [
   {
-   "chars": []
+   "chars": [
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "淨",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "智",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "莊",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "嚴",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "功",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "德",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "海",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "五",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "濁",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "眾",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "生",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "離",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "塵",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "垢",
+     "marks": [
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "仝",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "證",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "如",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "來",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "淨",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "身",
+     "marks": [
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "我",
+     "marks": [
+      "daqing"
+     ]
+    },
+    {
+     "text": "今",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "灌",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "沐",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "諸",
+     "marks": [
+      "daqing"
+     ]
+    },
+    {
+     "text": "如",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "來",
+     "marks": [
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "淨",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "智",
+     "marks": [
+      "dash1",
+      "dash1"
+     ]
+    },
+    {
+     "text": "莊",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "嚴",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "功",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "德",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "海",
+     "marks": [
+      "ring2",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "ringHalf"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "五",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "濁",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "眾",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "生",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "離",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "塵",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "垢",
+     "marks": [
+      "ring2",
+      "dash1",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "",
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    },
+    {
+     "text": "",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "全",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "證",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "如",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "來",
+     "marks": [
+      "dash1"
+     ]
+    },
+    {
+     "text": "淨",
+     "marks": [
+      "ring2"
+     ]
+    },
+    {
+     "text": "法",
+     "marks": [
+      "dash1",
+      "dash1",
+      "ring2"
+     ]
+    },
+    {
+     "text": "身",
+     "marks": [
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "ring2",
+      "dash1",
+      "dash1"
+     ]
+    }
+   ]
   }
  ],
  "categories": [
