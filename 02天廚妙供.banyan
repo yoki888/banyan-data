@@ -1,402 +1,418 @@
 {
- "title": "02天廚妙供",
- "subtitle": "覺苑寺梵唄傳承",
- "theme": {
-  "ring": "#C02626",
-  "dash": "#1E64D2",
-  "qing": "#7A2BBE",
-  "ink": "#1D1B18",
-  "paper": "#FAF8F5"
- },
- "lines": [
-  {
-   "chars": [
+  "categories" : [
+    "覺苑寺"
+  ],
+  "lines" : [
     {
-     "text": "天",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "天"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "廚"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "妙"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "供"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2"
+          ],
+          "text" : "禪"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "悅"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "酥"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "酡"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2"
+          ],
+          "text" : "戶"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "唵"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2"
+          ],
+          "text" : "蘇"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "嚕"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "哩"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "嚩"
+        }
+      ]
     },
     {
-     "text": "廚",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "怛"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "他"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "阿"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "誐"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "多"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2"
+          ],
+          "text" : "怛"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "你"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "也"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "他"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2"
+          ],
+          "text" : "蘇"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "嚕"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "娑"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "ring2"
+          ],
+          "text" : "嚩"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2"
+          ],
+          "text" : "訶"
+        }
+      ]
     },
     {
-     "text": "妙",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "南"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "無"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "禪"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "悅"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "藏"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "菩"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "訶"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "薩"
+        }
+      ]
     },
     {
-     "text": "供",
-     "marks": [
-      "ring2"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "南"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "無"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "禪"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "悅"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "藏"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "菩"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "訶"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "薩"
+        }
+      ]
     },
     {
-     "text": "禪",
-     "marks": [
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "悅",
-     "marks": []
-    },
-    {
-     "text": "酥",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "酡",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "戶",
-     "marks": [
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "唵",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "蘇",
-     "marks": [
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "嚕",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "哩",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "嘚",
-     "marks": [
-      "ring2",
-      "dash1",
-      "dash1"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "南"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "無"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "禪"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "悅"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "藏"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "菩"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "訶"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "薩"
+        }
+      ]
     }
-   ]
+  ],
+  "subtitle" : "覺苑寺梵唄傳承",
+  "theme" : {
+    "dash" : "#1E64D2",
+    "ink" : "#1D1B18",
+    "note" : "#B3261E",
+    "paper" : "#FAF8F5",
+    "pulse" : "#8E8E93",
+    "qing" : "#7A2BBE",
+    "ring" : "#C02626"
   },
-  {
-   "chars": [
-    {
-     "text": "怛",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "他",
-     "marks": []
-    },
-    {
-     "text": "阿",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "誐",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "多",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "怛",
-     "marks": [
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "你",
-     "marks": []
-    },
-    {
-     "text": "也",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "他",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "蘇",
-     "marks": [
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "嚕",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "娑",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "嘚",
-     "marks": [
-      "dash1",
-      "ring2",
-      "ring2"
-     ]
-    },
-    {
-     "text": "訶",
-     "marks": [
-      "dash1",
-      "ring2"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "南",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "禪",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "悅",
-     "marks": []
-    },
-    {
-     "text": "藏",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "菩",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "摩",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "訶",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "ring2"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "南",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "無",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "禪",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "悅",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "藏",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "菩",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "摩",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "訶",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "ring2"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "南",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "無",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "禪",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "悅",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "藏",
-     "marks": [
-      "dash1"
-     ]
-    },
-    {
-     "text": "菩",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "摩",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "訶",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "ring2"
-     ]
-    }
-   ]
-  }
- ],
- "categories": [
-  "覺苑寺"
- ]
+  "title" : "02天廚妙供"
 }
