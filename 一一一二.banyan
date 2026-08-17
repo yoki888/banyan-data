@@ -1,0 +1,138 @@
+{
+ "title": "一一一二",
+ "subtitle": "影像 01往昔所造諸惡業.jpeg",
+ "theme": {
+  "ring": "#C02626",
+  "dash": "#1E64D2",
+  "qing": "#7A2BBE",
+  "ink": "#1D1B18",
+  "paper": "#FAF8F5"
+ },
+ "lines": [
+  {
+   "chars": [
+    {
+     "text": "皆",
+     "marks": [
+      "dashHalf"
+     ]
+    },
+    {
+     "text": "由",
+     "marks": []
+    },
+    {
+     "text": "無",
+     "marks": []
+    },
+    {
+     "text": "始",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "貪",
+     "marks": []
+    },
+    {
+     "text": "瑱",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf"
+      ]
+     }
+    },
+    {
+     "text": "癡",
+     "marks": []
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "從",
+     "marks": []
+    },
+    {
+     "text": "身",
+     "marks": []
+    },
+    {
+     "text": "語",
+     "marks": [],
+     "note": {
+      "marks": [
+       "na"
+      ]
+     }
+    },
+    {
+     "text": "意",
+     "marks": [],
+     "note": {
+      "marks": [
+       "dashHalf",
+       "dash1"
+      ]
+     }
+    },
+    {
+     "text": "之",
+     "marks": []
+    },
+    {
+     "text": "所",
+     "marks": []
+    },
+    {
+     "text": "生",
+     "marks": [
+      "dashHalf"
+     ]
+    }
+   ]
+  },
+  {
+   "chars": [
+    {
+     "text": "今",
+     "marks": []
+    },
+    {
+     "text": "封",
+     "marks": []
+    },
+    {
+     "text": "弗",
+     "marks": []
+    },
+    {
+     "text": "前",
+     "marks": []
+    },
+    {
+     "text": "求",
+     "marks": [
+      "ringHalf"
+     ]
+    },
+    {
+     "text": "韱",
+     "marks": []
+    },
+    {
+     "text": "每",
+     "marks": [
+      "dashHalf"
+     ]
+    }
+   ]
+  }
+ ]
+}
