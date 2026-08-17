@@ -15,14 +15,6 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "dashHalf",
-              "dash1",
-              "dashHalf",
-              "dashHalf"
-            ]
-          },
           "text" : "一"
         },
         {
@@ -81,7 +73,7 @@
         },
         {
           "marks" : [
-            "ring1"
+
           ],
           "text" : "陀"
         },
