@@ -1,369 +1,377 @@
 {
- "title": "03楊枝淨水",
- "subtitle": "覺苑寺梵唄傳承",
- "theme": {
-  "ring": "#C02626",
-  "dash": "#1E64D2",
-  "qing": "#7A2BBE",
-  "ink": "#1D1B18",
-  "paper": "#FAF8F5"
- },
- "lines": [
-  {
-   "chars": [
+  "categories" : [
+    "覺苑寺"
+  ],
+  "lines" : [
     {
-     "text": "楊",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "楊"
+        },
+        {
+          "marks" : [
+            "dash1"
+          ],
+          "text" : "枝"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "dash1"
+          ],
+          "text" : "淨"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "dash1"
+          ],
+          "text" : "水"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2"
+          ],
+          "text" : "遍"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "灑"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "三"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1",
+            "ring2"
+          ],
+          "text" : "千"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1",
+            "ring2"
+          ],
+          "text" : "性"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "空"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "八"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "德"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "利"
+        }
+      ]
     },
     {
-     "text": "枝",
-     "marks": [
-      "dash1"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+            "ring2",
+            "ringHalf"
+          ],
+          "text" : "人"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "ring2",
+            "ring2"
+          ],
+          "text" : "天"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "ring2",
+            "dash1",
+            "ring2"
+          ],
+          "text" : "福"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "壽"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "廣"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "增"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "ring2",
+            "ring1"
+          ],
+          "text" : "延"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "ring2",
+            "ring2"
+          ],
+          "text" : "滅"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "罪"
+        },
+        {
+          "marks" : [
+            "daqing",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "消"
+        }
+      ]
     },
     {
-     "text": "淨",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "愆"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1",
+            "ring2"
+          ],
+          "text" : "火"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "焰"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "化"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "紅"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "ring2"
+          ],
+          "text" : "蓮"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "南"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "無"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "清"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "涼"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "地"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "dash1"
+          ],
+          "text" : "萻"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "薩"
+        }
+      ]
     },
     {
-     "text": "水",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "遍",
-     "marks": [
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "洒",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "二",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "千",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "性",
-     "marks": [
-      "dash1",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "空",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "八",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "德",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "利",
-     "marks": [
-      "ring2"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "ring2"
+          ],
+          "text" : "訶"
+        },
+        {
+          "marks" : [
+            "ring1"
+          ],
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "ring1"
+          ],
+          "text" : "南"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "無"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "清"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "涼"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1"
+          ],
+          "text" : "地"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "dash1"
+          ],
+          "text" : "菩"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "dash1"
+          ],
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "dash1"
+          ],
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "ring2",
+            "ring2"
+          ],
+          "text" : "訶"
+        }
+      ]
     }
-   ]
+  ],
+  "subtitle" : "覺苑寺梵唄傳承",
+  "theme" : {
+    "dash" : "#1E64D2",
+    "ink" : "#1D1B18",
+    "note" : "#B3261E",
+    "paper" : "#FAF8F5",
+    "pulse" : "#8E8E93",
+    "qing" : "#7A2BBE",
+    "ring" : "#C02626"
   },
-  {
-   "chars": [
-    {
-     "text": "人",
-     "marks": [
-      "ring2",
-      "ringHalf"
-     ]
-    },
-    {
-     "text": "天",
-     "marks": [
-      "ring2",
-      "ring2",
-      "ring2"
-     ]
-    },
-    {
-     "text": "福",
-     "marks": [
-      "ring2",
-      "ring2",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "壽",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "廣",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "增",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "延",
-     "marks": [
-      "ring2",
-      "ring2",
-      "ring1"
-     ]
-    },
-    {
-     "text": "滅",
-     "marks": [
-      "ring2",
-      "ring2",
-      "ring2"
-     ]
-    },
-    {
-     "text": "罪",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "消",
-     "marks": [
-      "daqing",
-      "dash1",
-      "dash1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "愆",
-     "marks": [
-      "ring2",
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "火",
-     "marks": [
-      "ring2",
-      "dash1",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "焰",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "化",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "紅",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "蓮",
-     "marks": [
-      "ring2",
-      "ring2"
-     ]
-    },
-    {
-     "text": "南",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "清",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "涼",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "地",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "萻",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1",
-      "dash1"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "摩",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "訶",
-     "marks": [
-      "dash1",
-      "ring2",
-      "ring2"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "ring1"
-     ]
-    },
-    {
-     "text": "南",
-     "marks": [
-      "ring2",
-      "ring1"
-     ]
-    },
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "清",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "涼",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "地",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "菩",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "摩",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "訶",
-     "marks": [
-      "dash1",
-      "ring2",
-      "ring2"
-     ]
-    }
-   ]
-  }
- ],
- "categories": [
-  "覺苑寺"
- ]
+  "title" : "03楊枝淨水"
 }
