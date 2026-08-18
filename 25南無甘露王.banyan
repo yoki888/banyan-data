@@ -9,11 +9,6 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "ring1"
-            ]
-          },
           "text" : "般"
         },
         {
@@ -44,11 +39,6 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "ringHalf"
-            ]
-          },
           "text" : "多"
         },
         {
@@ -62,11 +52,6 @@
             "dashHalf",
             "ringHalf"
           ],
-          "note" : {
-            "marks" : [
-              "ringHalf"
-            ]
-          },
           "text" : "經"
         },
         {
@@ -101,11 +86,6 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "ringHalf"
-            ]
-          },
           "text" : "觀"
         },
         {
@@ -118,11 +98,6 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "ringHalf"
-            ]
-          },
           "text" : "在"
         },
         {
@@ -130,22 +105,12 @@
             "dashHalf",
             "ringHalf"
           ],
-          "note" : {
-            "marks" : [
-              "ringHalf"
-            ]
-          },
           "text" : "菩"
         },
         {
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "ringHalf"
-            ]
-          },
           "text" : "薩"
         },
         {
@@ -158,13 +123,6 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "ringHalf",
-              "dashHalf",
-              "ringHalf"
-            ]
-          },
           "text" : "深"
         },
         {
@@ -183,13 +141,6 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "dashHalf",
-              "ringHalf",
-              "ringHalf"
-            ]
-          },
           "text" : "波"
         },
         {
@@ -202,33 +153,18 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "dashHalf"
-            ]
-          },
           "text" : "蜜"
         },
         {
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "dashHalf"
-            ]
-          },
           "text" : "多"
         },
         {
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "dashHalf"
-            ]
-          },
           "text" : "時"
         },
         {
@@ -241,11 +177,6 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "ringHalf"
-            ]
-          },
           "text" : "見"
         },
         {
@@ -258,12 +189,6 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "ringHalf",
-              "ringHalf"
-            ]
-          },
           "text" : "蘊"
         },
         {
@@ -282,35 +207,6 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "ring1"
-            ]
-          },
-          "pulse" : 1,
-          "text" : ""
-        },
-        {
-          "marks" : [
-
-          ],
-          "note" : {
-            "marks" : [
-              "dashHalf"
-            ]
-          },
-          "pulse" : 1,
-          "text" : ""
-        },
-        {
-          "marks" : [
-
-          ],
-          "note" : {
-            "marks" : [
-              "ringHalf"
-            ]
-          },
           "pulse" : 1,
           "text" : ""
         },
@@ -332,11 +228,20 @@
           "marks" : [
 
           ],
-          "note" : {
-            "marks" : [
-              "ringHalf"
-            ]
-          },
+          "pulse" : 1,
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 1,
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
           "pulse" : 1,
           "text" : ""
         },
