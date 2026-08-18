@@ -1,155 +1,467 @@
 {
- "title": "28灑淨儀軌楊枝淨水",
- "subtitle": "覺苑寺梵唄傳承",
- "theme": {
-  "ring": "#C02626",
-  "dash": "#1E64D2",
-  "qing": "#7A2BBE",
-  "ink": "#1D1B18",
-  "paper": "#FAF8F5"
- },
- "lines": [
-  {
-   "chars": [
+  "categories" : [
+    "覺苑寺"
+  ],
+  "lines" : [
     {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [],
-     "note": {
-      "marks": [
-       "na"
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "灑"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "淨"
+        },
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 0,
+          "text" : "儀"
+        },
+        {
+          "marks" : [
+
+          ],
+          "note" : {
+            "marks" : [
+              "na"
+            ]
+          },
+          "pulse" : 0,
+          "text" : "軌"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "note" : {
+            "marks" : [
+              "na"
+            ]
+          },
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : ""
+        },
+        {
+          "marks" : [
+
+          ],
+          "note" : {
+            "marks" : [
+              "ring1"
+            ]
+          },
+          "text" : ""
+        }
       ]
-     }
     },
     {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [],
-     "note": {
-      "marks": [
-       "na"
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "楊"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "枝"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "淨"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "水"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "遍"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "灑"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "三"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "千"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "性"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "空"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "八"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "德"
+        }
       ]
-     }
     },
     {
-     "text": "",
-     "marks": []
-    },
-    {
-     "text": "",
-     "marks": [],
-     "note": {
-      "marks": [
-       "ring1"
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "利"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "人"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "天"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "福"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "壽"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "廣"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "增"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "延"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "滅"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "罪"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "消"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "愆"
+        }
       ]
-     }
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "火"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "燄"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "化"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "紅"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "蓮"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "南"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "無"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "清"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "涼"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "地"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "菩"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "訶"
+        },
+        {
+          "marks" : [
+
+          ],
+          "text" : "薩"
+        }
+      ]
     }
-   ]
-  }
- ],
- "categories": [
-  "覺苑寺"
- ]
+  ],
+  "subtitle" : "覺苑寺梵唄傳承",
+  "theme" : {
+    "dash" : "#1E64D2",
+    "ink" : "#1D1B18",
+    "note" : "#B3261E",
+    "paper" : "#FAF8F5",
+    "pulse" : "#8E8E93",
+    "qing" : "#7A2BBE",
+    "ring" : "#C02626"
+  },
+  "title" : "28灑淨儀軌楊枝淨水"
 }
