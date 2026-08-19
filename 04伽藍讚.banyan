@@ -36,44 +36,44 @@
         {
           "marks" : [
             "dash1",
-            "yinqing",
+            "dun",
             "dash1",
-            "yinqing"
+            "dun"
           ],
           "text" : "藍"
         },
         {
           "marks" : [
             "ring2",
-            "yinqing",
-            "yinqing",
-            "yinqing",
+            "dun",
+            "dun",
+            "dun",
             "dash1",
-            "yinqing"
+            "dun",
+            "dash1",
+            "dun"
           ],
           "text" : "主"
         },
         {
           "marks" : [
-            "ringHalf",
-            "dash1",
-            "ringHalf",
             "ring2",
-            "ringHalf",
-            "ringHalf",
-            "ringHalf",
+            "dun",
+            "dun",
+            "dun",
             "dash1",
-            "ringHalf"
+            "dun",
+            "dash1",
+            "dun"
           ],
           "text" : "者"
         },
         {
           "marks" : [
-            "dash1",
-            "ringHalf",
             "ring2",
-            "ringHalf",
-            "ringHalf"
+            "dun",
+            "dun",
+            "dun"
           ],
           "text" : "合"
         },
