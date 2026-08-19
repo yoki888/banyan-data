@@ -13,28 +13,6 @@
         },
         {
           "marks" : [
-
-          ],
-          "text" : "藍"
-        },
-        {
-          "marks" : [
-
-          ],
-          "text" : "讚"
-        }
-      ]
-    },
-    {
-      "chars" : [
-        {
-          "marks" : [
-
-          ],
-          "text" : "伽"
-        },
-        {
-          "marks" : [
             "dash1",
             "dun",
             "dash1",
@@ -80,82 +58,88 @@
         {
           "marks" : [
             "dash1",
+            "dun",
             "dash1",
-            "ringHalf"
+            "dun"
           ],
           "text" : "寺"
         },
         {
           "marks" : [
             "ring2",
-            "ringHalf",
-            "ringHalf",
-            "dash1"
+            "dun",
+            "dun",
+            "dun",
+            "dash1",
+            "dun",
+            "dash1",
+            "dun"
           ],
           "text" : "威"
         },
         {
           "marks" : [
-            "ringHalf",
-            "dash1",
-            "ringHalf",
             "ring2",
-            "ringHalf",
-            "na",
+            "dun",
+            "dun",
+            "dun",
             "dash1",
-            "ringHalf",
+            "dun",
             "dash1",
-            "ringHalf"
+            "dun",
+            "ring2",
+            "dun",
+            "dun",
+            "dun",
+            "dash1",
+            "dun",
+            "dash1",
+            "dun"
           ],
           "text" : "靈"
         },
         {
           "marks" : [
             "ring2",
-            "ringHalf",
-            "ringHalf",
-            "dash1",
-            "ringHalf",
-            "dash1",
-            "ringHalf",
-            "ring2",
-            "ringHalf"
+            "dun",
+            "dun",
+            "dun"
           ],
           "text" : "欽"
         },
         {
           "marks" : [
-            "ringHalf",
-            "na",
             "dash1",
+            "dun",
             "dash1",
-            "ringHalf"
+            "dun"
           ],
           "text" : "承"
         },
         {
           "marks" : [
             "ring2",
-            "ringHalf"
+            "dun",
+            "dun",
+            "dun"
           ],
           "text" : "佛"
         },
         {
           "marks" : [
-            "ringHalf",
             "dash1",
-            "ringHalf",
-            "ringHalf",
-            "dash1"
+            "dun",
+            "dash1",
+            "dun"
           ],
           "text" : "敕"
         },
         {
           "marks" : [
-            "ring2",
-            "ringHalf",
-            "dash1",
-            "ringHalf"
+            "ring1",
+            "dun",
+            "dashHalf",
+            "dun"
           ],
           "text" : "共"
         }
@@ -165,98 +149,108 @@
       "chars" : [
         {
           "marks" : [
-            "ring2",
-            "dash1"
+            "ring1",
+            "dun",
+            "dashHalf",
+            "dashHalf"
           ],
           "text" : "輸"
         },
         {
           "marks" : [
+            "ringHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "dun",
             "ring1",
-            "dash1",
+            "dun",
+            "dashHalf",
+            "dun",
             "ring1",
-            "dash1",
-            "ring1"
+            "dun",
+            "dashHalf",
+            "dun"
           ],
           "text" : "誠"
         },
         {
           "marks" : [
-            "dash1",
-            "ringHalf",
             "ring2",
-            "ringHalf",
-            "ringHalf",
-            "ring2",
-            "ringHalf",
-            "dash1",
-            "ringHalf",
-            "ring2",
-            "ringHalf",
-            "ringHalf"
+            "dun",
+            "dun",
+            "dun"
           ],
+          "pulse" : 12,
           "text" : "擁"
         },
         {
           "marks" : [
-            "ringHalf",
             "dash1",
-            "ringHalf",
-            "dash1"
+            "dun",
+            "dash1",
+            "dun"
           ],
           "text" : "護"
         },
         {
           "marks" : [
-            "ringHalf",
             "ring2",
-            "ringHalf",
-            "ringHalf"
+            "dun",
+            "dun",
+            "dun"
           ],
           "text" : "法"
         },
         {
           "marks" : [
-            "ringHalf",
             "dash1",
-            "ringHalf",
+            "dun",
             "dash1",
-            "ringHalf"
+            "dun"
           ],
           "text" : "王"
         },
         {
           "marks" : [
-            "ring1",
             "ringHalf",
-            "dash1",
-            "ring1",
+            "dun",
+            "dashHalf",
+            "dun",
             "ringHalf",
-            "dash1",
-            "dash1",
-            "ring1",
-            "dash1"
+            "dun",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "dun"
           ],
           "text" : "城"
         },
         {
           "marks" : [
             "ring1",
-            "dash1",
-            "ring1",
-            "dash1",
-            "ringHalf",
-            "ring2",
-            "ringHalf",
-            "ringHalf"
+            "dun",
+            "dashHalf",
+            "dun"
           ],
+          "pulse" : 8,
           "text" : "為"
         },
         {
           "marks" : [
-            "ring2",
-            "ringHalf",
-            "dash1"
+            "ring1",
+            "dun",
+            "dashHalf",
+            "dun"
           ],
           "text" : "翰"
         }
@@ -267,137 +261,212 @@
         {
           "marks" : [
             "ring2",
-            "ringHalf",
-            "ringHalf",
-            "dash1"
+            "dun",
+            "dun",
+            "dun",
+            "dash1",
+            "dun",
+            "dash1",
+            "dun"
           ],
           "text" : "爲"
         },
         {
           "marks" : [
-            "ringHalf",
-            "dash1",
-            "ringHalf",
             "ring2",
-            "ringHalf",
-            "ringHalf",
-            "ringHalf",
+            "dun",
+            "dun",
+            "dun",
             "dash1",
-            "ringHalf",
+            "dun",
             "dash1",
-            "ringHalf"
+            "dun",
+            "ring2",
+            "dun",
+            "dun",
+            "dun",
+            "dash1",
+            "dun",
+            "dash1",
+            "dun"
           ],
           "text" : "屏"
         },
         {
           "marks" : [
             "ring2",
-            "ringHalf",
-            "ringHalf",
-            "ringHalf",
-            "dash1",
-            "ringHalf",
-            "dash1",
-            "ringHalf",
-            "ring2",
-            "ringHalf",
-            "ringHalf"
+            "dun",
+            "dun",
+            "dun"
           ],
+          "pulse" : 10,
           "text" : "梵"
         },
         {
           "marks" : [
-            "ringHalf",
             "dash1",
-            "ringHalf",
-            "dash1"
+            "dun",
+            "dash1",
+            "dun"
           ],
           "text" : "剎"
         },
         {
           "marks" : [
-            "ringHalf",
-            "ring2",
-            "ringHalf",
-            "dash1",
-            "ringHalf"
+            "ring1",
+            "dun",
+            "dashHalf",
+            "dun"
           ],
+          "pulse" : 5,
           "text" : "永"
         },
         {
           "marks" : [
-            "ring2",
-            "ringHalf",
-            "dash1",
-            "ringHalf"
+            "ring1",
+            "dun",
+            "dashHalf",
+            "dun"
           ],
           "text" : "安"
         },
         {
           "marks" : [
-            "ring2"
+            "ring1",
+            "dun"
           ],
           "text" : "寧"
         },
         {
           "marks" : [
-            "dash1"
+            "dashHalf"
           ],
           "text" : "南"
         },
         {
           "marks" : [
-
+            "dashHalf"
           ],
           "text" : "無"
         },
         {
           "marks" : [
-            "ring2"
+            "ring1",
+            "dun"
           ],
           "text" : "護"
         },
         {
           "marks" : [
-            "dash1"
+            "dashHalf"
           ],
           "text" : "法"
         },
         {
           "marks" : [
-
+            "dashHalf"
           ],
           "text" : "藏"
         },
         {
           "marks" : [
-            "ring2"
+            "ring1",
+            "dun"
           ],
           "text" : "菩"
         },
         {
           "marks" : [
-            "dash1"
+            "dashHalf",
+            "dashHalf"
           ],
           "text" : "薩"
         },
         {
           "marks" : [
-            "ring1"
+            "ringHalf",
+            "dashHalf"
           ],
           "text" : "摩"
         },
         {
           "marks" : [
-            "ring1"
+            "ringHalf",
+            "dashHalf"
           ],
           "text" : "訶"
         },
         {
           "marks" : [
-            "ring1"
+            "ringHalf"
           ],
           "text" : "薩"
+        }
+      ]
+    },
+    {
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "pulse" : 1,
+          "text" : ""
+        },
+        {
+          "marks" : [
+            "dashHalf"
+          ],
+          "pulse" : 1,
+          "text" : ""
+        },
+        {
+          "marks" : [
+            "ring1",
+            "dun"
+          ],
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "訶"
+        },
+        {
+          "marks" : [
+            "ring1",
+            "dun"
+          ],
+          "text" : "般"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "若"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dashHalf"
+          ],
+          "text" : "波"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dashHalf"
+          ],
+          "text" : "羅"
+        },
+        {
+          "marks" : [
+            "ringHalf"
+          ],
+          "text" : "蜜"
         }
       ]
     }
