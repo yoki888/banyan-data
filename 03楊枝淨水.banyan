@@ -320,7 +320,6 @@
             "dash1",
             "dash1"
           ],
-          "pulse" : 3,
           "text" : "摩"
         },
         {
@@ -422,67 +421,87 @@
       "chars" : [
         {
           "marks" : [
-
+            "ringHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf"
           ],
           "text" : "薩"
         },
         {
           "marks" : [
-
+            "dashHalf",
+            "ringHalf"
           ],
           "text" : "南"
         },
         {
           "marks" : [
-
+            "dashHalf"
           ],
           "text" : "無"
         },
         {
           "marks" : [
-
+            "ring1",
+            "dashHalf"
           ],
           "text" : "清"
         },
         {
           "marks" : [
-
+            "ring1",
+            "dashHalf"
           ],
           "text" : "涼"
         },
         {
           "marks" : [
-
+            "ring2",
+            "dash1",
+            "dash1"
           ],
           "text" : "地"
         },
         {
           "marks" : [
-
+            "ring2",
+            "dash1",
+            "dash1"
           ],
           "text" : "菩"
         },
         {
           "marks" : [
-
+            "ring2",
+            "dash1",
+            "dash1"
           ],
           "text" : "薩"
         },
         {
           "marks" : [
-
+            "ring2",
+            "dash1",
+            "dash1"
           ],
           "text" : "摩"
         },
         {
           "marks" : [
-
+            "ring1",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf"
           ],
           "text" : "訶"
         },
         {
           "marks" : [
-
+            "ringHalf"
           ],
           "text" : "薩"
         }
