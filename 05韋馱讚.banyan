@@ -1,276 +1,366 @@
 {
- "title": "05韋馱讚",
- "subtitle": "覺苑寺梵唄傳承",
- "theme": {
-  "ring": "#C02626",
-  "dash": "#1E64D2",
-  "qing": "#7A2BBE",
-  "ink": "#1D1B18",
-  "paper": "#FAF8F5"
- },
- "lines": [
-  {
-   "chars": [
+  "categories" : [
+    "覺苑寺"
+  ],
+  "lines" : [
     {
-     "text": "韋",
-     "marks": []
+      "chars" : [
+        {
+          "marks" : [
+
+          ],
+          "text" : "韋"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "馱"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "天"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "將"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "菩"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "化"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "身"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "擁"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "護"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "佛"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "法"
+        },
+        {
+          "marks" : [
+            "ring1",
+            "dashHalf"
+          ],
+          "text" : "誓"
+        }
+      ]
     },
     {
-     "text": "馱",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+            "ring1",
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "弘"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "ring1",
+            "dashHalf",
+            "ring1",
+            "dashHalf"
+          ],
+          "text" : "深"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "寶"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "杵"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "鎭"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "魔"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf"
+          ],
+          "text" : "軍"
+        },
+        {
+          "marks" : [
+            "ring1",
+            "dashHalf"
+          ],
+          "text" : "功"
+        },
+        {
+          "marks" : [
+            "ring1",
+            "dashHalf"
+          ],
+          "text" : "德"
+        }
+      ]
     },
     {
-     "text": "天",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "難"
+        },
+        {
+          "marks" : [
+            "ring2",
+            "dash1",
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1"
+          ],
+          "text" : "倫"
+        },
+        {
+          "marks" : [
+            "ring2"
+          ],
+          "text" : "祈"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "禱"
+        },
+        {
+          "marks" : [
+            "ring1",
+            "dashHalf"
+          ],
+          "text" : "副"
+        },
+        {
+          "marks" : [
+            "ring1",
+            "dashHalf"
+          ],
+          "text" : "羣"
+        },
+        {
+          "marks" : [
+            "ringHalf"
+          ],
+          "text" : "心"
+        },
+        {
+          "marks" : [
+            "dashHalf"
+          ],
+          "text" : "南"
+        },
+        {
+          "marks" : [
+            "dashHalf"
+          ],
+          "text" : "無"
+        },
+        {
+          "marks" : [
+            "ringHalf"
+          ],
+          "text" : "普"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "眼"
+        },
+        {
+          "marks" : [
+            "ringHalf"
+          ],
+          "text" : "菩"
+        },
+        {
+          "marks" : [
+            "dash1",
+            "dash1"
+          ],
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+            "ring1",
+            "dashHalf"
+          ],
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+            "ring1",
+            "dashHalf"
+          ],
+          "text" : "訶"
+        }
+      ]
     },
     {
-     "text": "將",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "菩",
-     "marks": [
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "化",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "身",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "擁",
-     "marks": [
-      "dash1",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "護",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "佛",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "法",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "誓",
-     "marks": [
-      "ring2"
-     ]
+      "chars" : [
+        {
+          "marks" : [
+            "ring1",
+            "dashHalf"
+          ],
+          "text" : "薩"
+        },
+        {
+          "marks" : [
+            "ring1"
+          ],
+          "text" : "摩"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "訶"
+        },
+        {
+          "marks" : [
+            "ring1"
+          ],
+          "text" : "般"
+        },
+        {
+          "marks" : [
+            "dashHalf",
+            "dashHalf"
+          ],
+          "text" : "若"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dashHalf"
+          ],
+          "text" : "波"
+        },
+        {
+          "marks" : [
+            "ringHalf",
+            "dashHalf"
+          ],
+          "text" : "羅"
+        },
+        {
+          "marks" : [
+            "ringHalf"
+          ],
+          "text" : "蜜"
+        }
+      ]
     }
-   ]
+  ],
+  "subtitle" : "覺苑寺梵唄傳承",
+  "theme" : {
+    "dash" : "#1E64D2",
+    "ink" : "#1D1B18",
+    "note" : "#B3261E",
+    "paper" : "#FAF8F5",
+    "pulse" : "#8E8E93",
+    "qing" : "#7A2BBE",
+    "ring" : "#C02626"
   },
-  {
-   "chars": [
-    {
-     "text": "弘",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "深",
-     "marks": [
-      "ring1",
-      "ring1",
-      "ring1"
-     ]
-    },
-    {
-     "text": "寶",
-     "marks": [
-      "ring2",
-      "ring2",
-      "ring2"
-     ]
-    },
-    {
-     "text": "杵",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "鎭",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "魔",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "軍",
-     "marks": [
-      "ring1",
-      "ring2",
-      "ring1"
-     ]
-    },
-    {
-     "text": "功",
-     "marks": [
-      "ring1",
-      "ring1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "德",
-     "marks": [
-      "ring2"
-     ]
-    }
-   ]
-  },
-  {
-   "chars": [
-    {
-     "text": "難",
-     "marks": [
-      "ring2",
-      "dash1"
-     ]
-    },
-    {
-     "text": "倫",
-     "marks": [
-      "dash1",
-      "ring2",
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "祈",
-     "marks": [
-      "ring2",
-      "dash1",
-      "dash1",
-      "ring2"
-     ]
-    },
-    {
-     "text": "禱",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "副",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "羣",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "心",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "南",
-     "marks": []
-    },
-    {
-     "text": "無",
-     "marks": []
-    },
-    {
-     "text": "普",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "眼",
-     "marks": []
-    },
-    {
-     "text": "菩",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "薩",
-     "marks": [
-      "dash1",
-      "dash1"
-     ]
-    },
-    {
-     "text": "摩",
-     "marks": [
-      "ring2"
-     ]
-    },
-    {
-     "text": "訶",
-     "marks": [
-      "ring2"
-     ]
-    }
-   ]
-  }
- ],
- "categories": [
-  "覺苑寺"
- ]
+  "title" : "05韋馱讚"
 }
