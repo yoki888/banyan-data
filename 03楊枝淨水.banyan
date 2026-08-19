@@ -13,31 +13,33 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
+          "pulse" : 1,
           "text" : "枝"
         },
         {
           "marks" : [
-            "dash1",
             "ring2",
+            "dash1",
             "dash1"
           ],
           "text" : "淨"
         },
         {
           "marks" : [
-            "dash1",
             "ring2",
+            "dash1",
             "dash1"
           ],
           "text" : "水"
         },
         {
           "marks" : [
-            "dash1",
             "ring2"
           ],
+          "pulse" : 3,
           "text" : "遍"
         },
         {
@@ -50,26 +52,29 @@
         {
           "marks" : [
             "ring2",
+            "dash1",
             "dash1"
           ],
+          "pulse" : 3,
           "text" : "三"
         },
         {
           "marks" : [
-            "dash1",
             "ring2",
             "dash1",
             "dash1",
-            "ring2"
+            "ring2",
+            "dash1",
+            "dash1"
           ],
+          "pulse" : 7,
           "text" : "千"
         },
         {
           "marks" : [
-            "dash1",
-            "dash1",
             "ring2"
           ],
+          "pulse" : 4,
           "text" : "性"
         },
         {
@@ -104,26 +109,35 @@
       "chars" : [
         {
           "marks" : [
-            "ring2",
-            "ringHalf"
+            "ring1",
+            "dashHalf",
+            "dashHalf"
           ],
+          "pulse" : 3,
           "text" : "人"
         },
         {
           "marks" : [
-            "ring2",
-            "ring2",
-            "ring2"
+            "ringHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "ring1",
+            "dashHalf",
+            "ring1",
+            "dashHalf"
           ],
+          "pulse" : 6,
           "text" : "天"
         },
         {
           "marks" : [
-            "ring2",
-            "ring2",
-            "dash1",
             "ring2"
           ],
+          "pulse" : 7,
           "text" : "福"
         },
         {
@@ -148,32 +162,43 @@
         },
         {
           "marks" : [
-            "ring2",
-            "ring2",
-            "ring1"
+            "ring1",
+            "dashHalf",
+            "ring1",
+            "dashHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf",
+            "ringHalf",
+            "dashHalf"
           ],
+          "pulse" : 5,
           "text" : "延"
         },
         {
           "marks" : [
-            "ring2",
-            "ring2",
-            "ring2"
+            "ring1",
+            "dashHalf"
           ],
+          "pulse" : 6,
           "text" : "滅"
         },
         {
           "marks" : [
-            "ring2"
+            "ring1",
+            "dashHalf"
           ],
           "text" : "罪"
         },
         {
           "marks" : [
-            "daqing",
+            "ring2",
             "dash1",
             "dash1"
           ],
+          "pulse" : 2,
           "text" : "消"
         }
       ]
@@ -186,6 +211,11 @@
             "dash1",
             "dash1"
           ],
+          "note" : {
+            "marks" : [
+              "ring2"
+            ]
+          },
           "text" : "愆"
         },
         {
