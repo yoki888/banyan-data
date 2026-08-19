@@ -13,44 +13,45 @@
         },
         {
           "marks" : [
-
+            "dash1",
+            "dash1"
           ],
           "text" : "今"
         },
         {
           "marks" : [
-
+            "ring2"
           ],
-          "note" : {
-            "marks" : [
-              "dashHalf",
-              "dashHalf"
-            ]
-          },
-          "pulse" : 2,
           "text" : "灌"
         },
         {
           "marks" : [
-
+            "dash1",
+            "dash1"
           ],
           "text" : "沐"
         },
         {
           "marks" : [
-
+            "ring2"
           ],
           "text" : "諸"
         },
         {
           "marks" : [
-
+            "dash1",
+            "dash1"
           ],
           "text" : "如"
         },
         {
           "marks" : [
-
+            "ring2",
+            "dash1",
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1"
           ],
           "text" : "來"
         }
@@ -66,6 +67,7 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
           "text" : "智"
@@ -78,6 +80,7 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
           "text" : "嚴"
@@ -90,6 +93,7 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
           "text" : "德"
@@ -114,6 +118,7 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
           "text" : "濁"
@@ -126,6 +131,7 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
           "text" : "生"
@@ -138,6 +144,7 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
           "text" : "塵"
@@ -145,6 +152,7 @@
         {
           "marks" : [
             "ring2",
+            "dash1",
             "dash1",
             "ring2",
             "dash1",
@@ -158,48 +166,57 @@
       "chars" : [
         {
           "marks" : [
-
+            "ring2"
           ],
-          "note" : {
-            "marks" : [
-              "na"
-            ]
-          },
           "text" : "仝"
         },
         {
           "marks" : [
-
+            "dash1",
+            "dash1"
           ],
           "text" : "證"
         },
         {
           "marks" : [
-
+            "ring2"
           ],
           "text" : "如"
         },
         {
           "marks" : [
-
+            "dash1",
+            "dash1"
           ],
           "text" : "來"
         },
         {
           "marks" : [
-
+            "ring2"
           ],
           "text" : "淨"
         },
         {
           "marks" : [
-
+            "dash1",
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1"
           ],
           "text" : "法"
         },
         {
           "marks" : [
-
+            "ring2",
+            "dash1",
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1"
           ],
           "text" : "身"
         }
