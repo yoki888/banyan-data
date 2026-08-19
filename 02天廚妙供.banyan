@@ -26,15 +26,18 @@
         },
         {
           "marks" : [
-            "ring2"
+            "ring2",
+            "dash1",
+            "dash1"
           ],
+          "pulse" : 2,
           "text" : "供"
         },
         {
           "marks" : [
-            "dash1",
             "ring2"
           ],
+          "pulse" : 3,
           "text" : "禪"
         },
         {
@@ -53,34 +56,40 @@
         {
           "marks" : [
             "ring2",
+            "dash1",
             "dash1"
           ],
+          "pulse" : 3,
           "text" : "酡"
         },
         {
           "marks" : [
-            "dash1",
             "ring2"
           ],
+          "pulse" : 3,
           "text" : "戶"
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
+          "pulse" : 1,
           "text" : "唵"
         },
         {
           "marks" : [
-            "dash1",
             "ring2"
           ],
+          "pulse" : 3,
           "text" : "蘇"
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
+          "pulse" : 1,
           "text" : "嚕"
         },
         {
@@ -136,15 +145,17 @@
         {
           "marks" : [
             "ring2",
+            "dash1",
             "dash1"
           ],
+          "pulse" : 3,
           "text" : "多"
         },
         {
           "marks" : [
-            "dash1",
             "ring2"
           ],
+          "pulse" : 3,
           "text" : "怛"
         },
         {
@@ -163,42 +174,50 @@
         {
           "marks" : [
             "ring2",
+            "dash1",
             "dash1"
           ],
+          "pulse" : 3,
           "text" : "他"
         },
         {
           "marks" : [
-            "dash1",
             "ring2"
           ],
+          "pulse" : 3,
           "text" : "蘇"
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
+          "pulse" : 1,
           "text" : "嚕"
         },
         {
           "marks" : [
-            "ring2"
+            "ring2",
+            "dash1"
           ],
+          "pulse" : 2,
           "text" : "娑"
         },
         {
           "marks" : [
+            "ring2",
             "dash1",
             "ring2",
-            "ring2"
+            "dash1"
           ],
+          "pulse" : 5,
           "text" : "嚩"
         },
         {
           "marks" : [
-            "dash1",
             "ring2"
           ],
+          "pulse" : 3,
           "text" : "訶"
         }
       ]
@@ -207,7 +226,7 @@
       "chars" : [
         {
           "marks" : [
-
+            "dash1"
           ],
           "text" : "南"
         },
@@ -225,7 +244,7 @@
         },
         {
           "marks" : [
-
+            "dash1"
           ],
           "text" : "悅"
         },
@@ -310,8 +329,10 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
+          "pulse" : 1,
           "text" : "薩"
         },
         {
