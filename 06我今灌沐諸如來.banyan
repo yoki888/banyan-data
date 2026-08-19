@@ -232,6 +232,7 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
           "text" : "今"
@@ -244,6 +245,7 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
           "text" : "沐"
@@ -257,19 +259,17 @@
         {
           "marks" : [
             "dash1",
-            "dash1",
-            "ring2"
+            "dash1"
           ],
           "text" : "如"
         },
         {
           "marks" : [
+            "ring2",
+            "dash1",
             "dash1",
             "ring2",
             "dash1",
-            "ring2",
-            "dash1",
-            "ring2",
             "dash1"
           ],
           "text" : "來"
@@ -280,12 +280,13 @@
       "chars" : [
         {
           "marks" : [
-            "daqing"
+            "ring2"
           ],
           "text" : "淨"
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
           "text" : "智"
@@ -298,13 +299,14 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
           "text" : "嚴"
         },
         {
           "marks" : [
-            "daqing"
+            "ring2"
           ],
           "text" : "功"
         },
@@ -319,7 +321,6 @@
           "marks" : [
             "ring2",
             "dash1",
-            "ring2",
             "dash1"
           ],
           "text" : "海"
@@ -330,49 +331,51 @@
       "chars" : [
         {
           "marks" : [
-
+            "ring2"
           ],
           "text" : "五"
         },
         {
           "marks" : [
-
+            "dash1",
+            "dash1"
           ],
           "text" : "濁"
         },
         {
           "marks" : [
-
+            "ring2"
           ],
-          "note" : {
-            "marks" : [
-              "dashHalf",
-              "dashHalf"
-            ]
-          },
           "text" : "眾"
         },
         {
           "marks" : [
-
+            "dash1",
+            "dash1"
           ],
           "text" : "生"
         },
         {
           "marks" : [
-
+            "ring2"
           ],
           "text" : "離"
         },
         {
           "marks" : [
-
+            "dash1",
+            "dash1"
           ],
           "text" : "塵"
         },
         {
           "marks" : [
-
+            "ring2",
+            "dash1",
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1"
           ],
           "text" : "垢"
         }
@@ -401,6 +404,7 @@
         },
         {
           "marks" : [
+            "dash1",
             "dash1"
           ],
           "text" : "來"
@@ -413,6 +417,10 @@
         },
         {
           "marks" : [
+            "dash1",
+            "dash1",
+            "ring2",
+            "dash1",
             "dash1"
           ],
           "text" : "法"
@@ -420,6 +428,13 @@
         {
           "marks" : [
             "ring2",
+            "dash1",
+            "dash1",
+            "ring2",
+            "dash1",
+            "dash1",
+            "ring2",
+            "dash1",
             "dash1"
           ],
           "text" : "身"
