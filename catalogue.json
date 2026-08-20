@@ -4,99 +4,129 @@
   {
    "file": "寶鼎讚-1.banyan",
    "title": "寶鼎讚",
-   "category": "朝時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "1",
-   "glyphs": 65,
-   "beats": 224.5,
-   "marks": 202,
+   "glyphs": 62,
+   "beats": 219.5,
+   "marks": 185,
    "rev": "3e2f511d6bd3"
   },
   {
    "file": "大佛頂首楞嚴神咒-2.banyan",
    "title": "大佛頂首楞嚴神咒",
-   "category": "朝時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "2–22",
-   "glyphs": 266,
-   "beats": 45.5,
-   "marks": 121,
+   "glyphs": 262,
+   "beats": 44.0,
+   "marks": 111,
    "rev": "2b96236f395c"
   },
   {
    "file": "消災吉祥神咒-27.banyan",
    "title": "消災吉祥神咒",
-   "category": "朝時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "27",
-   "glyphs": 44,
+   "glyphs": 42,
    "beats": 12.0,
-   "marks": 23,
+   "marks": 22,
    "rev": "286b0c8145ef"
   },
   {
    "file": "般若波羅蜜多心經-32.banyan",
    "title": "般若波羅蜜多心經",
-   "category": "朝時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "32–33",
-   "glyphs": 122,
-   "beats": 22.5,
-   "marks": 47,
+   "glyphs": 121,
+   "beats": 22.0,
+   "marks": 45,
    "rev": "e01b2176f8b7"
   },
   {
    "file": "回向偈-34.banyan",
    "title": "回向偈",
-   "category": "朝時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "34–35",
-   "glyphs": 138,
-   "beats": 207.5,
-   "marks": 172,
+   "glyphs": 135,
+   "beats": 202.5,
+   "marks": 164,
    "rev": "3127c2389b09"
   },
   {
    "file": "讚佛偈・念聖號-35.banyan",
    "title": "讚佛偈・念聖號",
-   "category": "朝時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "35–36",
-   "glyphs": 129,
-   "beats": 203.0,
-   "marks": 152,
+   "glyphs": 119,
+   "beats": 203,
+   "marks": 151,
    "rev": "10b20c5f5344"
   },
   {
    "file": "普賢十大願王-36.banyan",
    "title": "普賢十大願王",
-   "category": "朝時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "36–37",
-   "glyphs": 146,
-   "beats": 90.0,
-   "marks": 153,
+   "glyphs": 133,
+   "beats": 89.5,
+   "marks": 151,
    "rev": "4344039aa4e6"
   },
   {
    "file": "三皈依-38.banyan",
    "title": "三皈依",
-   "category": "朝時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "38–39",
-   "glyphs": 93,
+   "glyphs": 86,
    "beats": 45.0,
-   "marks": 86,
+   "marks": 85,
    "rev": "200333ca28cd"
   },
   {
    "file": "善女天咒-39.banyan",
    "title": "善女天咒",
-   "category": "朝時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "39–40",
-   "glyphs": 132,
-   "beats": 51.0,
-   "marks": 94,
+   "glyphs": 129,
+   "beats": 50.5,
+   "marks": 92,
    "rev": "6dc872840043"
   },
   {
    "file": "韋馱讚-40.banyan",
    "title": "韋馱讚",
-   "category": "朝時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "40",
-   "glyphs": 35,
+   "glyphs": 33,
    "beats": 98.5,
    "marks": 81,
    "rev": "1f1528c639e8"
@@ -104,137 +134,179 @@
   {
    "file": "禮祖-41.banyan",
    "title": "禮祖",
-   "category": "朝時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "41",
-   "glyphs": 94,
-   "beats": 36.0,
-   "marks": 46,
+   "glyphs": 78,
+   "beats": 8.0,
+   "marks": 18,
    "rev": "e0c8e761a087"
   },
   {
    "file": "蓮池讚-43.banyan",
    "title": "蓮池讚",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "43–44",
-   "glyphs": 70,
-   "beats": 218.5,
-   "marks": 204,
+   "glyphs": 68,
+   "beats": 215.5,
+   "marks": 183,
    "rev": "bacdc055e4a3"
   },
   {
    "file": "佛說阿彌陀經-44.banyan",
    "title": "佛說阿彌陀經",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "44–55",
    "glyphs": 1083,
-   "beats": 247.0,
-   "marks": 561,
+   "beats": 244.0,
+   "marks": 553,
    "rev": "ce4cd09281c0"
   },
   {
    "file": "往生咒・禮佛大懺悔文-56.banyan",
    "title": "往生咒・禮佛大懺悔文",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "56–70",
-   "glyphs": 1730,
-   "beats": 509.0,
-   "marks": 525,
+   "glyphs": 1698,
+   "beats": 500.5,
+   "marks": 515,
    "rev": "eea186fdce57"
   },
   {
    "file": "蒙山施食儀・破地獄真言・普召請真言・解冤結真言-70.banyan",
    "title": "蒙山施食儀・破地獄真言・普召請真言・解冤結真言",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "70",
-   "glyphs": 43,
-   "beats": 6.0,
-   "marks": 13,
+   "glyphs": 41,
+   "beats": 1.5,
+   "marks": 4,
    "rev": "6173ec1b4710"
   },
   {
    "file": "滅定業真言-71.banyan",
    "title": "滅定業真言",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "71–73",
-   "glyphs": 52,
-   "beats": 4.5,
-   "marks": 14,
+   "glyphs": 51,
+   "beats": 1.5,
+   "marks": 8,
    "rev": "a6b738aed6ef"
   },
   {
    "file": "滅業障真言・開咽喉真言・三昧耶戒真言-73.banyan",
    "title": "滅業障真言・開咽喉真言・三昧耶戒真言",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "73",
-   "glyphs": 89,
-   "beats": 9.0,
-   "marks": 24,
+   "glyphs": 84,
+   "beats": 5.5,
+   "marks": 16,
    "rev": "45c6cd07cee1"
   },
   {
    "file": "變食真言・甘露水真言・一字水輪真言・乳海真言-74.banyan",
    "title": "變食真言・甘露水真言・一字水輪真言・乳海真言",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "74",
-   "glyphs": 181,
-   "beats": 26.5,
-   "marks": 61,
+   "glyphs": 154,
+   "beats": 23.0,
+   "marks": 51,
    "rev": "c4bd10ac0887"
   },
   {
    "file": "施無遮食真言-75.banyan",
    "title": "施無遮食真言",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "75",
-   "glyphs": 32,
-   "beats": 9.0,
-   "marks": 14,
+   "glyphs": 25,
+   "beats": 8,
+   "marks": 11,
    "rev": "c6820363c99e"
   },
   {
    "file": "普供養真言-76.banyan",
    "title": "普供養真言",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "76",
-   "glyphs": 147,
-   "beats": 25.5,
-   "marks": 54,
+   "glyphs": 114,
+   "beats": 6.5,
+   "marks": 15,
    "rev": "13548b636000"
   },
   {
    "file": "往生淨土神咒-77.banyan",
    "title": "往生淨土神咒",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "77–79",
-   "glyphs": 193,
-   "beats": 45.0,
-   "marks": 91,
+   "glyphs": 191,
+   "beats": 37.5,
+   "marks": 78,
    "rev": "c0aad2eb9032"
   },
   {
    "file": "讚佛偈・念聖號-80.banyan",
    "title": "讚佛偈・念聖號",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "80",
-   "glyphs": 125,
-   "beats": 211.0,
+   "glyphs": 119,
+   "beats": 211,
    "marks": 160,
    "rev": "26e2799bb2ad"
   },
   {
    "file": "慈雲懺主淨土文-81.banyan",
    "title": "慈雲懺主淨土文",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "81–83",
-   "glyphs": 292,
-   "beats": 290.0,
-   "marks": 358,
+   "glyphs": 276,
+   "beats": 286.0,
+   "marks": 348,
    "rev": "a07daf609b34"
   },
   {
    "file": "大慈菩薩發願偈-83.banyan",
    "title": "大慈菩薩發願偈",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "83–84",
    "glyphs": 136,
    "beats": 91.5,
@@ -244,9 +316,12 @@
   {
    "file": "普賢警眾偈-84.banyan",
    "title": "普賢警眾偈",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "84",
-   "glyphs": 64,
+   "glyphs": 48,
    "beats": 25.0,
    "marks": 46,
    "rev": "9462c263ecae"
@@ -254,19 +329,25 @@
   {
    "file": "拜願-85.banyan",
    "title": "拜願",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "85",
-   "glyphs": 137,
-   "beats": 28.5,
-   "marks": 46,
+   "glyphs": 105,
+   "beats": 28.0,
+   "marks": 44,
    "rev": "f7033bfe0936"
   },
   {
    "file": "三皈依-86.banyan",
    "title": "三皈依",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "86",
-   "glyphs": 79,
+   "glyphs": 72,
    "beats": 49.5,
    "marks": 84,
    "rev": "fd3df1f2324b"
@@ -274,17 +355,23 @@
   {
    "file": "大悲咒-87.banyan",
    "title": "大悲咒",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "87–90",
-   "glyphs": 58,
+   "glyphs": 56,
    "beats": 6.5,
-   "marks": 22,
+   "marks": 21,
    "rev": "19814342ffc0"
   },
   {
    "file": "伽藍讚-90.banyan",
    "title": "伽藍讚",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "90",
    "glyphs": 46,
    "beats": 119.0,
@@ -294,119 +381,155 @@
   {
    "file": "百字明咒-91.banyan",
    "title": "百字明咒",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "91",
-   "glyphs": 129,
-   "beats": 42.5,
-   "marks": 126,
+   "glyphs": 127,
+   "beats": 3.5,
+   "marks": 47,
    "rev": "e452143401f1"
   },
   {
    "file": "大輪金剛陀羅尼・二時臨齋儀-92.banyan",
    "title": "大輪金剛陀羅尼・二時臨齋儀",
-   "category": "暮時課誦",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "92",
-   "glyphs": 186,
-   "beats": 20.0,
-   "marks": 44,
+   "glyphs": 171,
+   "beats": 11.5,
+   "marks": 23,
    "rev": "830da9c44f7b"
   },
   {
    "file": "附食存五觀-93.banyan",
    "title": "附食存五觀",
-   "category": "二時臨齋儀",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "93–95",
-   "glyphs": 428,
-   "beats": 147.5,
-   "marks": 271,
+   "glyphs": 403,
+   "beats": 97.5,
+   "marks": 185,
    "rev": "96cbd836c115"
   },
   {
    "file": "普佛儀規-96.banyan",
    "title": "普佛儀規",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "96–97",
-   "glyphs": 137,
-   "beats": 21.5,
-   "marks": 51,
+   "glyphs": 123,
+   "beats": 13.0,
+   "marks": 30,
    "rev": "27631b18dda8"
   },
   {
    "file": "釋迦文佛聖誕祝儀・戒定真香-97.banyan",
    "title": "釋迦文佛聖誕祝儀・戒定真香",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "97",
    "glyphs": 50,
-   "beats": 167.0,
-   "marks": 150,
+   "beats": 164.0,
+   "marks": 138,
    "rev": "44887a8ac4a8"
   },
   {
    "file": "佛寶讚-98.banyan",
    "title": "佛寶讚",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "98–101",
-   "glyphs": 387,
-   "beats": 513.0,
-   "marks": 440,
+   "glyphs": 328,
+   "beats": 504.0,
+   "marks": 418,
    "rev": "62a352de7bbe"
   },
   {
    "file": "藥師佛聖誕祝儀-102.banyan",
    "title": "藥師佛聖誕祝儀",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "102–105",
    "glyphs": 173,
-   "beats": 429.5,
-   "marks": 340,
+   "beats": 428.5,
+   "marks": 333,
    "rev": "e2823a1c2bb8"
   },
   {
    "file": "阿彌陀佛聖誕祝儀・彌勒佛聖誕祝儀-105.banyan",
    "title": "阿彌陀佛聖誕祝儀・彌勒佛聖誕祝儀",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "105–107",
-   "glyphs": 201,
+   "glyphs": 193,
    "beats": 442.0,
-   "marks": 347,
+   "marks": 344,
    "rev": "4f784ef59cf9"
   },
   {
    "file": "大彌陀讚-108.banyan",
    "title": "大彌陀讚",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "108–111",
-   "glyphs": 193,
-   "beats": 473.0,
-   "marks": 377,
+   "glyphs": 187,
+   "beats": 462.0,
+   "marks": 357,
    "rev": "b43edbbe60a9"
   },
   {
    "file": "觀音菩薩聖誕祝儀-111.banyan",
    "title": "觀音菩薩聖誕祝儀",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "111–114",
-   "glyphs": 156,
-   "beats": 442.0,
-   "marks": 356,
+   "glyphs": 153,
+   "beats": 441.0,
+   "marks": 346,
    "rev": "f3320fb3ad68"
   },
   {
    "file": "普賢菩薩聖誕祝儀-114.banyan",
    "title": "普賢菩薩聖誕祝儀",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "114–117",
-   "glyphs": 143,
-   "beats": 434.5,
-   "marks": 342,
+   "glyphs": 141,
+   "beats": 433.5,
+   "marks": 338,
    "rev": "7d1a2134192b"
   },
   {
    "file": "文殊菩薩聖誕祝儀-117.banyan",
    "title": "文殊菩薩聖誕祝儀",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "117–120",
-   "glyphs": 147,
+   "glyphs": 145,
    "beats": 435.5,
    "marks": 338,
    "rev": "3c75b1d22f7a"
@@ -414,67 +537,88 @@
   {
    "file": "大勢至菩薩聖誕祝儀-120.banyan",
    "title": "大勢至菩薩聖誕祝儀",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "120–123",
-   "glyphs": 196,
-   "beats": 444.0,
-   "marks": 351,
+   "glyphs": 183,
+   "beats": 442.0,
+   "marks": 344,
    "rev": "2cad75eee5e2"
   },
   {
    "file": "地藏菩薩聖誕祝儀-123.banyan",
    "title": "地藏菩薩聖誕祝儀",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "123–126",
-   "glyphs": 164,
+   "glyphs": 163,
    "beats": 440.0,
-   "marks": 348,
+   "marks": 347,
    "rev": "fa193787224e"
   },
   {
    "file": "長生位前安位-127.banyan",
    "title": "長生位前安位",
-   "category": "祝聖普佛儀軌",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "127",
-   "glyphs": 123,
-   "beats": 131.5,
-   "marks": 121,
+   "glyphs": 112,
+   "beats": 77.5,
+   "marks": 62,
    "rev": "9f5eebe4fd20"
   },
   {
    "file": "佛七儀規・爐香讚-128.banyan",
    "title": "佛七儀規・爐香讚",
-   "category": "佛七儀規",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "128–129",
-   "glyphs": 140,
-   "beats": 97.5,
-   "marks": 110,
+   "glyphs": 131,
+   "beats": 92.5,
+   "marks": 101,
    "rev": "ef7ced92c148"
   },
   {
    "file": "佛前大供-130.banyan",
    "title": "佛前大供",
-   "category": "佛七儀規",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "130–135",
-   "glyphs": 287,
-   "beats": 143.5,
-   "marks": 164,
+   "glyphs": 276,
+   "beats": 113.0,
+   "marks": 126,
    "rev": "4e087b5923cf"
   },
   {
    "file": "往生位前薦食-135.banyan",
    "title": "往生位前薦食",
-   "category": "佛七儀規",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "135–136",
    "glyphs": 36,
-   "beats": 42.0,
+   "beats": 42,
    "marks": 31,
    "rev": "89b602394566"
   },
   {
    "file": "小彌陀讚-137.banyan",
    "title": "小彌陀讚",
-   "category": "佛七儀規",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "137",
    "glyphs": 57,
    "beats": 163.5,
@@ -484,69 +628,90 @@
   {
    "file": "大回向-138.banyan",
    "title": "大回向",
-   "category": "佛七儀規",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "138–143",
-   "glyphs": 814,
-   "beats": 296.5,
-   "marks": 429,
+   "glyphs": 694,
+   "beats": 291.0,
+   "marks": 408,
    "rev": "223a5c0cf4cb"
   },
   {
    "file": "禮祖-144.banyan",
    "title": "禮祖",
-   "category": "佛七儀規",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "144–146",
-   "glyphs": 252,
-   "beats": 32.0,
-   "marks": 75,
+   "glyphs": 233,
+   "beats": 29.5,
+   "marks": 67,
    "rev": "8990712f0781"
   },
   {
    "file": "念佛堂日課-147.banyan",
    "title": "念佛堂日課",
-   "category": "念佛堂日課",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "147–148",
-   "glyphs": 156,
-   "beats": 9.0,
-   "marks": 22,
+   "glyphs": 112,
+   "beats": 3.5,
+   "marks": 6,
    "rev": "40baa20a12df"
   },
   {
    "file": "精進佛七儀規-149.banyan",
    "title": "精進佛七儀規",
-   "category": "精進佛七儀規",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "149–151",
-   "glyphs": 311,
-   "beats": 6.0,
-   "marks": 16,
+   "glyphs": 268,
+   "beats": 0.5,
+   "marks": 2,
    "rev": "f45f936019e2"
   },
   {
    "file": "香讚・香纔爇・戒定香-152.banyan",
    "title": "香讚・香纔爇・戒定香",
-   "category": "應用諸讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "152",
-   "glyphs": 72,
-   "beats": 203.5,
-   "marks": 182,
+   "glyphs": 70,
+   "beats": 202.5,
+   "marks": 169,
    "rev": "ec702335241e"
   },
   {
    "file": "心香五分-153.banyan",
    "title": "心香五分",
-   "category": "應用諸讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "153",
-   "glyphs": 84,
-   "beats": 255.5,
-   "marks": 224,
+   "glyphs": 83,
+   "beats": 252.5,
+   "marks": 212,
    "rev": "52bf38f53f5b"
   },
   {
    "file": "佛寶讚無窮・僧寶讚不思議・法寶實讚難量-155.banyan",
    "title": "佛寶讚無窮・僧寶讚不思議・法寶實讚難量",
-   "category": "應用諸讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "155",
-   "glyphs": 145,
+   "glyphs": 142,
    "beats": 11.5,
    "marks": 25,
    "rev": "e25f0243cf58"
@@ -554,19 +719,25 @@
   {
    "file": "三寶廣無邊・佛面讚・供養讚・虔誠獻香花-156.banyan",
    "title": "三寶廣無邊・佛面讚・供養讚・虔誠獻香花",
-   "category": "應用諸讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "156",
-   "glyphs": 55,
-   "beats": 202.0,
-   "marks": 178,
+   "glyphs": 54,
+   "beats": 201.0,
+   "marks": 171,
    "rev": "c9c2ece19c40"
   },
   {
    "file": "香花燈塗菓・十方一切刹-157.banyan",
    "title": "香花燈塗菓・十方一切刹",
-   "category": "應用諸讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "157–159",
-   "glyphs": 218,
+   "glyphs": 217,
    "beats": 509.0,
    "marks": 382,
    "rev": "833c1bce1abb"
@@ -574,109 +745,142 @@
   {
    "file": "祝延讚-159.banyan",
    "title": "祝延讚",
-   "category": "應用諸讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "159–160",
-   "glyphs": 88,
+   "glyphs": 87,
    "beats": 332.5,
-   "marks": 272,
+   "marks": 269,
    "rev": "2922b62ca4ca"
   },
   {
    "file": "位居補處-161.banyan",
    "title": "位居補處",
-   "category": "應用諸讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "161",
-   "glyphs": 120,
-   "beats": 293.0,
-   "marks": 252,
+   "glyphs": 119,
+   "beats": 292.0,
+   "marks": 241,
    "rev": "9e6e9e79fbdd"
   },
   {
    "file": "甚深智慧-162.banyan",
    "title": "甚深智慧",
-   "category": "應用諸讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "162",
-   "glyphs": 111,
-   "beats": 279.5,
-   "marks": 252,
+   "glyphs": 110,
+   "beats": 273.0,
+   "marks": 234,
    "rev": "cc7733232d32"
   },
   {
    "file": "其它讚語・佛功德不可量-163.banyan",
    "title": "其它讚語・佛功德不可量",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "163",
    "glyphs": 41,
-   "beats": 109.0,
-   "marks": 90,
+   "beats": 108.0,
+   "marks": 88,
    "rev": "97677ff7f0ff"
   },
   {
    "file": "瑤天玉露・南海普陀山-167.banyan",
    "title": "瑤天玉露・南海普陀山",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "167–168",
-   "glyphs": 76,
-   "beats": 275.0,
-   "marks": 214,
+   "glyphs": 75,
+   "beats": 274.0,
+   "marks": 212,
    "rev": "789e62cc973c"
   },
   {
    "file": "大悲觀世音・清淨法身佛-168.banyan",
    "title": "大悲觀世音・清淨法身佛",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "168–169",
-   "glyphs": 151,
-   "beats": 284.0,
-   "marks": 226,
+   "glyphs": 150,
+   "beats": 283.0,
+   "marks": 222,
    "rev": "0f7ba657d97e"
   },
   {
    "file": "志心信禮佛陀耶-169.banyan",
    "title": "志心信禮佛陀耶",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "169–170",
-   "glyphs": 79,
-   "beats": 242.0,
+   "glyphs": 78,
+   "beats": 242,
    "marks": 182,
    "rev": "55952aa5eb88"
   },
   {
    "file": "志心信禮達摩耶-170.banyan",
    "title": "志心信禮達摩耶",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "170–171",
-   "glyphs": 84,
-   "beats": 166.0,
+   "glyphs": 82,
+   "beats": 166,
    "marks": 124,
    "rev": "b3a4d14d11e5"
   },
   {
    "file": "志心信禮僧伽耶-171.banyan",
    "title": "志心信禮僧伽耶",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "171–172",
-   "glyphs": 83,
-   "beats": 128.0,
-   "marks": 96,
+   "glyphs": 80,
+   "beats": 128,
+   "marks": 95,
    "rev": "8506f9bd1802"
   },
   {
    "file": "稽首稽首稽首皈依佛・稽首皈依法・稽首皈依僧・稽首-172.banyan",
    "title": "稽首稽首稽首皈依佛・稽首皈依法・稽首皈依僧・稽首大覺尊",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "172–173",
-   "glyphs": 158,
-   "beats": 438.0,
-   "marks": 376,
+   "glyphs": 154,
+   "beats": 436.0,
+   "marks": 361,
    "rev": "d7369ece431d"
   },
   {
    "file": "稽首皈依阿彌陀・浴佛讚・九龍吐水-174.banyan",
    "title": "稽首皈依阿彌陀・浴佛讚・九龍吐水",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "174",
-   "glyphs": 74,
+   "glyphs": 71,
    "beats": 4.5,
    "marks": 9,
    "rev": "f08bf5f421f1"
@@ -684,29 +888,38 @@
   {
    "file": "菩薩下雲中-175.banyan",
    "title": "菩薩下雲中",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "175",
-   "glyphs": 118,
-   "beats": 261.5,
-   "marks": 223,
+   "glyphs": 117,
+   "beats": 260.5,
+   "marks": 212,
    "rev": "1c995f86659b"
   },
   {
    "file": "娑婆界我等本師-176.banyan",
    "title": "娑婆界我等本師",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "176–177",
-   "glyphs": 121,
-   "beats": 299.5,
-   "marks": 254,
+   "glyphs": 120,
+   "beats": 297.5,
+   "marks": 243,
    "rev": "8cc5fb5a586c"
   },
   {
    "file": "我今灌沐諸如來・送聖讚・佛慈廣大・佛歸靈鷲-177.banyan",
    "title": "我今灌沐諸如來・送聖讚・佛慈廣大・佛歸靈鷲",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "177",
-   "glyphs": 86,
+   "glyphs": 82,
    "beats": 92.0,
    "marks": 86,
    "rev": "e0d7b24e717e"
@@ -714,39 +927,51 @@
   {
    "file": "佛面猶如淨滿月・四八端嚴微妙相・五臺山上紫雲開・-180.banyan",
    "title": "佛面猶如淨滿月・四八端嚴微妙相・五臺山上紫雲開・演淨科儀・楊枝讚",
-   "category": "其它讚語",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "180–181",
-   "glyphs": 96,
+   "glyphs": 95,
    "beats": 196.5,
-   "marks": 181,
+   "marks": 176,
    "rev": "5cc02ddb698d"
   },
   {
    "file": "三寶讚-182.banyan",
    "title": "三寶讚",
-   "category": "演淨科儀",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "182–184",
-   "glyphs": 163,
+   "glyphs": 151,
    "beats": 263.0,
-   "marks": 218,
+   "marks": 217,
    "rev": "a7203d74a0d2"
   },
   {
    "file": "引魂法節-184.banyan",
    "title": "引魂法節",
-   "category": "引魂法節",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "184–192",
-   "glyphs": 623,
+   "glyphs": 603,
    "beats": 1013.5,
-   "marks": 791,
+   "marks": 790,
    "rev": "ead006e01fea"
   },
   {
    "file": "雜類用・某某寶懺萬德洪名・某某經卷功德多-192.banyan",
    "title": "雜類用・某某寶懺萬德洪名・某某經卷功德多",
-   "category": "雜類用",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "192",
-   "glyphs": 92,
+   "glyphs": 90,
    "beats": 146.5,
    "marks": 115,
    "rev": "cb26e046712a"
@@ -754,9 +979,12 @@
   {
    "file": "香焚東海千年秀-193.banyan",
    "title": "香焚東海千年秀",
-   "category": "雜類用",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "193–194",
-   "glyphs": 232,
+   "glyphs": 227,
    "beats": 439.0,
    "marks": 371,
    "rev": "9067e65682aa"
@@ -764,9 +992,12 @@
   {
    "file": "稽首禮五方-195.banyan",
    "title": "稽首禮五方",
-   "category": "雜類用",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "195–196",
-   "glyphs": 193,
+   "glyphs": 190,
    "beats": 345.0,
    "marks": 268,
    "rev": "181e59053804"
@@ -774,9 +1005,12 @@
   {
    "file": "大圓滿覺-197.banyan",
    "title": "大圓滿覺",
-   "category": "雜類用",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "197–199",
-   "glyphs": 129,
+   "glyphs": 126,
    "beats": 296.5,
    "marks": 232,
    "rev": "f15a30940a04"
@@ -784,9 +1018,12 @@
   {
    "file": "樂得有緣人-200.banyan",
    "title": "樂得有緣人",
-   "category": "雜類用",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "200–203",
-   "glyphs": 153,
+   "glyphs": 148,
    "beats": 375.0,
    "marks": 293,
    "rev": "77dc3ec8390a"
@@ -794,19 +1031,25 @@
   {
    "file": "春雨和風正及時-204.banyan",
    "title": "春雨和風正及時",
-   "category": "蓮池大師七筆勾",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "204–205",
-   "glyphs": 92,
-   "beats": 205.0,
-   "marks": 156,
+   "glyphs": 90,
+   "beats": 205,
+   "marks": 155,
    "rev": "0bea34560b1c"
   },
   {
    "file": "蓮池大師七筆勾-206.banyan",
    "title": "蓮池大師七筆勾",
-   "category": "蓮池大師七筆勾",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "206–209",
-   "glyphs": 262,
+   "glyphs": 257,
    "beats": 167.5,
    "marks": 150,
    "rev": "ef889cee211c"
@@ -814,9 +1057,12 @@
   {
    "file": "靈位前回向讚-209.banyan",
    "title": "靈位前回向讚",
-   "category": "附錄",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "209",
-   "glyphs": 67,
+   "glyphs": 66,
    "beats": 5.0,
    "marks": 10,
    "rev": "9038fe8560dd"
@@ -824,17 +1070,23 @@
   {
    "file": "第一大願觀想彌陀-210.banyan",
    "title": "第一大願觀想彌陀",
-   "category": "附錄",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "210",
-   "glyphs": 62,
-   "beats": 233.5,
-   "marks": 205,
+   "glyphs": 61,
+   "beats": 229.5,
+   "marks": 193,
    "rev": "15f5f4748889"
   },
   {
    "file": "徹悟禪師示眾-211.banyan",
    "title": "徹悟禪師示眾",
-   "category": "附錄",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "211–213",
    "glyphs": 31,
    "beats": 30.0,
@@ -844,17 +1096,23 @@
   {
    "file": "附佛菩薩聖誕日-215.banyan",
    "title": "附佛菩薩聖誕日",
-   "category": "附錄",
+   "category": "課誦本",
+   "categories": [
+    "課誦本"
+   ],
    "page": "215–217",
-   "glyphs": 664,
-   "beats": 26.0,
-   "marks": 60,
+   "glyphs": 456,
+   "beats": 3.5,
+   "marks": 9,
    "rev": "8e884a677897"
   },
   {
    "file": "01往昔所造諸惡業.banyan",
    "title": "01往昔所造諸惡業",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 28,
    "beats": 80,
@@ -865,6 +1123,9 @@
    "file": "02天廚妙供.banyan",
    "title": "02天廚妙供",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 59,
    "beats": 117,
@@ -875,46 +1136,61 @@
    "file": "03楊枝淨水.banyan",
    "title": "03楊枝淨水",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 59,
-   "beats": 133.5,
-   "marks": 135,
+   "beats": 160.5,
+   "marks": 166,
    "rev": "1f32f7c81bb3"
   },
   {
    "file": "04伽藍讚.banyan",
    "title": "04伽藍讚",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
-   "glyphs": 39,
-   "beats": 148.0,
-   "marks": 165,
+   "glyphs": 46,
+   "beats": 95.5,
+   "marks": 203,
    "rev": "bee45772af6c"
   },
   {
    "file": "05韋馱讚.banyan",
    "title": "05韋馱讚",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
-   "glyphs": 37,
-   "beats": 95,
-   "marks": 67,
+   "glyphs": 45,
+   "beats": 96.5,
+   "marks": 106,
    "rev": "d9134624da12"
   },
   {
    "file": "06我今灌沐諸如來.banyan",
    "title": "06我今灌沐諸如來",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 56,
-   "beats": 76,
-   "marks": 55,
+   "beats": 166,
+   "marks": 125,
    "rev": "00c75200c0de"
   },
   {
    "file": "07上供功德.banyan",
    "title": "07上供功德",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 95,
    "beats": 0.5,
@@ -925,6 +1201,9 @@
    "file": "08拔一切業障根本得生淨土陀羅尼1.banyan",
    "title": "08拔一切業障根本得生淨土陀羅尼",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 145,
    "beats": 0,
@@ -935,6 +1214,9 @@
    "file": "09蓮池讚.banyan",
    "title": "09蓮池讚",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 61,
    "beats": 231.0,
@@ -945,6 +1227,9 @@
    "file": "10娑婆界我等.banyan",
    "title": "10娑婆界我等",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 138,
    "beats": 132.5,
@@ -955,6 +1240,9 @@
    "file": "11燈晃耀.banyan",
    "title": "11燈晃耀",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 69,
    "beats": 124.0,
@@ -965,6 +1253,9 @@
    "file": "12花奉獻.banyan",
    "title": "12花奉獻",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 66,
    "beats": 271.5,
@@ -975,6 +1266,9 @@
    "file": "13曹溪水.banyan",
    "title": "13曹溪水",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 69,
    "beats": 194.0,
@@ -985,6 +1279,9 @@
    "file": "14衹園果.banyan",
    "title": "14衹園果",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 65,
    "beats": 188,
@@ -995,6 +1292,9 @@
    "file": "15拜願.banyan",
    "title": "15拜願",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 119,
    "beats": 201.5,
@@ -1005,6 +1305,9 @@
    "file": "16春先蕊.banyan",
    "title": "16春先蕊",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 65,
    "beats": 171.0,
@@ -1015,6 +1318,9 @@
    "file": "17佛面猶如淨滿月.banyan",
    "title": "17佛面猶如淨滿月",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 115,
    "beats": 172,
@@ -1025,6 +1331,9 @@
    "file": "18南無彌勒佛.banyan",
    "title": "18南無彌勒佛",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 163,
    "beats": 258,
@@ -1035,6 +1344,9 @@
    "file": "19天廚供.banyan",
    "title": "19天廚供",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 65,
    "beats": 186,
@@ -1045,6 +1357,9 @@
    "file": "20佛寶讚.banyan",
    "title": "20佛寶讚",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 67,
    "beats": 263.0,
@@ -1055,6 +1370,9 @@
    "file": "21讚佛偈.banyan",
    "title": "21讚佛偈",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 43,
    "beats": 70.5,
@@ -1065,6 +1383,9 @@
    "file": "22課誦本第一頁.banyan",
    "title": "22課誦本第一頁",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 32,
    "beats": 64.5,
@@ -1075,6 +1396,9 @@
    "file": "23清涼地菩薩.banyan",
    "title": "23清涼地菩薩",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 77,
    "beats": 96.0,
@@ -1085,6 +1409,9 @@
    "file": "24身金色.banyan",
    "title": "24身金色",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 102,
    "beats": 33.5,
@@ -1095,6 +1422,9 @@
    "file": "25南無甘露王.banyan",
    "title": "25南無甘露王",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 497,
    "beats": 45.0,
@@ -1105,6 +1435,9 @@
    "file": "26灑淨開光.banyan",
    "title": "26灑淨開光",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 678,
    "beats": 96.0,
@@ -1115,6 +1448,9 @@
    "file": "27瑤天玉露.banyan",
    "title": "27瑤天玉露",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 366,
    "beats": 1,
@@ -1125,6 +1461,9 @@
    "file": "28灑淨儀軌楊枝淨水.banyan",
    "title": "28灑淨儀軌楊枝淨水",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 43,
    "beats": 0,
@@ -1135,6 +1474,9 @@
    "file": "29浴佛讚.banyan",
    "title": "29浴佛讚",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 72,
    "beats": 191.0,
@@ -1145,6 +1487,9 @@
    "file": "30讚彌勒.banyan",
    "title": "30讚彌勒",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 149,
    "beats": 176.5,
@@ -1155,6 +1500,9 @@
    "file": "31香纔爇.banyan",
    "title": "31香纔爇",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 96,
    "beats": 43.0,
@@ -1165,6 +1513,9 @@
    "file": "32十万一切刹.banyan",
    "title": "32十万一切刹",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 181,
    "beats": 51.0,
@@ -1175,6 +1526,9 @@
    "file": "爐香讚.banyan",
    "title": "爐香讚",
    "category": "覺苑寺",
+   "categories": [
+    "覺苑寺"
+   ],
    "page": "",
    "glyphs": 59,
    "beats": 175.0,
