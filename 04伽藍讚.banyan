@@ -175,6 +175,20 @@
             "dashHalf",
             "dun"
           ],
+          "note" : {
+            "marks" : [
+              "space",
+              "space",
+              "space",
+              "space",
+              "space",
+              "daqing",
+              "space",
+              "space",
+              "space",
+              "comboDaqing"
+            ]
+          },
           "text" : "誠"
         },
         {
